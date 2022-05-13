@@ -1,5 +1,5 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Console", "Console\Console.vcxproj", "{4C4D5325-04BA-46C6-B7F5-2E0436F31905}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS_Project", "PS_Project.vcxproj", "{4C4D5325-04BA-46C6-B7F5-2E0436F31905}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
