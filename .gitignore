@@ -1,5 +1,6 @@
-# Temporal Directories
-.*/
+# Hidden Directories
+.idea
+.vs
 
 # Build
 x64/
