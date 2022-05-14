@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/1021
+﻿// https://www.acmicpc.net/problem/1021
 
 #include <cassert>
 #include <iostream>
@@ -6,7 +6,7 @@
 #include <queue>
 using namespace std;
 
-int main()
+int p1021()
 {    
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
