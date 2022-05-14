@@ -7,8 +7,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ\1021 회전하는 큐 v1.cpp" />
-    <ClCompile Include="BOJ\1021 회전하는 큐 v2.cpp">
+    <ClCompile Include="BOJ\1021 회전하는 큐.cpp" />
+    <ClCompile Include="BOJ\1021 회전하는 큐 v1.cpp">
       <RuntimeLibrary>MultiThreadedDebugDll</RuntimeLibrary>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <Optimization>Disabled</Optimization>

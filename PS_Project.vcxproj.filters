@@ -6,10 +6,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ\1021 회전하는 큐 v1.cpp">
+    <ClCompile Include="BOJ\1021 회전하는 큐.cpp">
       <Filter>BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ\1021 회전하는 큐 v2.cpp">
+    <ClCompile Include="BOJ\1021 회전하는 큐 v1.cpp">
       <Filter>BOJ</Filter>
     </ClCompile>
   </ItemGroup>
