@@ -12,5 +12,8 @@
     <ClCompile Include="BOJ\1021 회전하는 큐 v1.cpp">
       <Filter>BOJ</Filter>
     </ClCompile>
+    <ClCompile Include="1022 소용돌이 예쁘게 출력하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
