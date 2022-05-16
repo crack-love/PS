@@ -16,5 +16,8 @@
     <ClCompile Include="1021 회전하는 큐.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1025 제곱수 찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
