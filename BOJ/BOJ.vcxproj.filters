@@ -19,5 +19,8 @@
     <ClCompile Include="1025 제곱수 찾기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1024 수열의 합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
