@@ -24,6 +24,7 @@
     <ClCompile Include="1022 소용돌이 예쁘게 출력하기.cpp" />
     <ClCompile Include="1024 수열의 합.cpp" />
     <ClCompile Include="1025 제곱수 찾기.cpp" />
+    <ClCompile Include="1027 고층 건물.cpp" />
     <ClCompile Include="1034 램프.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

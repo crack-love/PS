@@ -25,5 +25,8 @@
     <ClCompile Include="1034 램프.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1027 고층 건물.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
