@@ -54,9 +54,3 @@ void p1034()
 
 	cout << answer << "\n";
 }
-
-int main()
-{
-	p1034();
-	return 0;
-}
