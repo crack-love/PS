@@ -43,7 +43,7 @@ void solve(string& n, int i, int k)
 	}
 }
 
-int main()
+int p1039()
 {
 	// 착오: 플러쉬 가능한 조건을 명확하게 하지 않았음
 
