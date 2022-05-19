@@ -21,7 +21,7 @@ ll lcm(ll a, ll b)
 	return a * b / gcd(a, b);
 }
 
-int main()
+int p1033()
 {
 	// spanning tree
 	// search to calc lcm, modify edge
