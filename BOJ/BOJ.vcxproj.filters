@@ -40,5 +40,8 @@
     <ClCompile Include="1038 감소하는 수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1069 집으로.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
