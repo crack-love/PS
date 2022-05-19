@@ -34,7 +34,7 @@
     <ClCompile Include="1029 그림 교환.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1026 보물.cpp">
+    <ClCompile Include="1033 칵테일.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
