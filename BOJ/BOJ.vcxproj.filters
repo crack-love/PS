@@ -43,5 +43,8 @@
     <ClCompile Include="1069 집으로.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1071 소트.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
