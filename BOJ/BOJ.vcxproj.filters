@@ -46,5 +46,8 @@
     <ClCompile Include="1071 소트.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1097 마법의 문자열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
