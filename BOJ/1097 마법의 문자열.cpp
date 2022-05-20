@@ -7,7 +7,7 @@
 #include <deque>
 using namespace std;
 
-int main()
+int p1097()
 {
 	// t(i) == t -> k개
 	// 문자열 리스트의 순열 조합
