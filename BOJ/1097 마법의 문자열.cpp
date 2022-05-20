@@ -1,4 +1,5 @@
 // https://www.acmicpc.net/problem/1097
+// platinum5
 
 #include <string>
 #include <iostream>
