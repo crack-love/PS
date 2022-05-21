@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int p1212()
 {
 	ios::sync_with_stdio(false);
 	cout.tie(nullptr);
