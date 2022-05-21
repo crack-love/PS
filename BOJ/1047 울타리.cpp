@@ -6,7 +6,7 @@
 #include <algorithm>
 using namespace std;
 
-int main()
+int p1047()
 {
 	// 4개의 점으로 이뤄진 모든 직사각형 조합 (n^4)
 	// 외부 나무 커트하고 내부 나무 순차로 커트하여 정답 확인
