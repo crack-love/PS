@@ -5,7 +5,7 @@
 #include <cstring>
 using namespace std;
 
-int main()
+int p1146()
 {
 	int n;
 	cin >> n;
