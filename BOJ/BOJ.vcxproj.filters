@@ -58,5 +58,8 @@
     <ClCompile Include="1146 지그재그 서기 v1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1212 8진수 2진수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

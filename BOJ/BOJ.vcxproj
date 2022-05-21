@@ -36,6 +36,7 @@
     <ClCompile Include="1097 마법의 문자열.cpp" />
     <ClCompile Include="1146 지그재그 서기 v1.cpp" />
     <ClCompile Include="1146 지그재그 서기.cpp" />
+    <ClCompile Include="1212 8진수 2진수.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
