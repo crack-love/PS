@@ -34,6 +34,7 @@
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="1071 소트.cpp" />
     <ClCompile Include="1097 마법의 문자열.cpp" />
+    <ClCompile Include="1149 지그재그 서기.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

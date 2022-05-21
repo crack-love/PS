@@ -52,5 +52,8 @@
     <ClCompile Include="1047 울타리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1149 지그재그 서기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
