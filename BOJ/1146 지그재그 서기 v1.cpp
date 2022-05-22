@@ -28,7 +28,7 @@ int solve(int lcnt, int rcnt)
 	return d[lcnt][rcnt] = sum;
 }
 
-int main()
+int p1149v1()
 {
 	int n; // [1 20]
 	cin >> n;
