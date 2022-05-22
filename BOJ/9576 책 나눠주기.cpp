@@ -1,27 +1,26 @@
 // https://www.acmicpc.net/problem/9576
 // gold1
 
-#include <vector>
 #include <iostream>
 #include <cstring>
+#include <utility>
 using namespace std;
 
 struct p9576
 {
-	pair<int, int> r[1001];
-	bool nFixed[1001];
+	pair<int, int> range[1001];
+	bool mFixed[1001];
 	int eLinkTo[1001];
 
 	bool tryLink(int x)
 	{
-		nFixed[x] = true;
+		if (mFixed[x]) return false;
+		mFixed[x] = true;
 
-		int s = r[x].first;
-		int e = r[x].second + 1;
+		int s = range[x].first;
+		int e = range[x].second + 1;
 		for (int i = s; i < e; ++i)
 		{
-			if (nFixed[eLinkTo[i]]) continue;
-
 			if (eLinkTo[i] == -1 || tryLink(eLinkTo[i]))
 			{
 				eLinkTo[i] = x;
@@ -38,21 +37,24 @@ struct p9576
 		cin >> t;
 		while (t--)
 		{
-			int n, m;
+			memset(range, 0, sizeof(range));
+			memset(mFixed, 0, sizeof(mFixed));
+			memset(eLinkTo, -1, sizeof(eLinkTo));
+
+			int n, m; // [1 1000]
 			cin >> n >> m;
-			for (int i = 0; i < m; ++i)
+			for (int i = 1; i <= m; ++i)
 			{
-				int a, b;
+				int a, b; // [1 n]
 				cin >> a >> b;
-				r[i] = { a, b };
+				range[i] = { a, b };
 			}
 
-			memset(eLinkTo, -1, sizeof(int) * m);
-
 			int answer = 0;
-			for (int i = 0; i < n; ++i)
+			for (int i = 1; i <= m; ++i)
 			{
-				memset(nFixed, false, sizeof(bool) * n);
+				memset(mFixed, false, sizeof(mFixed));
+
 				if (tryLink(i))
 				{
 					++answer;
@@ -65,8 +67,3 @@ struct p9576
 		return 0;
 	}
 };
-
-int main()
-{
-	p9576().main();
-}
