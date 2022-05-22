@@ -6,7 +6,7 @@
 #include <queue>
 using namespace std;
 
-int p1021v2()
+int p1021v1()
 {
     // 한 방향으로 큐 회전하여 찾기
     // 최소 델타 선택 (반대 방향 델타는 유도됨) 

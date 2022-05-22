@@ -22,7 +22,7 @@ int p1069()
 	answer = min(answer, abs(d1) + t);
 
 	// 점프를 n번 하고 남은 거리는 걸어 들어오는 경우
-	int div = dist / d;
+	int div = (int)(dist / d);
 	double d2 = dist - d * div;
 	answer = min(answer, d2 + t * div);
 

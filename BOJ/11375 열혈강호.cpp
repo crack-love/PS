@@ -6,61 +6,64 @@
 #include <cstring>
 using namespace std;
 
-vector<int> edges[1001];
-bool nFixed[1001];
-int eLink[1001];
-
-// O(m)
-bool link(int x)
+struct p11375
 {
-	if (nFixed[x]) return false;
-	nFixed[x] = true;
+	vector<int> edges[1001];
+	bool nFixed[1001];
+	int eLink[1001];
 
-	for (int e : edges[x])
+	// O(m)
+	bool link(int x)
 	{
-		if (eLink[e] == -1 || link(eLink[e]))
+		if (nFixed[x]) return false;
+		nFixed[x] = true;
+
+		for (int e : edges[x])
 		{
-			eLink[e] = x;
-			return true;
+			if (eLink[e] == -1 || link(eLink[e]))
+			{
+				eLink[e] = x;
+				return true;
+			}
 		}
+
+		return false;
 	}
 
-	return false;
-}
-
-int p11375()
-{
-	// ÀÌºÐ¸ÅÄª
-
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-
-	int n, m;
-	cin >> n >> m;
-	for (int i = 0; i < n; ++i)
+	int main()
 	{
-		int c, w;
-		cin >> c;
-		while (c--)
+		// ÀÌºÐ¸ÅÄª
+
+		ios::sync_with_stdio(false);
+		cin.tie(nullptr);
+
+		int n, m;
+		cin >> n >> m;
+		for (int i = 0; i < n; ++i)
 		{
-			cin >> w;
-			edges[i].push_back(w);
+			int c, w;
+			cin >> c;
+			while (c--)
+			{
+				cin >> w;
+				edges[i].push_back(w);
+			}
 		}
-	}
 
-	memset(eLink, -1, sizeof(eLink));
+		memset(eLink, -1, sizeof(eLink));
 
-	int answer = 0;
-	for (int i = 0; i < n; ++i)
-	{
-		memset(nFixed, false, sizeof(nFixed));
-
-		if (link(i))
+		int answer = 0;
+		for (int i = 0; i < n; ++i)
 		{
-			++answer;
-		}
-	}
+			memset(nFixed, false, sizeof(nFixed));
 
-	cout << answer;
-	return 0;
-}
+			if (link(i))
+			{
+				++answer;
+			}
+		}
+
+		cout << answer;
+		return 0;
+	}
+};

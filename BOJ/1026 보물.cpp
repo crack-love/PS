@@ -5,7 +5,8 @@
 #include <cstdio>
 #include <algorithm>
 const int MAX = 51;
-int main()
+
+int p1026()
 {
 	int a[MAX], b[MAX], n;
 	scanf("%d", &n);

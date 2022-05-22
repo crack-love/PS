@@ -96,7 +96,7 @@ int p1022()
 	}
 
 	// print	
-	int width = floor(log10(maxValue)) + 1;
+	int width = (int)floor(log10(maxValue)) + 1;
 	for (int i = 0; i <= r2 - r1; ++i)
 	{
 		for (int j = 0; j <= c2 - c1; ++j)

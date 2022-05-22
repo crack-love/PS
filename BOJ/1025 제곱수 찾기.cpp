@@ -31,7 +31,7 @@ void p1025()
 			if (value > maxSqr)
 			{
 				double srv = sqrt(value);
-				int rcv = round(ceil(srv));
+				int rcv = (int)round(ceil(srv));
 
 				if (rcv * rcv == value)
 				{

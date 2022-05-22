@@ -15,6 +15,7 @@ void p1024()
 	{
 		if (y % 2 == 0) return (x + x + y - 1) * y / 2;
 		if (y % 2 == 1) return (x + x + y) * (y + 1) / 2 - (x + y);
+		return 0ll;
 	};
 
 	ll n, l;
@@ -26,7 +27,7 @@ void p1024()
 	for (int len = l; len <= 100; ++len)
 	{
 		int left = 0;
-		int right = 1e9 + 1;
+		int right = (int)(1e9 + 1);
 
 		while (left < right)
 		{
