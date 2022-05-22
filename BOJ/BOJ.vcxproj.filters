@@ -61,5 +61,8 @@
     <ClCompile Include="1212 8진수 2진수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11375 열혈강호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
