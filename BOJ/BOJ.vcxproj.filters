@@ -73,5 +73,8 @@
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1867 돌멩이 제거.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
