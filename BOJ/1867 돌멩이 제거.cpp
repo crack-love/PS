@@ -6,7 +6,7 @@
 #include <cstring>
 using namespace std;
 
-int main()
+int p1867()
 {
 	// 최대 이분 매칭
 
