@@ -76,5 +76,8 @@
     <ClCompile Include="1867 돌멩이 제거.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11376 열혈강호2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
