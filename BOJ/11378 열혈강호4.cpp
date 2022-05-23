@@ -95,4 +95,4 @@ struct p11378
 		cout << answer;
 		return 0;
 	}
-}
+};
