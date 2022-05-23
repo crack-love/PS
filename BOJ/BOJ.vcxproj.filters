@@ -82,5 +82,8 @@
     <ClCompile Include="11377 열혈강호3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11378 열혈강호4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
