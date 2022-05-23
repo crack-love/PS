@@ -92,6 +92,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <StackReserveSize>52428800</StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -157,6 +158,7 @@
     <ClCompile Include="1097 마법의 문자열.cpp" />
     <ClCompile Include="11375 열혈강호.cpp" />
     <ClCompile Include="11376 열혈강호2.cpp" />
+    <ClCompile Include="11377 열혈강호3.cpp" />
     <ClCompile Include="1146 지그재그 서기 v1.cpp" />
     <ClCompile Include="1146 지그재그 서기.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
