@@ -8,71 +8,74 @@
 #include <algorithm>
 using namespace std;
 
-vector<int> edges[50];
-bool visited[50];
-int linkFrom[50];
-
-bool tryLink(int x)
+struct p1671
 {
-	visited[x] = true;
+	vector<int> edges[50];
+	bool visited[50];
+	int linkFrom[50];
 
-	for (int e : edges[x])
+	bool tryLink(int x)
 	{
-		int ex = linkFrom[e];
-		if (ex != -1)
+		visited[x] = true;
+
+		for (int e : edges[x])
 		{
-			if (visited[ex]) continue;
-			if (!tryLink(ex)) continue;
+			int ex = linkFrom[e];
+			if (ex != -1)
+			{
+				if (visited[ex]) continue;
+				if (!tryLink(ex)) continue;
+			}
+
+			linkFrom[e] = x;
+			return true;
 		}
 
-		linkFrom[e] = x;
-		return true;
+		return false;
 	}
 
-	return false;
-}
+	int main()
+	{
+		// 이분매칭 (2번)
+		// 어떤 상어를 잡아먹은 상어는 잡아먹힐 수 있다
+		// 상어는 서로 잡아먹을 수 없다
 
-int main()
-{
-	// 이분매칭 (2번)
-	// 어떤 상어를 잡아먹은 상어는 잡아먹힐 수 있다
-	// 상어는 서로 잡아먹을 수 없다
+		int n;
+		cin >> n;
+		int a[50], b[50], c[50];
+		for (int i = 0; i < n; ++i)
+			cin >> a[i] >> b[i] >> c[i];
 
-	int n;
-	cin >> n;
-	int a[50], b[50], c[50];
-	for (int i = 0; i < n; ++i)
-		cin >> a[i] >> b[i] >> c[i];
-
-	for (int i = 0; i < n; ++i)
-		for (int j = 0; j < n; ++j)
-		{
-			if (i == j) continue;
-			if (a[i] >= a[j] && b[i] >= b[j] && c[i] >= c[j])
+		for (int i = 0; i < n; ++i)
+			for (int j = 0; j < n; ++j)
 			{
-				if (a[i] == a[j] && b[i] == b[j] && c[i] == c[j])
+				if (i == j) continue;
+				if (a[i] >= a[j] && b[i] >= b[j] && c[i] >= c[j])
 				{
-					if (i < j)
+					if (a[i] == a[j] && b[i] == b[j] && c[i] == c[j])
+					{
+						if (i < j)
+							edges[i].push_back(j);
+					}
+					else
+					{
 						edges[i].push_back(j);
-				}
-				else
-				{
-					edges[i].push_back(j);
+					}
 				}
 			}
+
+		memset(linkFrom, -1, sizeof(linkFrom));
+
+		int answer = n;
+		for (int i = 0; i < n * 2; ++i)
+		{
+			memset(visited, 0, sizeof(visited));
+
+			if (tryLink(i / 2))
+				--answer;
 		}
 
-	memset(linkFrom, -1, sizeof(linkFrom));
-
-	int answer = n;
-	for (int i = 0; i < n * 2; ++i)
-	{
-		memset(visited, 0, sizeof(visited));
-
-		if (tryLink(i / 2))
-			--answer;
+		cout << answer;
+		return 0;
 	}
-
-	cout << answer;
-	return 0;
-}
+};
