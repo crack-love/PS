@@ -94,5 +94,8 @@
     <ClCompile Include="2570 비숍2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2414 게시판 구멍 막기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
