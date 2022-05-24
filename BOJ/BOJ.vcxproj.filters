@@ -85,5 +85,8 @@
     <ClCompile Include="11378 열혈강호4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1671 상어의 저녁식사.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
