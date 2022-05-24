@@ -167,6 +167,7 @@
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
+    <ClCompile Include="2570 비숍2.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

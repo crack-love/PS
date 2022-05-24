@@ -91,5 +91,8 @@
     <ClCompile Include="11014 컨닝 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2570 비숍2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
