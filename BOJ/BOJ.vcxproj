@@ -156,10 +156,11 @@
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="1071 소트.cpp" />
     <ClCompile Include="1097 마법의 문자열.cpp" />
+    <ClCompile Include="11014 컨닝 2.cpp" />
     <ClCompile Include="11375 열혈강호.cpp" />
-    <ClCompile Include="11376 열혈강호2.cpp" />
-    <ClCompile Include="11377 열혈강호3.cpp" />
-    <ClCompile Include="11378 열혈강호4.cpp" />
+    <ClCompile Include="11376 열혈강호 2.cpp" />
+    <ClCompile Include="11377 열혈강호 3.cpp" />
+    <ClCompile Include="11378 열혈강호 4.cpp" />
     <ClCompile Include="1146 지그재그 서기 v1.cpp" />
     <ClCompile Include="1146 지그재그 서기.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
