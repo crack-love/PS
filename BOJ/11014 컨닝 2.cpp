@@ -13,105 +13,108 @@
 #include <cassert>
 using namespace std;
 
-const int dx[] = { -1, -1, 0, 0, 1, 1 };
-const int dy[] = { -1, 1, -1, 1, -1, 1 };
-
-char grid[80][81] = {};
-vector<int> edge[6400];
-bool visited[6400];
-int parent[6400];
-
-bool tryLink(int x)
+struct p11014
 {
-	visited[x] = true;
+	const int dx[6] = { -1, -1, 0, 0, 1, 1 };
+	const int dy[6] = { -1, 1, -1, 1, -1, 1 };
 
-	for (int e : edge[x])
+	char grid[80][81] = {};
+	vector<int> edge[6400];
+	bool visited[6400];
+	int parent[6400];
+
+	bool tryLink(int x)
 	{
-		if (visited[e]) continue;
-		
-		int ep = parent[e];
-		if (ep != -1)
+		visited[x] = true;
+
+		for (int e : edge[x])
 		{
-			if (visited[ep]) continue;
-			
-			visited[e] = true;
-			if (!tryLink(ep)) 
+			if (visited[e]) continue;
+
+			int ep = parent[e];
+			if (ep != -1)
 			{
-				visited[e] = false;
-				continue;
-			}
-		}
+				if (visited[ep]) continue;
 
-		parent[e] = x;
-		return true;
-	}
-
-	return false;
-}
-
-inline int serial(int x, int y)
-{
-	assert(x * 80 + y < 6400);
-	return x * 80 + y;
-}
-
-int main()
-{
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
-
-	int c;
-	cin >> c;
-	while (c--)
-	{
-		int n, m; // [1 80]
-		cin >> n >> m;
-		for (int i = 0; i < n; ++i)
-		{
-			cin >> grid[i];
-		}
-
-		int space = 0;
-		for (int i = 0; i < n; ++i)
-		{
-			for (int j = 0; j < m; ++j)
-			{
-				int sidx = serial(i,j);
-				edge[sidx].clear();
-
-				if (grid[i][j] == 'x') continue;
-				else space += 1;
-
-				for (int k = 0; k < 6; ++k)
+				visited[e] = true;
+				if (!tryLink(ep))
 				{
-					int nx = i + dx[k];
-					int ny = j + dy[k];
-					if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
-					if (grid[nx][ny] == 'x') continue;
-
-					int nsidx = serial(nx, ny);
-					edge[sidx].push_back(nsidx);
+					visited[e] = false;
+					continue;
 				}
 			}
+
+			parent[e] = x;
+			return true;
 		}
 
-		memset(parent, -1, sizeof parent);
-
-		for (int i = 0; i < n; ++i)
-		{
-			for (int j = 0; j < m; j += 2)
-			{
-				memset(visited, 0, sizeof visited);
-
-				if (tryLink(serial(i,j)))
-				{
-					--space;
-				}
-			}
-		}
-
-		cout << space << "\n";
+		return false;
 	}
 
-	return 0;
-}
+	inline int serial(int x, int y)
+	{
+		assert(x * 80 + y < 6400);
+		return x * 80 + y;
+	}
+
+	int main()
+	{
+		ios::sync_with_stdio(false);
+		cin.tie(nullptr);
+
+		int c;
+		cin >> c;
+		while (c--)
+		{
+			int n, m; // [1 80]
+			cin >> n >> m;
+			for (int i = 0; i < n; ++i)
+			{
+				cin >> grid[i];
+			}
+
+			int space = 0;
+			for (int i = 0; i < n; ++i)
+			{
+				for (int j = 0; j < m; ++j)
+				{
+					int sidx = serial(i, j);
+					edge[sidx].clear();
+
+					if (grid[i][j] == 'x') continue;
+					else space += 1;
+
+					for (int k = 0; k < 6; ++k)
+					{
+						int nx = i + dx[k];
+						int ny = j + dy[k];
+						if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
+						if (grid[nx][ny] == 'x') continue;
+
+						int nsidx = serial(nx, ny);
+						edge[sidx].push_back(nsidx);
+					}
+				}
+			}
+
+			memset(parent, -1, sizeof parent);
+
+			for (int i = 0; i < n; ++i)
+			{
+				for (int j = 0; j < m; j += 2)
+				{
+					memset(visited, 0, sizeof visited);
+
+					if (tryLink(serial(i, j)))
+					{
+						--space;
+					}
+				}
+			}
+
+			cout << space << "\n";
+		}
+
+		return 0;
+	}
+};
