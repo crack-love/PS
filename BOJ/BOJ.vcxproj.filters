@@ -109,5 +109,8 @@
     <ClCompile Include="9525 룩 배치하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1760 N-Rook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

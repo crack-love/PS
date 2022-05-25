@@ -167,6 +167,7 @@
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="15650 N과 M (2).cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
+    <ClCompile Include="1760 N-Rook.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
     <ClCompile Include="2191 들쥐의 탈출.cpp" />
     <ClCompile Include="2414 게시판 구멍 막기.cpp" />
