@@ -161,6 +161,7 @@
     <ClCompile Include="11376 열혈강호 2.cpp" />
     <ClCompile Include="11377 열혈강호 3.cpp" />
     <ClCompile Include="11378 열혈강호 4.cpp" />
+    <ClCompile Include="11406 책 구매하기 2.cpp" />
     <ClCompile Include="1146 지그재그 서기 v1.cpp" />
     <ClCompile Include="1146 지그재그 서기.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
