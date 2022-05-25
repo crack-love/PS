@@ -164,6 +164,7 @@
     <ClCompile Include="11406 책 구매하기 2.cpp" />
     <ClCompile Include="1146 지그재그 서기 v1.cpp" />
     <ClCompile Include="1146 지그재그 서기.cpp" />
+    <ClCompile Include="11670 초등 수학.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="14433 한조 대기 중.cpp" />
