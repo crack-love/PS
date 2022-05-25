@@ -106,5 +106,8 @@
     <ClCompile Include="9577 토렌트.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9525 룩 배치하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
