@@ -165,11 +165,14 @@
     <ClCompile Include="1146 지그재그 서기.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
+    <ClCompile Include="15650 N과 M (2).cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
+    <ClCompile Include="2191 들쥐의 탈출.cpp" />
     <ClCompile Include="2414 게시판 구멍 막기.cpp" />
     <ClCompile Include="2570 비숍2.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
+    <ClCompile Include="9577 토렌트.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
