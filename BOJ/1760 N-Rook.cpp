@@ -109,8 +109,3 @@ struct p1760
 		return 0;
 	}
 };
-
-int main()
-{
-	p1760().main();
-}
