@@ -133,5 +133,8 @@
     <ClCompile Include="17481 최애 정하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1507 궁금한 민호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
