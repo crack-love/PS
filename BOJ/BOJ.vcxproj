@@ -172,6 +172,7 @@
     <ClCompile Include="1507 궁금한 민호.cpp" />
     <ClCompile Include="15650 N과 M (2).cpp" />
     <ClCompile Include="1574 룩 어택.cpp" />
+    <ClCompile Include="1613 역사.cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp" />
     <ClCompile Include="17481 최애 정하기.cpp" />

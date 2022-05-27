@@ -145,5 +145,8 @@
     <ClCompile Include="10159 저울.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1613 역사.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
