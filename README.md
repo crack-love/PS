@@ -4,7 +4,9 @@ C++
 # Environment
 Visual Studio 2019
 
-# Complete Algorithms
+# Algorithm
+
+## Complete
 - ÀÌºÐ Å½»ö binary search
 
 ### Graphs
