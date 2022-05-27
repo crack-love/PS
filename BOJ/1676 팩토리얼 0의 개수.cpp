@@ -50,8 +50,3 @@ struct p1676
 		return 0;
 	}
 };
-
-int main()
-{
-	p1676().main();
-}
