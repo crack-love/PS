@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10159 저울.cpp" />
     <ClCompile Include="1021 회전하는 큐 v1.cpp" />
     <ClCompile Include="1021 회전하는 큐.cpp" />
     <ClCompile Include="1022 소용돌이 예쁘게 출력하기.cpp" />

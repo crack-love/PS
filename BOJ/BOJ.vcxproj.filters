@@ -142,5 +142,8 @@
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10159 저울.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
