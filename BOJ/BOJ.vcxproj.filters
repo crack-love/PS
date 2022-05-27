@@ -155,4 +155,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Algorithm.md">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
