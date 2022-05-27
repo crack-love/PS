@@ -151,5 +151,8 @@
     <ClCompile Include="1561 놀이 공원.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1654 랜선 자르기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
