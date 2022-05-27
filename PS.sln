@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOJ", "BOJ\BOJ.vcxproj", "{42C67703-7BE1-47DA-8EF9-2BFFC142064F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{034B2E79-692B-4065-AA57-71A27D24622F}"
+	ProjectSection(SolutionItems) = preProject
+		Algorithm.md = Algorithm.md
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
