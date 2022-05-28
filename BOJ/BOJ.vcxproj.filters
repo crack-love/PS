@@ -163,5 +163,8 @@
     <ClCompile Include="2159 케익 배달.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1157 단어 공부.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
