@@ -154,5 +154,8 @@
     <ClCompile Include="1654 랜선 자르기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2660 회장뽑기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
