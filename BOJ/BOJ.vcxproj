@@ -169,6 +169,7 @@
     <ClCompile Include="1212 8진수 2진수.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="14433 한조 대기 중.cpp" />
+    <ClCompile Include="14938 서강그라운드.cpp" />
     <ClCompile Include="1507 궁금한 민호.cpp" />
     <ClCompile Include="1561 놀이 공원.cpp" />
     <ClCompile Include="15650 N과 M (2).cpp" />
