@@ -8,7 +8,9 @@ Visual Studio 2019
 
 ## Complete
 - 이분 탐색 binary search
-
-### Graphs
+### Graph
 - 이분 매칭 biparite matching
 - 플로이드-와샬 floyd-warshall
+
+## Pending
+- 다이나믹 프로그래밍 dynamic programming
