@@ -182,6 +182,7 @@
     <ClCompile Include="1760 N-Rook.cpp" />
     <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
+    <ClCompile Include="2159 케익 배달.cpp" />
     <ClCompile Include="2191 들쥐의 탈출.cpp" />
     <ClCompile Include="2414 게시판 구멍 막기.cpp" />
     <ClCompile Include="2458 키 순서.cpp" />
