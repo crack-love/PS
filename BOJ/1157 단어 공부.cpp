@@ -1,5 +1,5 @@
 // https://www.acmicpc.net/problem/1157
-// bronze 1
+// bronze1
 
 #include <iostream>
 #include <string>
