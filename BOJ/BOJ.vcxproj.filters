@@ -166,5 +166,8 @@
     <ClCompile Include="1157 단어 공부.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2617 구슬 찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
