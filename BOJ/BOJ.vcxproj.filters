@@ -172,5 +172,8 @@
     <ClCompile Include="2610 회의준비.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1058 친구.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
