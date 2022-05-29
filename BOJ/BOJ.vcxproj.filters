@@ -175,5 +175,8 @@
     <ClCompile Include="1058 친구.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2186 문자판.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
