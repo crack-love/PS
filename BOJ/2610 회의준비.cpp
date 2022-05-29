@@ -119,8 +119,3 @@ struct p2610
 		return 0;
 	}
 };
-
-int main()
-{
-	p2610().main();
-}
