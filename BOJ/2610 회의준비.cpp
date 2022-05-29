@@ -47,6 +47,8 @@ struct p2610
 		vector<int> elements;
 		queue<int> q;
 
+		// (group 분리하지 않고
+		// floyd warshall 에서 이미 계산된 점을 이용할 수 있다)
 		while (true)
 		{
 			// find new group
