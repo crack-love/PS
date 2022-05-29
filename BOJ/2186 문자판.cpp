@@ -42,6 +42,9 @@ struct p2186
 
 	int main()
 	{
+		ios::sync_with_stdio(0);
+		cin.tie(0);
+		
 		cin >> N >> M >> K;
 		for (int i = 0; i < N; ++i)
 		{
