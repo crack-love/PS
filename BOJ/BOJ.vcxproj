@@ -187,6 +187,7 @@
     <ClCompile Include="2159 케익 배달.cpp" />
     <ClCompile Include="2186 문자판.cpp" />
     <ClCompile Include="2191 들쥐의 탈출.cpp" />
+    <ClCompile Include="2285 우체국.cpp" />
     <ClCompile Include="2414 게시판 구멍 막기.cpp" />
     <ClCompile Include="2458 키 순서.cpp" />
     <ClCompile Include="2570 비숍2.cpp" />

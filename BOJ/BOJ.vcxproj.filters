@@ -178,5 +178,8 @@
     <ClCompile Include="2186 문자판.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2285 우체국.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
