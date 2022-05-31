@@ -187,6 +187,9 @@
     <ClCompile Include="2343 기타 레슨.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6988 타일 밟기.dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
