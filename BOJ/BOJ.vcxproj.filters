@@ -184,6 +184,9 @@
     <ClCompile Include="2342 Dance Dance Revolution.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2343 기타 레슨.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
