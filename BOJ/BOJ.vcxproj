@@ -199,6 +199,7 @@
     <ClCompile Include="3683 고양이와 개.cpp" />
     <ClCompile Include="6988 타일 밟기.dp.cpp" />
     <ClCompile Include="6988 타일 밟기.for.cpp" />
+    <ClCompile Include="9019 DSLR.cpp" />
     <ClCompile Include="9525 룩 배치하기.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />

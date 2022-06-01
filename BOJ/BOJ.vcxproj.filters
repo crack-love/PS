@@ -193,6 +193,9 @@
     <ClCompile Include="6988 타일 밟기.for.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9019 DSLR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
