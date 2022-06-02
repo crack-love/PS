@@ -167,6 +167,7 @@
     <ClCompile Include="1146 지그재그 서기 v1.cpp" />
     <ClCompile Include="1146 지그재그 서기.cpp" />
     <ClCompile Include="1157 단어 공부.cpp" />
+    <ClCompile Include="11657 타임머신.cpp" />
     <ClCompile Include="11670 초등 수학.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
@@ -203,6 +204,7 @@
     <ClCompile Include="9525 룩 배치하기.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
+    <ClCompile Include="9613 GCD 합.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

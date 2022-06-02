@@ -196,6 +196,12 @@
     <ClCompile Include="9019 DSLR.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9613 GCD 합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11657 타임머신.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
