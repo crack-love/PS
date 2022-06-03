@@ -202,6 +202,9 @@
     <ClCompile Include="11657 타임머신.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10971 외판원 순회 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

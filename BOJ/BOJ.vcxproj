@@ -158,6 +158,7 @@
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="1071 소트.cpp" />
     <ClCompile Include="1097 마법의 문자열.cpp" />
+    <ClCompile Include="10971 외판원 순회 2.cpp" />
     <ClCompile Include="11014 컨닝 2.cpp" />
     <ClCompile Include="11375 열혈강호.cpp" />
     <ClCompile Include="11376 열혈강호 2.cpp" />
