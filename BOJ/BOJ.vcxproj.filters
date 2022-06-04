@@ -205,6 +205,12 @@
     <ClCompile Include="10971 외판원 순회 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10816 숫자 카드 2.stl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10816 숫자 카드 2.imp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
