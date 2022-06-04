@@ -157,6 +157,7 @@
     <ClCompile Include="1058 친구.cpp" />
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="1071 소트.cpp" />
+    <ClCompile Include="10815 숫자 카드.cpp" />
     <ClCompile Include="10816 숫자 카드 2.imp.cpp" />
     <ClCompile Include="10816 숫자 카드 2.stl.cpp" />
     <ClCompile Include="1097 마법의 문자열.cpp" />
