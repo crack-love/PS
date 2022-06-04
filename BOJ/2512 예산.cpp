@@ -4,10 +4,10 @@
 #include <iostream>
 using namespace std;
 
-#define max(a,b) (a<b?b:a)
-
 struct p2512
 {
+#define max(a,b) (a<b?b:a)
+
 	int main()
 	{
 		ios::sync_with_stdio(0);
