@@ -223,6 +223,9 @@
     <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1300 k번째 수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
