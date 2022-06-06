@@ -229,6 +229,12 @@
     <ClCompile Include="1072 게임.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2467 용액.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2473 세 용액.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

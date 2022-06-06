@@ -200,7 +200,9 @@
     <ClCompile Include="2343 기타 레슨.cpp" />
     <ClCompile Include="2414 게시판 구멍 막기.cpp" />
     <ClCompile Include="2458 키 순서.cpp" />
+    <ClCompile Include="2467 용액.cpp" />
     <ClCompile Include="2470 두 용액.cpp" />
+    <ClCompile Include="2473 세 용액.cpp" />
     <ClCompile Include="2512 예산.cpp" />
     <ClCompile Include="2570 비숍2.cpp" />
     <ClCompile Include="2610 회의준비.cpp" />
