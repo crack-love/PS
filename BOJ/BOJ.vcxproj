@@ -176,8 +176,10 @@
     <ClCompile Include="11670 초등 수학.cpp" />
     <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
+    <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="1300 k번째 수.cpp" />
+    <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp" />
     <ClCompile Include="14433 한조 대기 중.cpp" />
     <ClCompile Include="14938 서강그라운드.cpp" />
     <ClCompile Include="1507 궁금한 민호.cpp" />

@@ -238,6 +238,12 @@
     <ClCompile Include="1939 중량제한.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
