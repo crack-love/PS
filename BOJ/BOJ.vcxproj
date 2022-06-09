@@ -92,7 +92,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <StackReserveSize>52428800</StackReserveSize>
+      <StackReserveSize>524288000</StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -214,6 +214,9 @@
     <ClCompile Include="3683 고양이와 개.cpp" />
     <ClCompile Include="6988 타일 밟기.dp.cpp" />
     <ClCompile Include="6988 타일 밟기.for.cpp" />
+    <ClCompile Include="7453 합이 0인 네 정수.v1.imp.cpp" />
+    <ClCompile Include="7453 합이 0인 네 정수.v0.stl.cpp" />
+    <ClCompile Include="7453 합이 0인 네 정수.v2.fast.cpp" />
     <ClCompile Include="9019 DSLR.cpp" />
     <ClCompile Include="9525 룩 배치하기.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
