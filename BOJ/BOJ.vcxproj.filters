@@ -253,6 +253,9 @@
     <ClCompile Include="7453 합이 0인 네 정수.v2.fast.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2352 반도체 설계.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
