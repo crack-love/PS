@@ -256,6 +256,9 @@
     <ClCompile Include="2352 반도체 설계.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2243 사탕상자.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
