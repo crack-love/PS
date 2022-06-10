@@ -214,6 +214,7 @@
     <ClCompile Include="2617 구슬 찾기.cpp" />
     <ClCompile Include="2660 회장뽑기.cpp" />
     <ClCompile Include="3683 고양이와 개.cpp" />
+    <ClCompile Include="5622 다이얼.cpp" />
     <ClCompile Include="6988 타일 밟기.dp.cpp" />
     <ClCompile Include="6988 타일 밟기.for.cpp" />
     <ClCompile Include="7453 합이 0인 네 정수.v1.imp.cpp" />
