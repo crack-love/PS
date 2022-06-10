@@ -1,4 +1,5 @@
 // https://www.acmicpc.net/problem/2243
+// platinum5
 
 #include <iostream>
 using namespace std;
