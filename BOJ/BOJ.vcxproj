@@ -195,6 +195,7 @@
     <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
     <ClCompile Include="1939 중량제한.cpp" />
+    <ClCompile Include="2042 구간 합 구하기.cpp" />
     <ClCompile Include="2159 케익 배달.cpp" />
     <ClCompile Include="2186 문자판.cpp" />
     <ClCompile Include="2191 들쥐의 탈출.cpp" />
@@ -228,6 +229,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
+    <Text Include="output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
