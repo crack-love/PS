@@ -277,6 +277,9 @@
     <ClCompile Include="7578 공장.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2517 달리기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
