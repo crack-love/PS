@@ -163,6 +163,7 @@
     <ClCompile Include="10816 숫자 카드 2.stl.cpp" />
     <ClCompile Include="1097 마법의 문자열.cpp" />
     <ClCompile Include="10971 외판원 순회 2.cpp" />
+    <ClCompile Include="10999 구간 합 구하기 2.cpp" />
     <ClCompile Include="11014 컨닝 2.cpp" />
     <ClCompile Include="11375 열혈강호.cpp" />
     <ClCompile Include="11376 열혈강호 2.cpp" />
