@@ -7,15 +7,15 @@ Visual Studio 2022
 # Algorithm
 ## Complete
 ### Graph
-- ÀÌºĞ ¸ÅÄª biparite matching
-- ÇÃ·ÎÀÌµå-¿Í¼£ floyd-warshall
-### Search
-- ÀÌºĞ Å½»ö binary search
+- ì´ë¶„ ë§¤ì¹­ biparite matching
+- í”Œë¡œì´ë“œ-ì™€ìƒ¬ floyd-warshall
+### Divide and Conqure
+- ì´ë¶„ íƒìƒ‰ binary search
 
 ## Working
-- ÀÌºĞ Å½»ö binary search
-> ÃÖÀå Áõ°¡ ºÎºĞ ¼ö¿­ Longest Increasing Subsequence (LIS)
-- ´ÙÀÌ³ª¹Í ÇÁ·Î±×·¡¹Ö dynamic programming
-- º§¸¸-Æ÷µå bellman-ford
-- ¼¼±×¸ÕÆ® Æ®¸® segment tree
-> segment tree with lazy propagation
+- ì´ë¶„ íƒìƒ‰ binary search
+  - ìµœì¥ ì¦ê°€ ë¶€ë¶„ ìˆ˜ì—´ Longest Increasing Subsequence (LIS)
+- ë‹¤ì´ë‚˜ë¯¹ í”„ë¡œê·¸ë˜ë° dynamic programming
+- ë²¨ë§Œ-í¬ë“œ bellman-ford
+- ì„¸ê·¸ë¨¼íŠ¸ íŠ¸ë¦¬ segment tree
+  - ì§€ì—° ì „íŒŒ lazy propagation
