@@ -18,3 +18,4 @@ Visual Studio 2022
 - 다이나믹 프로그래밍 dynamic programming
 - 벨만-포드 bellman-ford
 - 세그먼트 트리 segment tree
+> segment tree with lazy propagation
