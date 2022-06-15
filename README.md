@@ -21,4 +21,4 @@ Visual Studio 2022
   - 지연 전파 lazy propagation
 
 ### Math
-- 누적 합
+- 누적 합 prefix sum
