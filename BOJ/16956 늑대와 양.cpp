@@ -6,7 +6,6 @@ using namespace std;
 
 struct p16956
 {
-
 	int main()
 	{
 		ios::sync_with_stdio(0);
