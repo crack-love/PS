@@ -283,6 +283,12 @@
     <ClCompile Include="10999 구간 합 구하기 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3653 영화 수집.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11659 구간 합 구하기 4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
