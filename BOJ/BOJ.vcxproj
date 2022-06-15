@@ -193,6 +193,7 @@
     <ClCompile Include="1654 랜선 자르기.cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp" />
+    <ClCompile Include="16956 늑대와 양.cpp" />
     <ClCompile Include="1725 히스토그램.cpp" />
     <ClCompile Include="17481 최애 정하기.cpp" />
     <ClCompile Include="1760 N-Rook.cpp" />

@@ -289,6 +289,9 @@
     <ClCompile Include="11659 구간 합 구하기 4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16956 늑대와 양.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

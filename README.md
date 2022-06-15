@@ -22,3 +22,5 @@ Visual Studio 2022
 
 ### Math
 - 누적 합 prefix sum
+- 구성적 constructive
+- 애드 혹 ad-hoc
