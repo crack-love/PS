@@ -292,6 +292,12 @@
     <ClCompile Include="16956 늑대와 양.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2104 부분배열 고르기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16975 수열과 쿼리 21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
