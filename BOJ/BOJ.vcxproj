@@ -161,6 +161,7 @@
     <ClCompile Include="10815 숫자 카드.cpp" />
     <ClCompile Include="10816 숫자 카드 2.imp.cpp" />
     <ClCompile Include="10816 숫자 카드 2.stl.cpp" />
+    <ClCompile Include="10870 피보나치 수 5.cpp" />
     <ClCompile Include="1097 마법의 문자열.cpp" />
     <ClCompile Include="10971 외판원 순회 2.cpp" />
     <ClCompile Include="10999 구간 합 구하기 2.cpp" />
@@ -235,6 +236,7 @@
     <ClCompile Include="7453 합이 0인 네 정수.v2.fast.cpp" />
     <ClCompile Include="7578 공장.cpp" />
     <ClCompile Include="9019 DSLR.cpp" />
+    <ClCompile Include="2798 블랙잭.cpp" />
     <ClCompile Include="9525 룩 배치하기.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />

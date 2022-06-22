@@ -304,6 +304,12 @@
     <ClCompile Include="1280 나무 심기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2798 블랙잭.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10870 피보나치 수 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
