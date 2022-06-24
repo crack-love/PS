@@ -3,32 +3,36 @@
 #include <iostream>
 using namespace std;
 
-int main()
+struct p2869
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-	cout.tie(0);
-
-	int a, b, v;
-	cin >> a >> b >> v;
-
-	int dayMove = a - b;
-	int maxDay = v / dayMove + 1;
-	int disc = a / dayMove;
-	int minDay = maxDay - disc - 2;
-	while (minDay < maxDay)
+	int main()
 	{
-		if ((minDay - 1) * dayMove + a >= v)
+		ios::sync_with_stdio(0);
+		cin.tie(0);
+		cout.tie(0);
+
+		int a, b, v;
+		cin >> a >> b >> v;
+
+		// (v / (a - b)) - a / (a - b)
+
+		int dayMove = a - b;
+		int maxDay = v / dayMove + 1;
+		int disc = a / dayMove;
+		int minDay = maxDay - disc - 2;
+		while (minDay < maxDay)
 		{
-			break;
+			if ((minDay - 1) * dayMove + a >= v)
+			{
+				break;
+			}
+			else
+			{
+				++minDay;
+			}
 		}
-		else
-		{
-			++minDay;
-		}
+		cout << minDay;
+
+		return 0;
 	}
-	cout << minDay;
-
-	return 0;
-}
-
+};
