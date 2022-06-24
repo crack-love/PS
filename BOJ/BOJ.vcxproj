@@ -208,6 +208,7 @@
     <ClCompile Include="2159 케익 배달.cpp" />
     <ClCompile Include="2186 문자판.cpp" />
     <ClCompile Include="2191 들쥐의 탈출.cpp" />
+    <ClCompile Include="2231 분해합.cpp" />
     <ClCompile Include="2243 사탕상자.cpp" />
     <ClCompile Include="2285 우체국.cpp" />
     <ClCompile Include="2342 Dance Dance Revolution.cpp" />
