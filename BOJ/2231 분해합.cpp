@@ -3,25 +3,28 @@
 #include <iostream>
 using namespace std;
 
-int main()
+struct p2231
 {
-	int n;
-	cin >> n;
-	for (int i = 0; i < n; ++i)
+	int main()
 	{
-		int a = i;
-		int t = i;
-		while (t > 0)
+		int n;
+		cin >> n;
+		for (int i = 0; i < n; ++i)
 		{
-			a += t % 10;
-			t /= 10;
+			int a = i;
+			int t = i;
+			while (t > 0)
+			{
+				a += t % 10;
+				t /= 10;
+			}
+			if (a == n)
+			{
+				cout << i;
+				return 0;
+			}
 		}
-		if (a == n)
-		{
-			cout << i;
-			return 0;
-		}
+		cout << 0;
+		return 0;
 	}
-	cout << 0;
-	return 0;
-}
+};
