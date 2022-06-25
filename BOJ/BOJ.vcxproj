@@ -222,6 +222,7 @@
     <ClCompile Include="2512 예산.cpp" />
     <ClCompile Include="2517 달리기.cpp" />
     <ClCompile Include="2570 비숍2.cpp" />
+    <ClCompile Include="2581 소수.cpp" />
     <ClCompile Include="2610 회의준비.cpp" />
     <ClCompile Include="2617 구슬 찾기.cpp" />
     <ClCompile Include="2660 회장뽑기.cpp" />

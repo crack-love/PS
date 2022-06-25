@@ -316,6 +316,9 @@
     <ClCompile Include="2231 분해합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2581 소수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
