@@ -322,6 +322,9 @@
     <ClCompile Include="4153 직각삼각형.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1932 정수 삼각형.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
