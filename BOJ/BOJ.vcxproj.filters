@@ -325,6 +325,9 @@
     <ClCompile Include="1932 정수 삼각형.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5543 상근날드.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
