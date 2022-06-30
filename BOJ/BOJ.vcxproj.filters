@@ -328,6 +328,9 @@
     <ClCompile Include="5543 상근날드.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1436 영화감독 숌.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
