@@ -190,6 +190,7 @@
     <ClCompile Include="1507 궁금한 민호.cpp" />
     <ClCompile Include="1517 버블 소트.cpp" />
     <ClCompile Include="1561 놀이 공원.cpp" />
+    <ClCompile Include="15649 N과 M (1).cpp" />
     <ClCompile Include="15650 N과 M (2).cpp" />
     <ClCompile Include="1574 룩 어택.cpp" />
     <ClCompile Include="1613 역사.cpp" />

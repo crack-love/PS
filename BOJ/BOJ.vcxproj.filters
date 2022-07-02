@@ -334,6 +334,9 @@
     <ClCompile Include="3009 네 번째 점.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15649 N과 M (1).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
