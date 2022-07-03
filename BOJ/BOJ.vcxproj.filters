@@ -337,6 +337,9 @@
     <ClCompile Include="15649 N과 M (1).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1874 스택 수열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

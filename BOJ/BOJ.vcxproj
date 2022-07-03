@@ -204,6 +204,7 @@
     <ClCompile Include="1760 N-Rook.cpp" />
     <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
+    <ClCompile Include="1874 스택 수열.cpp" />
     <ClCompile Include="1932 정수 삼각형.cpp" />
     <ClCompile Include="1939 중량제한.cpp" />
     <ClCompile Include="2042 구간 합 구하기.cpp" />
