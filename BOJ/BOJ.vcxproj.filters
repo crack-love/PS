@@ -343,6 +343,9 @@
     <ClCompile Include="2748 피보나치 수 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1158 요세푸스 문제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
