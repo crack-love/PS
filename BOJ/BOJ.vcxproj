@@ -224,6 +224,7 @@
     <ClCompile Include="2467 용액.cpp" />
     <ClCompile Include="2470 두 용액.cpp" />
     <ClCompile Include="2473 세 용액.cpp" />
+    <ClCompile Include="25083 새싹.cpp" />
     <ClCompile Include="2512 예산.cpp" />
     <ClCompile Include="2517 달리기.cpp" />
     <ClCompile Include="2570 비숍2.cpp" />

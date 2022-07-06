@@ -346,6 +346,9 @@
     <ClCompile Include="1158 요세푸스 문제.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25083 새싹.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
