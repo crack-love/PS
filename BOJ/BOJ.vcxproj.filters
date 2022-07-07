@@ -349,6 +349,9 @@
     <ClCompile Include="25083 새싹.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2164 카드2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

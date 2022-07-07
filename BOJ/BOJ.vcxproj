@@ -211,6 +211,7 @@
     <ClCompile Include="2042 구간 합 구하기.cpp" />
     <ClCompile Include="2104 부분배열 고르기.cpp" />
     <ClCompile Include="2159 케익 배달.cpp" />
+    <ClCompile Include="2164 카드2.cpp" />
     <ClCompile Include="2186 문자판.cpp" />
     <ClCompile Include="2191 들쥐의 탈출.cpp" />
     <ClCompile Include="2231 분해합.cpp" />
