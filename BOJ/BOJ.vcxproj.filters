@@ -355,6 +355,9 @@
     <ClCompile Include="11729 하노이 탑 이동 순서.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4948 베르트랑 공준.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
