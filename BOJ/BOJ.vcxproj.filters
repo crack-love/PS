@@ -358,6 +358,9 @@
     <ClCompile Include="4948 베르트랑 공준.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14888 연산자 끼워넣기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
