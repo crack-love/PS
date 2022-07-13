@@ -20,6 +20,8 @@ Visual Studio 2022
 - 세그먼트 트리 segment tree
   - 지연 전파 lazy propagation
 - 다익스트라 dijikstra
+- 너비 우선 탐색 breadth-first search
+   - 0-1 너비우선 탐색 0-1 bfs
 
 ### Math
 - 누적 합 prefix sum
