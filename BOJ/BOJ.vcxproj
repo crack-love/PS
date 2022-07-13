@@ -181,6 +181,7 @@
     <ClCompile Include="11729 하노이 탑 이동 순서.cpp" />
     <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
+    <ClCompile Include="1261 알고스팟.cpp" />
     <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp" />
     <ClCompile Include="1280 나무 심기.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
@@ -261,6 +262,7 @@
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
     <ClCompile Include="9613 GCD 합.cpp" />
+    <ClCompile Include="_Template.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

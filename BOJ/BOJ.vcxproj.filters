@@ -370,6 +370,12 @@
     <ClCompile Include="1753 최단경로.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1261 알고스팟.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_Template.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

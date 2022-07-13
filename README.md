@@ -19,6 +19,7 @@ Visual Studio 2022
 - 벨만-포드 bellman-ford
 - 세그먼트 트리 segment tree
   - 지연 전파 lazy propagation
+- 다익스트라 dijikstra
 
 ### Math
 - 누적 합 prefix sum
