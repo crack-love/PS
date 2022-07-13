@@ -205,6 +205,7 @@
     <ClCompile Include="16975 수열과 쿼리 21.cpp" />
     <ClCompile Include="1725 히스토그램.cpp" />
     <ClCompile Include="17481 최애 정하기.cpp" />
+    <ClCompile Include="1753 최단경로.cpp" />
     <ClCompile Include="1760 N-Rook.cpp" />
     <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
