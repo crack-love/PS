@@ -63,8 +63,3 @@ struct p1261_bfs
 		return 0;
 	}
 };
-
-int main()
-{
-	p1261_bfs().main();
-}
