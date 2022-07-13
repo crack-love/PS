@@ -379,7 +379,10 @@
     <ClCompile Include="1261 알고스팟.bfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="13549 숨바꼭질 3.cpp">
+    <ClCompile Include="13549 숨바꼭질 3.01bfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13549 숨바꼭질 3.dijikstra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
