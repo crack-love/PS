@@ -1,10 +1,10 @@
-// https://www.acmicpc.net/problem/
+// https://www.acmicpc.net/problem/1261
 
 #include <iostream>
 #include <queue>
 using namespace std;
 
-struct p1261
+struct p1261_dijik
 {
 	int main()
 	{
