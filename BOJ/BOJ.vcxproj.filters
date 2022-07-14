@@ -388,6 +388,9 @@
     <ClCompile Include="4485 녹색 옷 입은 애가 젤다지.dijk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1238 파티.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

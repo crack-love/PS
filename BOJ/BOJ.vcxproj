@@ -181,6 +181,7 @@
     <ClCompile Include="11729 하노이 탑 이동 순서.cpp" />
     <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
+    <ClCompile Include="1238 파티.cpp" />
     <ClCompile Include="1261 알고스팟.bfs.cpp" />
     <ClCompile Include="1261 알고스팟.dijik.cpp" />
     <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp" />
