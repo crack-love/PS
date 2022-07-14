@@ -6,7 +6,7 @@
 #include <algorithm>
 using namespace std;
 
-struct p2665_dijk
+struct p2665_dijk 
 {
 	int main()
 	{
