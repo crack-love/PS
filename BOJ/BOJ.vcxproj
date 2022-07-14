@@ -188,7 +188,7 @@
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="1300 k번째 수.cpp" />
     <ClCompile Include="13549 숨바꼭질 3.01bfs.cpp" />
-    <ClCompile Include="13549 숨바꼭질 3.dijikstra.cpp" />
+    <ClCompile Include="13549 숨바꼭질 3.dijkstra.cpp" />
     <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp" />
     <ClCompile Include="1436 영화감독 숌.cpp" />
     <ClCompile Include="14433 한조 대기 중.cpp" />
@@ -248,6 +248,7 @@
     <ClCompile Include="3653 영화 수집.cpp" />
     <ClCompile Include="3683 고양이와 개.cpp" />
     <ClCompile Include="4153 직각삼각형.cpp" />
+    <ClCompile Include="4485 녹색 옷 입은 애가 젤다지.dijk.cpp" />
     <ClCompile Include="4948 베르트랑 공준.cpp" />
     <ClCompile Include="5419 북서풍.cpp" />
     <ClCompile Include="5543 상근날드.cpp" />

@@ -19,7 +19,7 @@ Visual Studio 2022
 - 벨만-포드 bellman-ford
 - 세그먼트 트리 segment tree
   - 지연 전파 lazy propagation
-- 다익스트라 dijikstra
+- 다익스트라 dijkstra
 - 너비 우선 탐색 breadth-first search
    - 0-1 너비우선 탐색 0-1 bfs
 

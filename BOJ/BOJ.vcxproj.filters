@@ -382,7 +382,10 @@
     <ClCompile Include="13549 숨바꼭질 3.01bfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="13549 숨바꼭질 3.dijikstra.cpp">
+    <ClCompile Include="13549 숨바꼭질 3.dijkstra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4485 녹색 옷 입은 애가 젤다지.dijk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
