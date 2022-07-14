@@ -400,6 +400,9 @@
     <ClCompile Include="2665 미로만들기.v1.bfs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2665 미로만들기.v2.dijk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
