@@ -210,6 +210,7 @@
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp" />
     <ClCompile Include="16956 늑대와 양.cpp" />
     <ClCompile Include="16975 수열과 쿼리 21.cpp" />
+    <ClCompile Include="1719 택배.cpp" />
     <ClCompile Include="1725 히스토그램.cpp" />
     <ClCompile Include="17481 최애 정하기.cpp" />
     <ClCompile Include="1753 최단경로.cpp" />
