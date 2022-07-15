@@ -48,7 +48,7 @@ struct p6087
 		}
 
 		int cost[100][100][4];
-		fill(&cost[0][0][0], &cost[h - 1][w - 1][4], -1);
+		fill(&cost[0][0][0], &cost[100][100][4], -1);
 		priority_queue<tuple<int, int, int, int>> q; // cost, x, y, dir
 		for (int i = 0; i < 4; ++i)
 		{
