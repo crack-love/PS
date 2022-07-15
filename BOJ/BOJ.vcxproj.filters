@@ -409,7 +409,10 @@
     <ClCompile Include="6087 레이저 통신.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1719 택배.cpp">
+    <ClCompile Include="1719 택배.v0.floyd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1719 택배.v1.dijk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
