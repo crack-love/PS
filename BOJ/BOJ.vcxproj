@@ -259,6 +259,7 @@
     <ClCompile Include="5419 북서풍.cpp" />
     <ClCompile Include="5543 상근날드.cpp" />
     <ClCompile Include="5622 다이얼.cpp" />
+    <ClCompile Include="6087 레이저 통신.cpp" />
     <ClCompile Include="6549 히스토그램에서 가장 큰 직사각형.cpp" />
     <ClCompile Include="6988 타일 밟기.dp.cpp" />
     <ClCompile Include="6988 타일 밟기.for.cpp" />

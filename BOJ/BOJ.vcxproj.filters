@@ -406,6 +406,9 @@
     <ClCompile Include="11779 최소비용 구하기 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6087 레이저 통신.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
