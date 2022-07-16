@@ -415,6 +415,9 @@
     <ClCompile Include="1719 택배.v1.dijk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2523 별 찍기 - 13.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
