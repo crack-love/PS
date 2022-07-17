@@ -418,6 +418,9 @@
     <ClCompile Include="2523 별 찍기 - 13.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15651 N과 M (3).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

@@ -27,3 +27,6 @@ Visual Studio 2022
 - 누적 합 prefix sum
 - 구성적 constructive
 - 애드 혹 ad-hoc
+
+### Etc
+- 백트래킹 backtracking
