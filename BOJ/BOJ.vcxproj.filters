@@ -421,6 +421,9 @@
     <ClCompile Include="15651 N과 M (3).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15652 N과 M %284%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
