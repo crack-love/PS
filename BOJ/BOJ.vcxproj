@@ -188,6 +188,7 @@
     <ClCompile Include="1261 알고스팟.dijik.cpp" />
     <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp" />
     <ClCompile Include="1280 나무 심기.cpp" />
+    <ClCompile Include="12865 평범한 배낭.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="1300 k번째 수.cpp" />
     <ClCompile Include="13549 숨바꼭질 3.01bfs.cpp" />
