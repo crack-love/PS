@@ -23,10 +23,8 @@ Visual Studio 2022
 - 너비 우선 탐색 breadth-first search
    - 0-1 너비우선 탐색 0-1 bfs
 
-### Math
+### Etc
 - 누적 합 prefix sum
 - 구성적 constructive
 - 애드 혹 ad-hoc
-
-### Etc
 - 백트래킹 backtracking
