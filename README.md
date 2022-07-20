@@ -16,6 +16,7 @@ Visual Studio 2022
 - 이분 탐색 binary search
   - 최장 증가 부분 수열 Longest Increasing Subsequence (LIS)
 - 다이나믹 프로그래밍 dynamic programming
+  - 최장 공통 부분 수열 Longest Common Subsequence (LCS)
 - 벨만-포드 bellman-ford
 - 세그먼트 트리 segment tree
   - 지연 전파 lazy propagation
