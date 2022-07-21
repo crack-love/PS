@@ -207,6 +207,7 @@
     <ClCompile Include="15649 N과 M (1).cpp" />
     <ClCompile Include="15650 N과 M (2).cpp" />
     <ClCompile Include="15651 N과 M (3).cpp" />
+    <ClCompile Include="15686 치킨 배달.cpp" />
     <ClCompile Include="1574 룩 어택.cpp" />
     <ClCompile Include="1613 역사.cpp" />
     <ClCompile Include="1654 랜선 자르기.cpp" />
