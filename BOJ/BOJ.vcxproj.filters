@@ -442,12 +442,21 @@
     <ClCompile Include="2580 스도쿠.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="12095 가장 오래 걸리는 스도쿠.random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12095 가장 오래 걸리는 스토쿠.file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="output.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="12095 가장 오래 걸리는 스도쿠.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
