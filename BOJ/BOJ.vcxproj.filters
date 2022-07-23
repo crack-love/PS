@@ -448,6 +448,9 @@
     <ClCompile Include="12095 가장 오래 걸리는 스토쿠.file.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16236 아기 상어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
