@@ -457,6 +457,9 @@
     <ClCompile Include="2098 외판원 순회.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="12100 2048 (Easy).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

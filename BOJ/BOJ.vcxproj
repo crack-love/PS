@@ -184,6 +184,7 @@
     <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp" />
     <ClCompile Include="12095 가장 오래 걸리는 스도쿠.random.cpp" />
     <ClCompile Include="12095 가장 오래 걸리는 스토쿠.file.cpp" />
+    <ClCompile Include="12100 2048 (Easy).cpp" />
     <ClCompile Include="1212 8진수 2진수.cpp" />
     <ClCompile Include="1238 파티.floyd.cpp" />
     <ClCompile Include="1238 파티.dijk.cpp" />
