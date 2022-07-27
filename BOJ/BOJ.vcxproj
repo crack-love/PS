@@ -167,6 +167,8 @@
     <ClCompile Include="10971 외판원 순회 2.cpp" />
     <ClCompile Include="10999 구간 합 구하기 2.cpp" />
     <ClCompile Include="11014 컨닝 2.cpp" />
+    <ClCompile Include="11050 이항 계수 1.cpp" />
+    <ClCompile Include="11051 이항 계수 2.cpp" />
     <ClCompile Include="11375 열혈강호.cpp" />
     <ClCompile Include="11376 열혈강호 2.cpp" />
     <ClCompile Include="11377 열혈강호 3.cpp" />

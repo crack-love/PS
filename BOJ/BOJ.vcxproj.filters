@@ -463,6 +463,12 @@
     <ClCompile Include="2357 최솟값과 최댓값.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11050 이항 계수 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11051 이항 계수 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
