@@ -203,6 +203,7 @@
     <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp" />
     <ClCompile Include="1436 영화감독 숌.cpp" />
     <ClCompile Include="14433 한조 대기 중.cpp" />
+    <ClCompile Include="14500 테트로미노.cpp" />
     <ClCompile Include="14501 퇴사.cpp" />
     <ClCompile Include="14888 연산자 끼워넣기.cpp" />
     <ClCompile Include="14938 서강그라운드.cpp" />
