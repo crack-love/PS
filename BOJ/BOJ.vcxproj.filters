@@ -472,6 +472,9 @@
     <ClCompile Include="14500 테트로미노.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1786 찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

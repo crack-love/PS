@@ -23,6 +23,7 @@ Visual Studio 2022
 - 다익스트라 dijkstra
 - 너비 우선 탐색 breadth-first search
    - 0-1 너비우선 탐색 0-1 bfs
+- kmp Knuth–morris–pratt
 
 ### Etc
 - 누적 합 prefix sum
