@@ -478,6 +478,9 @@
     <ClCompile Include="1305 광고.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4354 문자열 제곱.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
