@@ -148,6 +148,7 @@
     <ClCompile Include="1024 수열의 합.cpp" />
     <ClCompile Include="1025 제곱수 찾기.cpp" />
     <ClCompile Include="1026 보물.cpp" />
+    <ClCompile Include="10266 시계 사진들.cpp" />
     <ClCompile Include="1027 고층 건물.cpp" />
     <ClCompile Include="1029 그림 교환.cpp" />
     <ClCompile Include="1033 칵테일.cpp" />
