@@ -487,6 +487,9 @@
     <ClCompile Include="10266 시계 사진들.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7575 바이러스.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
