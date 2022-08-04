@@ -213,6 +213,7 @@
     <ClCompile Include="14888 연산자 끼워넣기.cpp" />
     <ClCompile Include="14938 서강그라운드.cpp" />
     <ClCompile Include="1507 궁금한 민호.cpp" />
+    <ClCompile Include="15480 LCA와 쿼리.cpp" />
     <ClCompile Include="15652 N과 M %284%29.cpp" />
     <ClCompile Include="1517 버블 소트.cpp" />
     <ClCompile Include="1561 놀이 공원.cpp" />

@@ -499,6 +499,9 @@
     <ClCompile Include="11437 LCA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15480 LCA와 쿼리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
