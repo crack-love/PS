@@ -502,6 +502,12 @@
     <ClCompile Include="15480 LCA와 쿼리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13506 카멜레온 부분 문자열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4949 균형잡힌 세상.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

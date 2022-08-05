@@ -203,6 +203,7 @@
     <ClCompile Include="1300 k번째 수.cpp" />
     <ClCompile Include="1305 광고.cpp" />
     <ClCompile Include="13460 구슬 탈출 2.cpp" />
+    <ClCompile Include="13506 카멜레온 부분 문자열.cpp" />
     <ClCompile Include="13549 숨바꼭질 3.01bfs.cpp" />
     <ClCompile Include="13549 숨바꼭질 3.dijkstra.cpp" />
     <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp" />
@@ -285,6 +286,7 @@
     <ClCompile Include="4354 문자열 제곱.cpp" />
     <ClCompile Include="4485 녹색 옷 입은 애가 젤다지.dijk.cpp" />
     <ClCompile Include="4948 베르트랑 공준.cpp" />
+    <ClCompile Include="4949 균형잡힌 세상.cpp" />
     <ClCompile Include="5419 북서풍.cpp" />
     <ClCompile Include="5543 상근날드.cpp" />
     <ClCompile Include="5622 다이얼.cpp" />
