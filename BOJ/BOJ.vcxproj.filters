@@ -508,6 +508,9 @@
     <ClCompile Include="4949 균형잡힌 세상.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1541 잃어버린 괄호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
