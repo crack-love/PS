@@ -511,6 +511,12 @@
     <ClCompile Include="1541 잃어버린 괄호.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9020 골드바흐의 추측.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11866 요세푸스 문제 0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
