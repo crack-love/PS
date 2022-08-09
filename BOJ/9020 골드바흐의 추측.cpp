@@ -32,7 +32,7 @@ struct p9020
 			cin >> n;
 			int ans0 = 0;
 			int ans1 = 0;
-			int mindiff = 1e9;
+			int mindiff = (int)1e9;
 
 			for (int i = 0; i < ps.size(); ++i)
 			{

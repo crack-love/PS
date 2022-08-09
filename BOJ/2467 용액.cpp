@@ -24,7 +24,7 @@ struct p2467
 
 		int l = 0;
 		int r = n - 1;
-		ll minSum = 2e9 + 1;
+		ll minSum = (ll)2e9 + 1;
 		int ansX;
 		int ansY;
 

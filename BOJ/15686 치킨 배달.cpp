@@ -31,7 +31,7 @@ struct p15686
 			return distSum;
 		}
 
-		int v0 = 1e9;
+		int v0 = (int)1e9;
 		if (store.size() < m)
 		{
 			store.push_back(idx);

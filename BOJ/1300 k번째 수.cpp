@@ -14,7 +14,7 @@ struct p1300
 		cin >> n >> k;
 
 		int l = 1;
-		int r = 1e9;
+		int r = (int)1e9;
 
 		while (l < r)
 		{

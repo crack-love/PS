@@ -15,7 +15,7 @@ struct p2473
 		ios::sync_with_stdio(0);
 		cin.tie(0);
 
-		ll INF = 3e9 + 1;
+		ll INF = (ll)3e9 + 1;
 		ll a[5000];
 		int n; // [3 5000]
 

@@ -7,7 +7,7 @@ using namespace std;
 
 struct p2517
 {
-	static const int SIZE_N = 5e5;
+	static const int SIZE_N = (const int)5e5;
 	static const int SIZE_NODE = 1 << 20;
 	static const int SIZE_LEAF = 1 << 19;
 	int seg[SIZE_NODE];

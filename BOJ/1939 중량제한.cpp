@@ -20,7 +20,7 @@ struct p1939
 		vector<pair<int, int>> e[(int)1e4 + 1];
 		int n, m;
 		int beg, end;
-		int minCap = 1e9 + 1;
+		int minCap = (int)1e9 + 1;
 		int maxCap = 0;
 
 		cin >> n >> m;

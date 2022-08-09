@@ -21,7 +21,7 @@ struct p2343
 		}
 
 		int l = 1;
-		int r = 1e4 * n + 1;
+		int r = (int)1e4 * n + 1;
 		while (l < r)
 		{
 			int mid = (l + r) / 2;

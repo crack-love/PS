@@ -8,8 +8,8 @@ using namespace std;
 struct p6549
 {
 	typedef long long ll;
-	static const int N_SIZE = 1e5;
-	static const int INF = 1e9 + 1;
+	static const int N_SIZE = (ll)1e5;
+	static const int INF = (ll)1e9 + 1;
 	static const int TREE_HEIGHT = 17;
 	static const int NODE_SIZE = 1 << TREE_HEIGHT;
 

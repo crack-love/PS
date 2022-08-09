@@ -51,7 +51,7 @@ struct p2357
 		cin.tie(0);
 		cout.tie(0);
 
-		fill(minseg, minseg + NODE_SIZE, 1e9 + 1);
+		fill(minseg, minseg + NODE_SIZE, (int)1e9 + 1);
 		fill(maxseg, maxseg + NODE_SIZE, 0);
 
 		int a[100000];

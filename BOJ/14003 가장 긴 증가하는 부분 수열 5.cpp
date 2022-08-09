@@ -32,7 +32,7 @@ struct p14003
 		cin.tie(0);
 		cout.tie(0);
 
-		const int MAX = 1e6;
+		const int MAX = (int)1e6;
 		int a[MAX];
 		int d[MAX];
 		int s[MAX];

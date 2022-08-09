@@ -8,8 +8,8 @@ struct p14888
 	int n;
 	int nums[11];
 	int operCnt[4];
-	int maxVal = -1e9 - 1;
-	int minVal = 1e9 + 1;
+	int maxVal = (int)-1e9 - 1;
+	int minVal = (int)1e9 + 1;
 
 	void brute(int idx, int value)
 	{

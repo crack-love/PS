@@ -213,6 +213,7 @@
     <ClCompile Include="14500 테트로미노.cpp" />
     <ClCompile Include="14501 퇴사.cpp" />
     <ClCompile Include="14888 연산자 끼워넣기.cpp" />
+    <ClCompile Include="14889 스타트와 링크.v0.permu.cpp" />
     <ClCompile Include="14938 서강그라운드.cpp" />
     <ClCompile Include="1507 궁금한 민호.cpp" />
     <ClCompile Include="1541 잃어버린 괄호.cpp" />
@@ -315,6 +316,9 @@
     <Text Include="12095 가장 오래 걸리는 스도쿠.txt" />
     <Text Include="input.txt" />
     <Text Include="output.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="14889 스타트와 링크.v1.back.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

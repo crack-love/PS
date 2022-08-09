@@ -81,7 +81,7 @@ struct p6087
 			}
 		}
 
-		int ans = 1e9;
+		int ans = (int)1e9;
 		for (int i = 0; i < 4; ++i)
 		{
 			int c = cost[end.first][end.second][i];
