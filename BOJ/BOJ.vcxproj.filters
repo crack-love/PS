@@ -523,6 +523,9 @@
     <ClCompile Include="14889 스타트와 링크.v1.backtrack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2887 행성 터널.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
