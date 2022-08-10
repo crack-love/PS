@@ -3,74 +3,77 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n;
-int a[20][20];
-int pickeds[20];
-int answer = 1e9;
-
-void pick(int i, int pcnt, int lsum, int rsum)
+struct p14889
 {
-	if (i >= n)
-	{
-		if (pcnt == n / 2 && answer > abs(lsum - rsum))
-		{
-			answer = abs(lsum - rsum);
-		}
-		return;
-	}
+	int n;
+	int a[20][20];
+	int pickeds[20];
+	int answer = 1e9;
 
-	if (pcnt + 1 <= n / 2)
+	void pick(int i, int pcnt, int lsum, int rsum)
 	{
-		int addsum = 0;
-		int subsum = 0;
-		for (int j = 0; j < n; ++j)
+		if (i >= n)
 		{
-			if (pickeds[j])
+			if (pcnt == n / 2 && answer > abs(lsum - rsum))
 			{
-				addsum += a[i][j] + a[j][i];
+				answer = abs(lsum - rsum);
 			}
-			else
+			return;
+		}
+
+		if (pcnt + 1 <= n / 2)
+		{
+			int addsum = 0;
+			int subsum = 0;
+			for (int j = 0; j < n; ++j)
 			{
-				subsum += a[i][j] + a[j][i];
+				if (pickeds[j])
+				{
+					addsum += a[i][j] + a[j][i];
+				}
+				else
+				{
+					subsum += a[i][j] + a[j][i];
+				}
+			}
+
+			pickeds[i] = 1;
+			pick(i + 1, pcnt + 1, lsum + addsum, rsum - subsum);
+			pickeds[i] = 0;
+		}
+
+		if (pcnt == n / 2)
+		{
+			i = n - 1;
+		}
+		pick(i + 1, pcnt, lsum, rsum);
+	}
+
+	int main()
+	{
+		ios::sync_with_stdio(0);
+		cin.tie(0);	cout.tie(0);
+
+		cin >> n;
+		for (int i = 0; i < n; ++i)
+		{
+			for (int j = 0; j < n; ++j)
+			{
+				cin >> a[i][j];
 			}
 		}
 
-		pickeds[i] = 1;
-		pick(i + 1, pcnt + 1, lsum + addsum, rsum - subsum);
-		pickeds[i] = 0;
-	}
-	
-	if (pcnt == n / 2)
-	{
-		i = n - 1;
-	}
-	pick(i + 1, pcnt, lsum, rsum);
-}
-
-int main()
-{
-	ios::sync_with_stdio(0);
-	cin.tie(0);	cout.tie(0);
-
-	cin >> n;
-	for (int i = 0; i < n; ++i)
-	{
-		for (int j = 0; j < n; ++j)
+		int sum = 0;
+		for (int i = 0; i < n; ++i)
 		{
-			cin >> a[i][j];
+			for (int j = i + 1; j < n; ++j)
+			{
+				sum += a[i][j] + a[j][i];
+			}
 		}
-	}
 
-	int sum = 0;
-	for (int i = 0; i < n; ++i)
-	{
-		for (int j = i + 1; j < n; ++j)
-		{
-			sum += a[i][j] + a[j][i];
-		}
+		pick(0, 0, 0, sum);
+		cout << answer;
+		return 0;
 	}
-
-	pick(0, 0, 0, sum);
-	cout << answer;
-	return 0;
-}
+};

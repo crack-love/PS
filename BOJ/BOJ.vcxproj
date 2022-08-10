@@ -214,7 +214,7 @@
     <ClCompile Include="14501 퇴사.cpp" />
     <ClCompile Include="14888 연산자 끼워넣기.cpp" />
     <ClCompile Include="14889 스타트와 링크.v0.permu.cpp" />
-    <ClCompile Include="14889.v1.backtrack.cpp" />
+    <ClCompile Include="14889 스타트와 링크.v1.backtrack.cpp" />
     <ClCompile Include="14938 서강그라운드.cpp" />
     <ClCompile Include="1507 궁금한 민호.cpp" />
     <ClCompile Include="1541 잃어버린 괄호.cpp" />
