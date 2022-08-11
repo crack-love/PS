@@ -212,6 +212,8 @@
     <ClCompile Include="14433 한조 대기 중.cpp" />
     <ClCompile Include="14500 테트로미노.cpp" />
     <ClCompile Include="14501 퇴사.cpp" />
+    <ClCompile Include="14574 헤븐스 키친.kruskal.cpp" />
+    <ClCompile Include="14574 헤븐스 키친.prim.cpp" />
     <ClCompile Include="14888 연산자 끼워넣기.cpp" />
     <ClCompile Include="14889 스타트와 링크.v0.permu.cpp" />
     <ClCompile Include="14889 스타트와 링크.v1.backtrack.cpp" />

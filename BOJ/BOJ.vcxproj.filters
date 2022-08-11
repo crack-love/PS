@@ -526,6 +526,12 @@
     <ClCompile Include="2887 행성 터널.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14574 헤븐스 키친.prim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14574 헤븐스 키친.kruskal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
