@@ -259,6 +259,7 @@
     <ClCompile Include="2231 분해합.cpp" />
     <ClCompile Include="2243 사탕상자.cpp" />
     <ClCompile Include="2285 우체국.cpp" />
+    <ClCompile Include="23034 조별과제 멈춰!.cpp" />
     <ClCompile Include="2342 Dance Dance Revolution.cpp" />
     <ClCompile Include="2343 기타 레슨.cpp" />
     <ClCompile Include="2352 반도체 설계.cpp" />
@@ -318,6 +319,8 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="12095 가장 오래 걸리는 스도쿠.txt" />
+    <Text Include="23034 input.txt" />
+    <Text Include="23034 input.gen.txt" />
     <Text Include="input.txt" />
     <Text Include="output.txt" />
   </ItemGroup>
