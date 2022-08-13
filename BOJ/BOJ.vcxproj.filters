@@ -535,6 +535,9 @@
     <ClCompile Include="23034 조별과제 멈춰!.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1647 도시 분할 계획.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -543,7 +546,7 @@
     <Text Include="output.txt">
       <Filter>Source Files</Filter>
     </Text>
-    <Text Include="12095 가장 오래 걸리는 스도쿠.txt">
+    <Text Include="12095 input.txt">
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="23034 input.txt">
