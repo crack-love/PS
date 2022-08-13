@@ -86,8 +86,9 @@
     <ClCompile>
       <WarningLevel>Level2</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;_SILENCE_CXX17_C_HEADER_DEPRECATION_WARNING;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -231,6 +232,7 @@
     <ClCompile Include="1574 룩 어택.cpp" />
     <ClCompile Include="1613 역사.cpp" />
     <ClCompile Include="16236 아기 상어.cpp" />
+    <ClCompile Include="1647 도시 분할 계획.cpp" />
     <ClCompile Include="1654 랜선 자르기.cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp" />
@@ -318,7 +320,7 @@
     <ClCompile Include="_Template.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="12095 가장 오래 걸리는 스도쿠.txt" />
+    <Text Include="12095 input.txt" />
     <Text Include="23034 input.txt" />
     <Text Include="23034 input.gen.txt" />
     <Text Include="input.txt" />
