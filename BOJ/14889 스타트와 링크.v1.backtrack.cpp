@@ -8,7 +8,7 @@ struct p14889
 	int n;
 	int a[20][20];
 	int pickeds[20];
-	int answer = 1e9;
+	int answer = (int)1e9;
 
 	void pick(int i, int pcnt, int lsum, int rsum)
 	{
