@@ -294,6 +294,7 @@
     <ClCompile Include="3683 고양이와 개.cpp" />
     <ClCompile Include="4153 직각삼각형.cpp" />
     <ClCompile Include="4354 문자열 제곱.cpp" />
+    <ClCompile Include="4386 별자리 만들기.cpp" />
     <ClCompile Include="4485 녹색 옷 입은 애가 젤다지.dijk.cpp" />
     <ClCompile Include="4948 베르트랑 공준.cpp" />
     <ClCompile Include="4949 균형잡힌 세상.cpp" />

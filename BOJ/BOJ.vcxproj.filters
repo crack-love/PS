@@ -538,6 +538,9 @@
     <ClCompile Include="1647 도시 분할 계획.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4386 별자리 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
