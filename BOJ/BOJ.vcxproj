@@ -241,6 +241,7 @@
     <ClCompile Include="1719 택배.v1.dijk.cpp" />
     <ClCompile Include="1719 택배.v0.floyd.cpp" />
     <ClCompile Include="1725 히스토그램.cpp" />
+    <ClCompile Include="17472 다리만들기 2.cpp" />
     <ClCompile Include="17481 최애 정하기.cpp" />
     <ClCompile Include="1753 최단경로.cpp" />
     <ClCompile Include="1760 N-Rook.cpp" />
