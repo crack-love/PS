@@ -547,6 +547,9 @@
     <ClCompile Include="10868 최솟값.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11505 구간 곱 구하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
