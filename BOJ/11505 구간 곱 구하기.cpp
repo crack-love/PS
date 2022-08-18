@@ -73,8 +73,3 @@ struct p11505
 		return 0;
 	}
 };
-
-int main()
-{
-	p11505().main();
-}
