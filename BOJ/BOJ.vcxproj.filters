@@ -553,6 +553,9 @@
     <ClCompile Include="1764 듣보잡.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2108 통계학.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
