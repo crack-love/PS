@@ -556,6 +556,9 @@
     <ClCompile Include="2108 통계학.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5585 거스름돈.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
