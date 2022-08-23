@@ -169,6 +169,10 @@
     <ClCompile Include="1097 마법의 문자열.cpp" />
     <ClCompile Include="10971 외판원 순회 2.cpp" />
     <ClCompile Include="10999 구간 합 구하기 2.cpp" />
+    <ClCompile Include="11003 최솟값 찾기.pq.cpp" />
+    <ClCompile Include="11003 최솟값 찾기.deck.cpp" />
+    <ClCompile Include="11003 최솟값 찾기.seg.cpp" />
+    <ClCompile Include="11003.input.gen.cpp" />
     <ClCompile Include="11014 컨닝 2.cpp" />
     <ClCompile Include="11050 이항 계수 1.cpp" />
     <ClCompile Include="11051 이항 계수 2.cpp" />
@@ -329,6 +333,7 @@
     <ClCompile Include="_Template.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="11003.input.txt" />
     <Text Include="12095 input.txt" />
     <Text Include="23034 input.txt" />
     <Text Include="23034 input.gen.txt" />

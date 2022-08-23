@@ -565,6 +565,18 @@
     <ClCompile Include="17143 낚시왕.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11003 최솟값 찾기.deck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11003.input.gen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11003 최솟값 찾기.pq.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11003 최솟값 찾기.seg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -580,6 +592,9 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="23034 input.gen.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="11003.input.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
