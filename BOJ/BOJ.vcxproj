@@ -195,6 +195,7 @@
     <ClCompile Include="11729 하노이 탑 이동 순서.cpp" />
     <ClCompile Include="11779 최소비용 구하기 2.cpp" />
     <ClCompile Include="11866 요세푸스 문제 0.cpp" />
+    <ClCompile Include="1194 달이 차오른다, 가자.cpp" />
     <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp" />
     <ClCompile Include="12095 가장 오래 걸리는 스도쿠.random.cpp" />
     <ClCompile Include="12095 가장 오래 걸리는 스토쿠.file.cpp" />
