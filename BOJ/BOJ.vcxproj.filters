@@ -586,6 +586,9 @@
     <ClCompile Include="3053 택시 기하학.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2163 초콜릿 자르기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
