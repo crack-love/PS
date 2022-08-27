@@ -592,6 +592,9 @@
     <ClCompile Include="3003 킹, 퀸, 룩, 비숍, 나이트, 폰.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14503 로봇 청소기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
