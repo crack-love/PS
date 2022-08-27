@@ -15,7 +15,7 @@ struct p2468
 
 		int n;
 		int og[100][100];
-		int minv = 1e9, maxv = 0;
+		int minv = (int)1e9, maxv = 0;
 		cin >> n;
 		for (int i = 0; i < n; ++i)
 		{
