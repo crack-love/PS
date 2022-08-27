@@ -601,6 +601,9 @@
     <ClCompile Include="4963 섬의 개수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2468 안전 영역.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

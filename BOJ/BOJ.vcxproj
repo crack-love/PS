@@ -285,6 +285,7 @@
     <ClCompile Include="2447 별 찍기 - 10.cpp" />
     <ClCompile Include="2458 키 순서.cpp" />
     <ClCompile Include="2467 용액.cpp" />
+    <ClCompile Include="2468 안전 영역.cpp" />
     <ClCompile Include="2470 두 용액.cpp" />
     <ClCompile Include="2473 세 용액.cpp" />
     <ClCompile Include="25083 새싹.cpp" />
