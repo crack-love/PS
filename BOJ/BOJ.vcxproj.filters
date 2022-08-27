@@ -604,6 +604,9 @@
     <ClCompile Include="2468 안전 영역.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1992 쿼드트리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
