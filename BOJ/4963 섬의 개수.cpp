@@ -3,82 +3,85 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main()
+struct p4963
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0);	cout.tie(0);
-
-	const int dx[]{ 0, 1, -1 };
-	const int dy[]{ 0, 1, -1 };
-
-	while (true)
+	int main()
 	{
-		int w, h;
-		cin >> w >> h;
-		if (w == 0 && h == 0) break;
+		ios::sync_with_stdio(0);
+		cin.tie(0);	cout.tie(0);
 
-		static int g[50][50];
-		for (int i = 0; i < h; ++i)
-		{
-			for (int j = 0; j < w; ++j)
-			{
-				cin >> g[i][j];
-			}
-		}
+		const int dx[]{ 0, 1, -1 };
+		const int dy[]{ 0, 1, -1 };
 
-		int nextid = 11;
 		while (true)
 		{
-			int begx = -1, begy;
+			int w, h;
+			cin >> w >> h;
+			if (w == 0 && h == 0) break;
+
+			static int g[50][50];
 			for (int i = 0; i < h; ++i)
 			{
 				for (int j = 0; j < w; ++j)
 				{
-					if (g[i][j] == 1)
-					{
-						begx = i;
-						begy = j;
-						i = h;
-						break;
-					}
+					cin >> g[i][j];
 				}
 			}
 
-			if (begx != -1)
+			int nextid = 11;
+			while (true)
 			{
-				static vector<tuple<int, int, int>> v;
-				v.clear();
-				v.push_back({begx, begy, nextid });
-				g[begx][begy] = nextid;
-				nextid +=1;
-
-				while (v.size() > 0)
+				int begx = -1, begy;
+				for (int i = 0; i < h; ++i)
 				{
-					auto [x, y, id] = v.back();
-					v.pop_back();
-				
-					for (int i = 0; i < 3; ++i)
+					for (int j = 0; j < w; ++j)
 					{
-						for (int j = 0; j < 3; ++j)
+						if (g[i][j] == 1)
 						{
-							int nx = x + dx[i];
-							int ny = y + dy[j];
-							if (nx < 0 || ny <0 || nx >= h || ny >= w) continue;
-							if (g[nx][ny] != 1) continue;
-
-							g[nx][ny] = id;
-							v.push_back({nx, ny, id});
+							begx = i;
+							begy = j;
+							i = h;
+							break;
 						}
 					}
 				}
-			}
-			else
-			{
-				cout << nextid - 11 << "\n";
-				break;
+
+				if (begx != -1)
+				{
+					static vector<tuple<int, int, int>> v;
+					v.clear();
+					v.push_back({ begx, begy, nextid });
+					g[begx][begy] = nextid;
+					nextid += 1;
+
+					while (v.size() > 0)
+					{
+						auto [x, y, id] = v.back();
+						v.pop_back();
+
+						for (int i = 0; i < 3; ++i)
+						{
+							for (int j = 0; j < 3; ++j)
+							{
+								int nx = x + dx[i];
+								int ny = y + dy[j];
+								if (nx < 0 || ny < 0 || nx >= h || ny >= w) continue;
+								if (g[nx][ny] != 1) continue;
+
+								g[nx][ny] = id;
+								v.push_back({ nx, ny, id });
+							}
+						}
+					}
+				}
+				else
+				{
+					cout << nextid - 11 << "\n";
+					break;
+				}
 			}
 		}
-	}
 
-	return 0;
-}
+		return 0;
+	}
+};
