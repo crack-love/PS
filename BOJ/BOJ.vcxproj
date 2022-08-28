@@ -219,6 +219,8 @@
     <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp" />
     <ClCompile Include="1436 영화감독 숌.cpp" />
     <ClCompile Include="14433 한조 대기 중.cpp" />
+    <ClCompile Include="14499 주사위 굴리기.cpp" />
+    <ClCompile Include="14499 주사위 굴리기.short.cpp" />
     <ClCompile Include="14500 테트로미노.cpp" />
     <ClCompile Include="14501 퇴사.cpp" />
     <ClCompile Include="14503 로봇 청소기.cpp" />

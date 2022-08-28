@@ -607,6 +607,12 @@
     <ClCompile Include="1992 쿼드트리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14499 주사위 굴리기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14499 주사위 굴리기.short.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
