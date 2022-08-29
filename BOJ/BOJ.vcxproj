@@ -249,6 +249,7 @@
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp" />
     <ClCompile Include="16956 늑대와 양.cpp" />
     <ClCompile Include="16975 수열과 쿼리 21.cpp" />
+    <ClCompile Include="1707 이분 그래프.cpp" />
     <ClCompile Include="17143 낚시왕.cpp" />
     <ClCompile Include="1719 택배.v1.dijk.cpp" />
     <ClCompile Include="1719 택배.v0.floyd.cpp" />
@@ -348,6 +349,8 @@
   <ItemGroup>
     <Text Include="11003.input.txt" />
     <Text Include="12095 input.txt" />
+    <Text Include="1707 input.txt" />
+    <Text Include="1707 output.txt" />
     <Text Include="23034 input.txt" />
     <Text Include="23034 input.gen.txt" />
     <Text Include="input.txt" />

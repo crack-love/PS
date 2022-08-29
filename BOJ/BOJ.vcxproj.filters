@@ -616,6 +616,9 @@
     <ClCompile Include="17298 오큰수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1707 이분 그래프.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -634,6 +637,12 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="11003.input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="1707 input.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="1707 output.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
