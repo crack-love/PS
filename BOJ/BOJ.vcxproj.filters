@@ -613,6 +613,9 @@
     <ClCompile Include="14499 주사위 굴리기.short.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17298 오큰수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
