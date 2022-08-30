@@ -18,8 +18,8 @@ struct p1052
 		n = 0;
 		while (tn > 0)
 		{
-			int lv = log2(tn);
-			int cnt = pow(2, lv);
+			int lv = (int)log2(tn);
+			int cnt = (int)pow(2, lv);
 			tn -= cnt;
 			dq.push_front({ lv, 1 });
 			n += 1;
@@ -39,7 +39,7 @@ struct p1052
 			int half = cnt / 2;
 			if (half == 0)
 			{
-				cost += pow(2, lvl);
+				cost += (int)pow(2, lvl);
 				half = 1;
 				n += 1;
 			}
