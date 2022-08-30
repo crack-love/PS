@@ -631,6 +631,9 @@
     <ClCompile Include="1052 물병.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2217 로프.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
