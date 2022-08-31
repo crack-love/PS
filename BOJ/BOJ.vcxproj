@@ -245,6 +245,7 @@
     <ClCompile Include="15686 치킨 배달.cpp" />
     <ClCompile Include="1574 룩 어택.cpp" />
     <ClCompile Include="1613 역사.cpp" />
+    <ClCompile Include="16234 인구 이동.cpp" />
     <ClCompile Include="16236 아기 상어.cpp" />
     <ClCompile Include="1647 도시 분할 계획.cpp" />
     <ClCompile Include="1654 랜선 자르기.cpp" />
@@ -349,6 +350,7 @@
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
     <ClCompile Include="9613 GCD 합.cpp" />
+    <ClCompile Include="vtest.cpp" />
     <ClCompile Include="_Template.cpp" />
   </ItemGroup>
   <ItemGroup>
