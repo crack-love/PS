@@ -640,6 +640,9 @@
     <ClCompile Include="16234 인구 이동.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2565 전깃줄.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
