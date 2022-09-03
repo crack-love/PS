@@ -256,6 +256,7 @@
     <ClCompile Include="16975 수열과 쿼리 21.cpp" />
     <ClCompile Include="1707 이분 그래프.cpp" />
     <ClCompile Include="17143 낚시왕.cpp" />
+    <ClCompile Include="17144 미세먼지 안녕!.cpp" />
     <ClCompile Include="1719 택배.v1.dijk.cpp" />
     <ClCompile Include="1719 택배.v0.floyd.cpp" />
     <ClCompile Include="1725 히스토그램.cpp" />
