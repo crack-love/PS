@@ -322,6 +322,7 @@
     <ClCompile Include="3003 킹, 퀸, 룩, 비숍, 나이트, 폰.cpp" />
     <ClCompile Include="3009 네 번째 점.cpp" />
     <ClCompile Include="3053 택시 기하학.cpp" />
+    <ClCompile Include="3055 탈출.cpp" />
     <ClCompile Include="3190 뱀.cpp" />
     <ClCompile Include="3653 영화 수집.cpp" />
     <ClCompile Include="3683 고양이와 개.cpp" />
