@@ -655,6 +655,9 @@
     <ClCompile Include="3055 탈출.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2573 빙산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
