@@ -205,6 +205,7 @@
     <ClCompile Include="1212 8진수 2진수.cpp" />
     <ClCompile Include="1238 파티.floyd.cpp" />
     <ClCompile Include="1238 파티.dijk.cpp" />
+    <ClCompile Include="1259 팰린드롬수.cpp" />
     <ClCompile Include="1261 알고스팟.bfs.cpp" />
     <ClCompile Include="1261 알고스팟.dijik.cpp" />
     <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp" />
