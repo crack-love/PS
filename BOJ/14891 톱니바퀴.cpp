@@ -30,7 +30,7 @@ struct p14891
 		{
 			t = a[i] & (1 << 7);
 			a[i] <<= 1;
-			a[i] |= t;
+			a[i] |= (int)t;
 		}
 		else if (d < 0)
 		{
