@@ -229,6 +229,7 @@
     <ClCompile Include="14503 로봇 청소기.cpp" />
     <ClCompile Include="14574 헤븐스 키친.kruskal.cpp" />
     <ClCompile Include="14574 헤븐스 키친.prim.cpp" />
+    <ClCompile Include="1475 방 번호.cpp" />
     <ClCompile Include="14888 연산자 끼워넣기.cpp" />
     <ClCompile Include="14889 스타트와 링크.v0.permu.cpp" />
     <ClCompile Include="14889 스타트와 링크.v1.backtrack.cpp" />
@@ -347,6 +348,7 @@
     <ClCompile Include="7453 합이 0인 네 정수.v1.imp.cpp" />
     <ClCompile Include="7453 합이 0인 네 정수.v0.stl.cpp" />
     <ClCompile Include="7453 합이 0인 네 정수.v2.fast.cpp" />
+    <ClCompile Include="7562 나이트의 이동.cpp" />
     <ClCompile Include="7575 바이러스.cpp" />
     <ClCompile Include="7578 공장.cpp" />
     <ClCompile Include="9019 DSLR.cpp" />

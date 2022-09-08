@@ -661,6 +661,12 @@
     <ClCompile Include="1259 팰린드롬수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7562 나이트의 이동.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1475 방 번호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
