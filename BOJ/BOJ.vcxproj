@@ -303,6 +303,7 @@
     <ClCompile Include="2468 안전 영역.cpp" />
     <ClCompile Include="2470 두 용액.cpp" />
     <ClCompile Include="2473 세 용액.cpp" />
+    <ClCompile Include="2490 윷놀이.cpp" />
     <ClCompile Include="2493 탑.cpp" />
     <ClCompile Include="25083 새싹.cpp" />
     <ClCompile Include="2512 예산.cpp" />

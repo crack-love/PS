@@ -667,6 +667,9 @@
     <ClCompile Include="1475 방 번호.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2490 윷놀이.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
