@@ -670,6 +670,9 @@
     <ClCompile Include="2490 윷놀이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13458 시험 감독.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
