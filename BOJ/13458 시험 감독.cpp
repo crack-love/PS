@@ -4,29 +4,32 @@
 #define for2(i,j,r,c) for(int i=0;i<r;++i)for(int j=0;j<c;++j)
 using namespace std;
 
-int main()
+struct p13458
 {
-	int n;
-	int a[(int)1e6];
-	cin >> n;
-	for (int i = 0; i < n; ++i)
+	int main()
 	{
-		cin >> a[i];
-	}
-
-	int b, c; // รั,บฮ
-	cin >> b >> c;
-
-	long long ans = n;
-	for (int i = 0; i < n; ++i)
-	{
-		a[i] -= b;
-		if (a[i] > 0)
+		int n;
+		int a[(int)1e6];
+		cin >> n;
+		for (int i = 0; i < n; ++i)
 		{
-			ans += ceil(a[i] / (double)c);
+			cin >> a[i];
 		}
-	}
 
-	cout << ans;
-	return 0;
-}
+		int b, c; // รั,บฮ
+		cin >> b >> c;
+
+		long long ans = n;
+		for (int i = 0; i < n; ++i)
+		{
+			a[i] -= b;
+			if (a[i] > 0)
+			{
+				ans += ceil(a[i] / (double)c);
+			}
+		}
+
+		cout << ans;
+		return 0;
+	}
+};
