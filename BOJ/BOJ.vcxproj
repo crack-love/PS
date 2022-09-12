@@ -164,6 +164,7 @@
     <ClCompile Include="10699 오늘 날짜.cpp" />
     <ClCompile Include="1071 소트.cpp" />
     <ClCompile Include="1072 게임.cpp" />
+    <ClCompile Include="1074 Z.cpp" />
     <ClCompile Include="10815 숫자 카드.cpp" />
     <ClCompile Include="10816 숫자 카드 2.imp.cpp" />
     <ClCompile Include="10816 숫자 카드 2.stl.cpp" />
