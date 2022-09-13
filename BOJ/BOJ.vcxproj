@@ -340,6 +340,7 @@
     <ClCompile Include="4948 베르트랑 공준.cpp" />
     <ClCompile Include="4949 균형잡힌 세상.cpp" />
     <ClCompile Include="4963 섬의 개수.cpp" />
+    <ClCompile Include="5086 배수와 약수.cpp" />
     <ClCompile Include="5419 북서풍.cpp" />
     <ClCompile Include="5430 AC.cpp" />
     <ClCompile Include="5543 상근날드.cpp" />
