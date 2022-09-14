@@ -196,6 +196,7 @@
     <ClCompile Include="11657 타임머신.cpp" />
     <ClCompile Include="11659 구간 합 구하기 4.cpp" />
     <ClCompile Include="11670 초등 수학.cpp" />
+    <ClCompile Include="11725 트리의 부모 찾기.cpp" />
     <ClCompile Include="11729 하노이 탑 이동 순서.cpp" />
     <ClCompile Include="11779 최소비용 구하기 2.cpp" />
     <ClCompile Include="11866 요세푸스 문제 0.cpp" />

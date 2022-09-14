@@ -682,6 +682,9 @@
     <ClCompile Include="5086 배수와 약수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11725 트리의 부모 찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
