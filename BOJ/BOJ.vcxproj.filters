@@ -685,6 +685,12 @@
     <ClCompile Include="11725 트리의 부모 찾기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2630 색종이 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18870 좌표 압축.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
