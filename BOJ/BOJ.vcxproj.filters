@@ -691,6 +691,9 @@
     <ClCompile Include="18870 좌표 압축.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1780 종이의 개수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
