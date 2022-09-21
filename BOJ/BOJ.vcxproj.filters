@@ -703,6 +703,9 @@
     <ClCompile Include="2914 저작권.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2752 세수정렬.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
