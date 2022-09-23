@@ -709,6 +709,9 @@
     <ClCompile Include="10162 전자레인지.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10797 10부제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
