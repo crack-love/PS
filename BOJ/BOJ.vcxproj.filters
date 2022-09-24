@@ -712,6 +712,9 @@
     <ClCompile Include="10797 10부제.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2420 사파리월드.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
