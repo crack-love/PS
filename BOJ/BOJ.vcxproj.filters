@@ -718,6 +718,9 @@
     <ClCompile Include="1094 막대기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18258 큐2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

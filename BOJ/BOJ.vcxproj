@@ -280,6 +280,7 @@
     <ClCompile Include="1786 찾기.cpp" />
     <ClCompile Include="1806 부분합.cpp" />
     <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp" />
+    <ClCompile Include="18258 큐2.cpp" />
     <ClCompile Include="1867 돌멩이 제거.cpp" />
     <ClCompile Include="1874 스택 수열.cpp" />
     <ClCompile Include="18870 좌표 압축.cpp" />
