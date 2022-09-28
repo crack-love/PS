@@ -331,6 +331,7 @@
     <ClCompile Include="2610 회의준비.cpp" />
     <ClCompile Include="2617 구슬 찾기.cpp" />
     <ClCompile Include="2630 색종이 만들기.cpp" />
+    <ClCompile Include="2644 촌수계산.cpp" />
     <ClCompile Include="2660 회장뽑기.cpp" />
     <ClCompile Include="2665 미로만들기.v1.bfs.cpp" />
     <ClCompile Include="2665 미로만들기.v0.0-1bfs.cpp" />

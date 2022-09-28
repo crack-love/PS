@@ -724,6 +724,9 @@
     <ClCompile Include="11286 절댓값 힙.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2644 촌수계산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
