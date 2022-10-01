@@ -281,6 +281,7 @@
     <ClCompile Include="1764 듣보잡.cpp" />
     <ClCompile Include="1780 종이의 개수.cpp" />
     <ClCompile Include="1786 찾기.cpp" />
+    <ClCompile Include="1789 수들의 합.cpp" />
     <ClCompile Include="1806 부분합.cpp" />
     <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp" />
     <ClCompile Include="18258 큐2.cpp" />

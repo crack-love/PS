@@ -733,6 +733,9 @@
     <ClCompile Include="17478 재귀함수가 뭔가요.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1789 수들의 합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
