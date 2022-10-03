@@ -739,6 +739,9 @@
     <ClCompile Include="13305 주유소.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2576 홀수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
