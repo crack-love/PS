@@ -745,6 +745,9 @@
     <ClCompile Include="25304 영수증.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2530 인공지능 시계.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

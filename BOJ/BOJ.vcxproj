@@ -326,6 +326,7 @@
     <ClCompile Include="2512 예산.cpp" />
     <ClCompile Include="2517 달리기.cpp" />
     <ClCompile Include="2523 별 찍기 - 13.cpp" />
+    <ClCompile Include="2530 인공지능 시계.cpp" />
     <ClCompile Include="25304 영수증.cpp" />
     <ClCompile Include="2565 전깃줄.cpp" />
     <ClCompile Include="2570 비숍2.cpp" />
