@@ -748,6 +748,9 @@
     <ClCompile Include="2530 인공지능 시계.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11660 구간 합 구하기 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
