@@ -220,6 +220,7 @@
     <ClCompile Include="1275 커피숖2.cpp" />
     <ClCompile Include="1280 나무 심기.cpp" />
     <ClCompile Include="12865 평범한 배낭.cpp" />
+    <ClCompile Include="1292 쉽게 푸는 문제.cpp" />
     <ClCompile Include="1298 노트북의 주인을 찾아서.cpp" />
     <ClCompile Include="1300 k번째 수.cpp" />
     <ClCompile Include="1305 광고.cpp" />

@@ -751,6 +751,9 @@
     <ClCompile Include="11660 구간 합 구하기 5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1292 쉽게 푸는 문제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
