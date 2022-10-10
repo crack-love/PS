@@ -757,6 +757,9 @@
     <ClCompile Include="9375 패션왕 신해빈.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2845 파티가 끝나고 난 뒤.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
