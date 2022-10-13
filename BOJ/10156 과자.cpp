@@ -5,21 +5,25 @@
 #define step(i,j,r,c) if (i < 0 || j < 0 || i >= r || j >= c) continue
 using namespace std;
 
-int main()
+struct p10156
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0); cout.tie(0);
 
-	int k, n, m;
-	cin >> k >> n >> m;
-	if (k * n <= m)
+	int main()
 	{
-		cout << "0";
-	}
-	else
-	{
-		cout << k * n - m;
-	}
+		ios::sync_with_stdio(0);
+		cin.tie(0); cout.tie(0);
 
-	return 0;
-}
+		int k, n, m;
+		cin >> k >> n >> m;
+		if (k * n <= m)
+		{
+			cout << "0";
+		}
+		else
+		{
+			cout << k * n - m;
+		}
+
+		return 0;
+	}
+};
