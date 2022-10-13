@@ -766,6 +766,9 @@
     <ClCompile Include="10156 과자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1271 엄청난 부자2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
