@@ -7,6 +7,8 @@ using namespace std;
 
 struct p1271
 {
+	// todo : ¹®ÀÚ¿­ ±×´ë·Î mul, div ¿¬»êÀ» Çæ ½´ ÀÖ´Ù. È®Àå¼ºÀº ¶³¾îÁü
+
 	// str=100 -> vec=001
 	vector<int> strToVec(const string& s)
 	{
