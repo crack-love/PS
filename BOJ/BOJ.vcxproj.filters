@@ -772,6 +772,9 @@
     <ClCompile Include="2902 KMP는 왜 KMP일까.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15657 N과 M (8).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
