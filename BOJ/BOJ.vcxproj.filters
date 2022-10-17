@@ -778,6 +778,9 @@
     <ClCompile Include="10988 팰린드롬인지 확인하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4101 크냐.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

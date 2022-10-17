@@ -364,6 +364,7 @@
     <ClCompile Include="3190 뱀.cpp" />
     <ClCompile Include="3653 영화 수집.cpp" />
     <ClCompile Include="3683 고양이와 개.cpp" />
+    <ClCompile Include="4101 크냐.cpp" />
     <ClCompile Include="4153 직각삼각형.cpp" />
     <ClCompile Include="4354 문자열 제곱.cpp" />
     <ClCompile Include="4386 별자리 만들기.cpp" />
