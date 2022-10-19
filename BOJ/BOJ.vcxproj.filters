@@ -784,6 +784,9 @@
     <ClCompile Include="1946 신입 사원.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10886 0=not cute 1 = cute.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
