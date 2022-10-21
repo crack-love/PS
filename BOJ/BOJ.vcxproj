@@ -394,6 +394,7 @@
     <ClCompile Include="9019 DSLR.cpp" />
     <ClCompile Include="2798 블랙잭.cpp" />
     <ClCompile Include="9020 골드바흐의 추측.cpp" />
+    <ClCompile Include="9093 단어 뒤집기.cpp" />
     <ClCompile Include="9251 LCS.cpp" />
     <ClCompile Include="9375 패션왕 신해빈.cpp" />
     <ClCompile Include="9525 룩 배치하기.cpp" />
@@ -412,6 +413,12 @@
     <Text Include="23034 input.gen.txt" />
     <Text Include="input.txt" />
     <Text Include="output.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BOJ.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

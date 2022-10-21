@@ -790,6 +790,9 @@
     <ClCompile Include="2953 나는 요리사다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9093 단어 뒤집기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -816,5 +819,11 @@
     <Text Include="1707 output.txt">
       <Filter>Source Files</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BOJ.rc" />
   </ItemGroup>
 </Project>
