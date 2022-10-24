@@ -793,6 +793,15 @@
     <ClCompile Include="9093 단어 뒤집기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2501 약수 구하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5522 카드 게임.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5597 과제 안 내신 분.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

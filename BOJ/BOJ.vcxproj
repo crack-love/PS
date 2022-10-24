@@ -331,6 +331,7 @@
     <ClCompile Include="2473 세 용액.cpp" />
     <ClCompile Include="2490 윷놀이.cpp" />
     <ClCompile Include="2493 탑.cpp" />
+    <ClCompile Include="2501 약수 구하기.cpp" />
     <ClCompile Include="25083 새싹.cpp" />
     <ClCompile Include="2512 예산.cpp" />
     <ClCompile Include="2517 달리기.cpp" />
@@ -378,6 +379,7 @@
     <ClCompile Include="5086 배수와 약수.cpp" />
     <ClCompile Include="5419 북서풍.cpp" />
     <ClCompile Include="5430 AC.cpp" />
+    <ClCompile Include="5522 카드 게임.cpp" />
     <ClCompile Include="5543 상근날드.cpp" />
     <ClCompile Include="5585 거스름돈.cpp" />
     <ClCompile Include="5622 다이얼.cpp" />
@@ -403,6 +405,7 @@
     <ClCompile Include="9613 GCD 합.cpp" />
     <ClCompile Include="vtest.cpp" />
     <ClCompile Include="_Template.cpp" />
+    <ClCompile Include="5597 과제 안 내신 분.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="11003.input.txt" />
