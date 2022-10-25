@@ -802,6 +802,9 @@
     <ClCompile Include="5597 과제 안 내신 분.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10807 개수 세기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
