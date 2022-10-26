@@ -805,6 +805,9 @@
     <ClCompile Include="10807 개수 세기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1715 카드 정렬하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
