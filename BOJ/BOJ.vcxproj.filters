@@ -811,6 +811,9 @@
     <ClCompile Include="5339 콜센터.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6064 카잉 달력.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
