@@ -384,6 +384,7 @@
     <ClCompile Include="5430 AC.cpp" />
     <ClCompile Include="5522 카드 게임.cpp" />
     <ClCompile Include="5543 상근날드.cpp" />
+    <ClCompile Include="5565 영수증.cpp" />
     <ClCompile Include="5585 거스름돈.cpp" />
     <ClCompile Include="5622 다이얼.cpp" />
     <ClCompile Include="6064 카잉 달력.cpp" />
