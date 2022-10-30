@@ -363,6 +363,7 @@
     <ClCompile Include="2902 KMP는 왜 KMP일까.cpp" />
     <ClCompile Include="2914 저작권.cpp" />
     <ClCompile Include="2953 나는 요리사다.cpp" />
+    <ClCompile Include="2960 에라토스테네스의 체.cpp" />
     <ClCompile Include="3003 킹, 퀸, 룩, 비숍, 나이트, 폰.cpp" />
     <ClCompile Include="3009 네 번째 점.cpp" />
     <ClCompile Include="3053 택시 기하학.cpp" />
