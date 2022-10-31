@@ -820,6 +820,9 @@
     <ClCompile Include="2960 에라토스테네스의 체.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1309 동물원.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
