@@ -263,6 +263,7 @@
     <ClCompile Include="15650 N과 M (2).cpp" />
     <ClCompile Include="15651 N과 M (3).cpp" />
     <ClCompile Include="15654 N과 M (5).cpp" />
+    <ClCompile Include="15655 N과 M (6).cpp" />
     <ClCompile Include="15657 N과 M (8).cpp" />
     <ClCompile Include="15683 감시.cpp" />
     <ClCompile Include="15686 치킨 배달.cpp" />
@@ -410,6 +411,7 @@
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
     <ClCompile Include="9613 GCD 합.cpp" />
+    <ClCompile Include="9655 돌 게임.cpp" />
     <ClCompile Include="vtest.cpp" />
     <ClCompile Include="_Template.cpp" />
     <ClCompile Include="5597 과제 안 내신 분.cpp" />
