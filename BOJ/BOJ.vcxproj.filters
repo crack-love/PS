@@ -829,6 +829,9 @@
     <ClCompile Include="15655 N과 M (6).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1967 트리의 지름.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
