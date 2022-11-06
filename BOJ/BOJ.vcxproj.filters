@@ -838,6 +838,9 @@
     <ClCompile Include="1439 뒤집기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5554 심부름 가는 길.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
