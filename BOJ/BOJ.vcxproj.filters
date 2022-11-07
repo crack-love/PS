@@ -847,6 +847,9 @@
     <ClCompile Include="1167 트리의 지름.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2744 대소문자 바꾸기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
