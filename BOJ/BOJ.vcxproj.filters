@@ -850,6 +850,9 @@
     <ClCompile Include="2744 대소문자 바꾸기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9654 나부 함대 데이터.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
