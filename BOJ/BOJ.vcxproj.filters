@@ -853,6 +853,9 @@
     <ClCompile Include="9654 나부 함대 데이터.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16953 A - B.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

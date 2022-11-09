@@ -279,6 +279,7 @@
     <ClCompile Include="1654 랜선 자르기.cpp" />
     <ClCompile Include="1671 상어의 저녁식사.cpp" />
     <ClCompile Include="1676 팩토리얼 0의 개수.cpp" />
+    <ClCompile Include="16953 A - B.cpp" />
     <ClCompile Include="16956 늑대와 양.cpp" />
     <ClCompile Include="16975 수열과 쿼리 21.cpp" />
     <ClCompile Include="1707 이분 그래프.cpp" />
