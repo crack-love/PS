@@ -193,6 +193,7 @@
     <ClCompile Include="11376 열혈강호 2.cpp" />
     <ClCompile Include="11377 열혈강호 3.cpp" />
     <ClCompile Include="11378 열혈강호 4.cpp" />
+    <ClCompile Include="11382 꼬마 정민.cpp" />
     <ClCompile Include="11406 책 구매하기 2.cpp" />
     <ClCompile Include="11437 LCA.cpp" />
     <ClCompile Include="11438 LCA 2.cpp" />
