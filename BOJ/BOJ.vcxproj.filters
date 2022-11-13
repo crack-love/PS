@@ -865,6 +865,9 @@
     <ClCompile Include="1644 소수의 연속합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1918 후위 표기식.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

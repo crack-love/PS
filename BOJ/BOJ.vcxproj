@@ -310,6 +310,7 @@
     <ClCompile Include="18870 좌표 압축.cpp" />
     <ClCompile Include="1893 시저 암호.cpp" />
     <ClCompile Include="1904 01타일.cpp" />
+    <ClCompile Include="1918 후위 표기식.cpp" />
     <ClCompile Include="1932 정수 삼각형.cpp" />
     <ClCompile Include="1939 중량제한.cpp" />
     <ClCompile Include="1946 신입 사원.cpp" />
