@@ -868,6 +868,9 @@
     <ClCompile Include="1918 후위 표기식.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1339 단어 수학.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
