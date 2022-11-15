@@ -871,6 +871,9 @@
     <ClCompile Include="1339 단어 수학.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17070 파이프 옮기기 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

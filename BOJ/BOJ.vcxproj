@@ -287,6 +287,7 @@
     <ClCompile Include="16956 늑대와 양.cpp" />
     <ClCompile Include="16975 수열과 쿼리 21.cpp" />
     <ClCompile Include="1707 이분 그래프.cpp" />
+    <ClCompile Include="17070 파이프 옮기기 1.cpp" />
     <ClCompile Include="17143 낚시왕.cpp" />
     <ClCompile Include="17144 미세먼지 안녕!.cpp" />
     <ClCompile Include="1715 카드 정렬하기.cpp" />
