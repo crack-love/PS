@@ -880,6 +880,9 @@
     <ClCompile Include="2636 치즈.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1068 트리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

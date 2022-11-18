@@ -162,6 +162,7 @@
     <ClCompile Include="1047 울타리.cpp" />
     <ClCompile Include="1052 물병.cpp" />
     <ClCompile Include="1058 친구.cpp" />
+    <ClCompile Include="1068 트리.cpp" />
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="10699 오늘 날짜.cpp" />
     <ClCompile Include="1071 소트.cpp" />
