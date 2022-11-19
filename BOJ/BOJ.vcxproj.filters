@@ -883,6 +883,9 @@
     <ClCompile Include="1068 트리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15663 N과 M (9).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
