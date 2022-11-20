@@ -5,48 +5,51 @@
 #define step(i,j,r,c) if (i < 0 || j < 0 || i >= r || j >= c) continue
 using namespace std;
 
-int n, m;
-int a[8];
-vector<int> v;
-
-void solve(int idx, int rvisit)
+struct p15663
 {
-	if (idx >= m)
-	{	
-		for (int i = 0; i < m; ++i)
+	int n, m;
+	int a[8];
+	vector<int> v;
+
+	void solve(int idx, int rvisit)
+	{
+		if (idx >= m)
 		{
-			cout << a[v[i]] << " ";
+			for (int i = 0; i < m; ++i)
+			{
+				cout << a[v[i]] << " ";
+			}
+			cout << "\n";
+			return;
 		}
-		cout << "\n";
-		return;
+
+		unordered_set<int> cvisit;
+		for (int j = 0; j < n; ++j)
+		{
+			if (rvisit & (1 << j)) continue;
+			if (cvisit.find(a[j]) != cvisit.end()) continue;
+
+			cvisit.insert(a[j]);
+
+			v.push_back(j);
+			solve(idx + 1, rvisit | (1 << j));
+			v.pop_back();
+		}
 	}
 
-	unordered_set<int> cvisit;
-	for (int j = 0; j < n; ++j)
+	int main()
 	{
-		if (rvisit & (1 << j)) continue;
-		if (cvisit.find(a[j]) != cvisit.end()) continue;
+		ios::sync_with_stdio(0);
+		cin.tie(0); cout.tie(0);
 
-		cvisit.insert(a[j]);
+		cin >> n >> m;
+		for (int i = 0; i < n; ++i)
+		{
+			cin >> a[i];
+		}
+		sort(a, a + n);
+		solve(0, 0);
 
-		v.push_back(j);
-		solve(idx + 1, rvisit | (1 << j));
-		v.pop_back();
+		return 0;
 	}
-}
-
-int main()
-{
-	ios::sync_with_stdio(0);
-	cin.tie(0); cout.tie(0);
-
-	cin >> n >> m;
-	for (int i = 0; i < n; ++i)
-	{
-		cin >> a[i];
-	}
-	sort(a, a + n);
-	solve(0, 0);
-
-	return 0;
-}
+};

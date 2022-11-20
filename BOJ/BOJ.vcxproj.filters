@@ -886,6 +886,9 @@
     <ClCompile Include="15663 N과 M (9).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2754 학점계산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
