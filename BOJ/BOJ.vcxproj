@@ -335,6 +335,7 @@
     <ClCompile Include="2243 사탕상자.cpp" />
     <ClCompile Include="2285 우체국.cpp" />
     <ClCompile Include="23034 조별과제 멈춰!.cpp" />
+    <ClCompile Include="2738 행렬 계산.cpp" />
     <ClCompile Include="2342 Dance Dance Revolution.cpp" />
     <ClCompile Include="2343 기타 레슨.cpp" />
     <ClCompile Include="2352 반도체 설계.cpp" />
