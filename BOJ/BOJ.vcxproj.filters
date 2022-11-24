@@ -898,6 +898,9 @@
     <ClCompile Include="11728 배열 합치기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2338 긴자리 계산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
