@@ -904,6 +904,9 @@
     <ClCompile Include="2587 대표값2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10798 세로읽기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
