@@ -907,6 +907,9 @@
     <ClCompile Include="10798 세로읽기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14002 가장 긴 증가하는 부분 수열 4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
