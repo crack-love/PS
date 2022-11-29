@@ -913,6 +913,9 @@
     <ClCompile Include="10170 NFC West vs North.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15829 Hashing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
