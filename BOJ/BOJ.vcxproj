@@ -319,6 +319,7 @@
     <ClCompile Include="1867 돌멩이 제거.cpp" />
     <ClCompile Include="1874 스택 수열.cpp" />
     <ClCompile Include="18870 좌표 압축.cpp" />
+    <ClCompile Include="1890 점프.cpp" />
     <ClCompile Include="1893 시저 암호.cpp" />
     <ClCompile Include="1904 01타일.cpp" />
     <ClCompile Include="1918 후위 표기식.cpp" />
