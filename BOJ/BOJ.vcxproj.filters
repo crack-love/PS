@@ -922,6 +922,9 @@
     <ClCompile Include="1890 점프.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2504 괄호의 값.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

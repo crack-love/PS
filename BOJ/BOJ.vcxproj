@@ -343,6 +343,7 @@
     <ClCompile Include="2285 우체국.cpp" />
     <ClCompile Include="23034 조별과제 멈춰!.cpp" />
     <ClCompile Include="2338 긴자리 계산.cpp" />
+    <ClCompile Include="2504 괄호의 값.cpp" />
     <ClCompile Include="2587 대표값2.cpp" />
     <ClCompile Include="2738 행렬 계산.cpp" />
     <ClCompile Include="2342 Dance Dance Revolution.cpp" />
