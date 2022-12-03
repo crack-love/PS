@@ -925,6 +925,9 @@
     <ClCompile Include="2504 괄호의 값.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1748 수 이어 쓰기 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
