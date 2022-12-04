@@ -928,6 +928,9 @@
     <ClCompile Include="1748 수 이어 쓰기 1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7567 그릇.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
