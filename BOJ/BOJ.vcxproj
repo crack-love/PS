@@ -161,6 +161,7 @@
     <ClCompile Include="1041 주사위.cpp" />
     <ClCompile Include="1047 울타리.cpp" />
     <ClCompile Include="1052 물병.cpp" />
+    <ClCompile Include="1057 토너먼트.cpp" />
     <ClCompile Include="1058 친구.cpp" />
     <ClCompile Include="1068 트리.cpp" />
     <ClCompile Include="1069 집으로.cpp" />

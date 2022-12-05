@@ -931,6 +931,9 @@
     <ClCompile Include="7567 그릇.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1057 토너먼트.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
