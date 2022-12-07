@@ -937,6 +937,9 @@
     <ClCompile Include="9466 텀 프로젝트.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2559 수열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
