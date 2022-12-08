@@ -940,6 +940,9 @@
     <ClCompile Include="2559 수열.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15685 드래곤 커브.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
