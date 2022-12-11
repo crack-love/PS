@@ -946,6 +946,12 @@
     <ClCompile Include="1976 여행 가자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15666 N과 M (12).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5532 방학 숙제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
