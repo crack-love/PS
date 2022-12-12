@@ -952,6 +952,9 @@
     <ClCompile Include="5532 방학 숙제.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2460 지능형 기차 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
