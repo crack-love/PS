@@ -955,6 +955,9 @@
     <ClCompile Include="2460 지능형 기차 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9086 문자열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
