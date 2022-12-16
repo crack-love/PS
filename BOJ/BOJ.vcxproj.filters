@@ -964,6 +964,9 @@
     <ClCompile Include="16394 홍익대학교.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15964 이상한 기호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
