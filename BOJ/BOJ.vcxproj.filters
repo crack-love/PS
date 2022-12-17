@@ -967,6 +967,9 @@
     <ClCompile Include="15964 이상한 기호.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10101 삼각형 외우기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
