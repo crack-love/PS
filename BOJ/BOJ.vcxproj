@@ -200,6 +200,7 @@
     <ClCompile Include="1976 여행 가자.cpp" />
     <ClCompile Include="2460 지능형 기차 2.cpp" />
     <ClCompile Include="2559 수열.cpp" />
+    <ClCompile Include="2740 행렬 곱셈.cpp" />
     <ClCompile Include="5532 방학 숙제.cpp" />
     <ClCompile Include="7567 그릇.cpp" />
     <ClCompile Include="11286 절댓값 힙.cpp" />
