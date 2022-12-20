@@ -976,6 +976,9 @@
     <ClCompile Include="1937 욕심쟁이 판다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3085 사탕 게임.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
