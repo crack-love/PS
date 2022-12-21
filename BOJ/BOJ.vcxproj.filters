@@ -979,6 +979,9 @@
     <ClCompile Include="3085 사탕 게임.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3273 두 수의 합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
