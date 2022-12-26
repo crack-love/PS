@@ -991,6 +991,9 @@
     <ClCompile Include="4796 캠핑.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2506 점수계산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
