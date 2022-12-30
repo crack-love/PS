@@ -1003,6 +1003,9 @@
     <ClCompile Include="4999 아!.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25305 커트라인.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
