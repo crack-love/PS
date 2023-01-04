@@ -1018,6 +1018,9 @@
     <ClCompile Include="10833 사과.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15894 수학은 체육과목 입니다.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
