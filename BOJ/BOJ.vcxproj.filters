@@ -1021,6 +1021,9 @@
     <ClCompile Include="15894 수학은 체육과목 입니다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10867 중복 빼고 정렬하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
