@@ -1030,6 +1030,9 @@
     <ClCompile Include="10987 모음의 개수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18111 마인크래프트.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
