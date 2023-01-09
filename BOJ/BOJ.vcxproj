@@ -472,6 +472,7 @@
     <ClCompile Include="9086 문자열.cpp" />
     <ClCompile Include="9093 단어 뒤집기.cpp" />
     <ClCompile Include="9251 LCS.cpp" />
+    <ClCompile Include="9372 상근이의 여행.cpp" />
     <ClCompile Include="9375 패션왕 신해빈.cpp" />
     <ClCompile Include="9466 텀 프로젝트.cpp" />
     <ClCompile Include="9525 룩 배치하기.cpp" />
