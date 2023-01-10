@@ -1036,6 +1036,9 @@
     <ClCompile Include="9372 상근이의 여행.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2161 카드1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

@@ -207,6 +207,7 @@
     <ClCompile Include="18111 마인크래프트.cpp" />
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
+    <ClCompile Include="2161 카드1.cpp" />
     <ClCompile Include="2460 지능형 기차 2.cpp" />
     <ClCompile Include="2506 점수계산.cpp" />
     <ClCompile Include="25305 커트라인.cpp" />
