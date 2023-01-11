@@ -467,6 +467,7 @@
     <ClCompile Include="7562 나이트의 이동.cpp" />
     <ClCompile Include="7575 바이러스.cpp" />
     <ClCompile Include="7578 공장.cpp" />
+    <ClCompile Include="7785 회사에 있는 사람.cpp" />
     <ClCompile Include="9019 DSLR.cpp" />
     <ClCompile Include="2798 블랙잭.cpp" />
     <ClCompile Include="9020 골드바흐의 추측.cpp" />
