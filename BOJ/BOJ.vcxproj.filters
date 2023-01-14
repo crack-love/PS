@@ -1051,6 +1051,9 @@
     <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1269 대칭 차집합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
