@@ -206,6 +206,7 @@
     <ClCompile Include="15964 이상한 기호.cpp" />
     <ClCompile Include="16394 홍익대학교.cpp" />
     <ClCompile Include="15680 연세대학교.cpp" />
+    <ClCompile Include="16430 제리와 톰.cpp" />
     <ClCompile Include="18111 마인크래프트.cpp" />
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />

@@ -1057,6 +1057,9 @@
     <ClCompile Include="10990 별 찍기 - 15.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16430 제리와 톰.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
