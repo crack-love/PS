@@ -1060,6 +1060,9 @@
     <ClCompile Include="16430 제리와 톰.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2476 주사위 게임.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
