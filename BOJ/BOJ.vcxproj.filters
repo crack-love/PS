@@ -1063,6 +1063,9 @@
     <ClCompile Include="2476 주사위 게임.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9205 맥주 마시면서 걸어가기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -1087,6 +1090,12 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="1707 output.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="9205 out.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="9205 in.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
