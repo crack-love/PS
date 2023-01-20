@@ -1072,6 +1072,9 @@
     <ClCompile Include="7662 이중 우선순위 큐.map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10972 다음 순열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
