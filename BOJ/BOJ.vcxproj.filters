@@ -1078,6 +1078,9 @@
     <ClCompile Include="13023 ABCDE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14226 이모티콘.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
