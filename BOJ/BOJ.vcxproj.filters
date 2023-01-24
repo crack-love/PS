@@ -1084,6 +1084,9 @@
     <ClCompile Include="9316 Hello Judge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1264 모음의 개수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
