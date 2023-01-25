@@ -223,6 +223,7 @@
     <ClCompile Include="2559 수열.cpp" />
     <ClCompile Include="2740 행렬 곱셈.cpp" />
     <ClCompile Include="11365 !밀비 급일.cpp" />
+    <ClCompile Include="2851 슈퍼 마리오.cpp" />
     <ClCompile Include="2864 5와 6의 차이.cpp" />
     <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp" />
     <ClCompile Include="3085 사탕 게임.cpp" />

@@ -1087,6 +1087,9 @@
     <ClCompile Include="1264 모음의 개수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2851 슈퍼 마리오.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
