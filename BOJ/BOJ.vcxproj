@@ -160,6 +160,7 @@
     <ClCompile Include="1038 감소하는 수.cpp" />
     <ClCompile Include="1039 교환.cpp" />
     <ClCompile Include="1041 주사위.cpp" />
+    <ClCompile Include="10448 유레카 이론.cpp" />
     <ClCompile Include="1047 울타리.cpp" />
     <ClCompile Include="1052 물병.cpp" />
     <ClCompile Include="1057 토너먼트.cpp" />

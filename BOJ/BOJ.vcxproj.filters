@@ -1090,6 +1090,9 @@
     <ClCompile Include="2851 슈퍼 마리오.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10448 유레카 이론.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
