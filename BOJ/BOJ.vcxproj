@@ -482,6 +482,7 @@
     <ClCompile Include="7662 이중 우선순위 큐.pq.cpp" />
     <ClCompile Include="7662 이중 우선순위 큐.map.cpp" />
     <ClCompile Include="7785 회사에 있는 사람.cpp" />
+    <ClCompile Include="8370 Plane.cpp" />
     <ClCompile Include="9019 DSLR.cpp" />
     <ClCompile Include="2798 블랙잭.cpp" />
     <ClCompile Include="9020 골드바흐의 추측.cpp" />

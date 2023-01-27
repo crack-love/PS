@@ -1093,6 +1093,9 @@
     <ClCompile Include="10448 유레카 이론.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="8370 Plane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
