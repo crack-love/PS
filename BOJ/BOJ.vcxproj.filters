@@ -1099,6 +1099,9 @@
     <ClCompile Include="3986 좋은 단어.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5427 불.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
