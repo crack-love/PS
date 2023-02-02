@@ -1111,6 +1111,9 @@
     <ClCompile Include="5717 상근이의 친구들.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1297 TV 크기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
