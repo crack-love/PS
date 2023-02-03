@@ -1114,6 +1114,9 @@
     <ClCompile Include="1297 TV 크기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15727 조별과제를 하려는데 조장이 사라졌다.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
