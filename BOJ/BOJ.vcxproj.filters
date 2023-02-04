@@ -1117,6 +1117,9 @@
     <ClCompile Include="15727 조별과제를 하려는데 조장이 사라졌다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17295 엔드게임 스포일러.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
