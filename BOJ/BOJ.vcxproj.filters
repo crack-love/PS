@@ -1123,6 +1123,9 @@
     <ClCompile Include="11931 수 정렬하기 4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16170 오늘의 날짜는.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
