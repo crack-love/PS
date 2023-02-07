@@ -1126,6 +1126,9 @@
     <ClCompile Include="16170 오늘의 날짜는.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="8979 올림픽.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
