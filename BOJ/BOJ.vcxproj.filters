@@ -1141,6 +1141,9 @@
     <ClCompile Include="6359 만취한 상범.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10707 수도요금.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

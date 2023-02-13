@@ -168,6 +168,7 @@
     <ClCompile Include="1068 트리.cpp" />
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="10699 오늘 날짜.cpp" />
+    <ClCompile Include="10707 수도요금.cpp" />
     <ClCompile Include="1071 소트.cpp" />
     <ClCompile Include="1072 게임.cpp" />
     <ClCompile Include="1074 Z.cpp" />
