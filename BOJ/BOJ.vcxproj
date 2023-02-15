@@ -172,6 +172,7 @@
     <ClCompile Include="1071 소트.cpp" />
     <ClCompile Include="1072 게임.cpp" />
     <ClCompile Include="1074 Z.cpp" />
+    <ClCompile Include="10768 특별한 날.cpp" />
     <ClCompile Include="10797 10부제.cpp" />
     <ClCompile Include="10798 세로읽기.cpp" />
     <ClCompile Include="10807 개수 세기.cpp" />
@@ -208,6 +209,7 @@
     <ClCompile Include="14652 나는 행복합니다~.cpp" />
     <ClCompile Include="14916 거스름돈.cpp" />
     <ClCompile Include="16170 오늘의 날짜는.cpp" />
+    <ClCompile Include="1652 누울 자리를 찾아라.cpp" />
     <ClCompile Include="17295 엔드게임 스포일러.cpp" />
     <ClCompile Include="14226 이모티콘.cpp" />
     <ClCompile Include="14645 와이버스 부릉부릉.cpp" />
