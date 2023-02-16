@@ -1150,6 +1150,9 @@
     <ClCompile Include="1652 누울 자리를 찾아라.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="21608 상어 초등학교.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
