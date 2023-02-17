@@ -234,6 +234,7 @@
     <ClCompile Include="2506 점수계산.cpp" />
     <ClCompile Include="25305 커트라인.cpp" />
     <ClCompile Include="2559 수열.cpp" />
+    <ClCompile Include="2578 빙고.cpp" />
     <ClCompile Include="2740 행렬 곱셈.cpp" />
     <ClCompile Include="11365 !밀비 급일.cpp" />
     <ClCompile Include="2851 슈퍼 마리오.cpp" />
