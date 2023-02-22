@@ -1165,6 +1165,9 @@
     <ClCompile Include="1865 월홀.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9325 얼마.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
