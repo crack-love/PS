@@ -1171,6 +1171,9 @@
     <ClCompile Include="2846 오르막길.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2720 세탁소 사장 동혁.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
