@@ -15,8 +15,8 @@ struct p20492
 
 		int n;
 		cin >> n;
-		int a = n * 0.78;
-		int b = n * 0.80 + n * 0.20 * 0.78;
+		int a = (int)(n * 0.78);
+		int b = (int)(n * 0.80) + (int)(n * 0.20 * 0.78);
 		cout << a << " " << b;
 
 		return 0;

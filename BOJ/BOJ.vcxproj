@@ -234,6 +234,7 @@
     <ClCompile Include="21608 상어 초등학교.cpp" />
     <ClCompile Include="2161 카드1.cpp" />
     <ClCompile Include="1159 농구 경기.cpp" />
+    <ClCompile Include="2239 스도쿠.cpp" />
     <ClCompile Include="2460 지능형 기차 2.cpp" />
     <ClCompile Include="2476 주사위 게임.cpp" />
     <ClCompile Include="2506 점수계산.cpp" />
