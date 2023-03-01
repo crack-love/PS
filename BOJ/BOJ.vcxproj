@@ -247,6 +247,7 @@
     <ClCompile Include="2846 오르막길.cpp" />
     <ClCompile Include="2851 슈퍼 마리오.cpp" />
     <ClCompile Include="2864 5와 6의 차이.cpp" />
+    <ClCompile Include="2965 캥거루 세마리.cpp" />
     <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp" />
     <ClCompile Include="3085 사탕 게임.cpp" />
     <ClCompile Include="3273 두 수의 합.cpp" />
