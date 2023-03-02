@@ -249,6 +249,7 @@
     <ClCompile Include="2864 5와 6의 차이.cpp" />
     <ClCompile Include="2965 캥거루 세마리.cpp" />
     <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp" />
+    <ClCompile Include="3047 ABC.cpp" />
     <ClCompile Include="3085 사탕 게임.cpp" />
     <ClCompile Include="3273 두 수의 합.cpp" />
     <ClCompile Include="15962 새로운 시작.cpp" />
