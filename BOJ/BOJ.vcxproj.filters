@@ -1198,6 +1198,9 @@
     <ClCompile Include="10984 내 학점을 구해줘.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2789 유학 금지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
