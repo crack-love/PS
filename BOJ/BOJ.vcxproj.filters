@@ -1204,6 +1204,9 @@
     <ClCompile Include="17362 수학은 체육과목 입니다 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3058 짝수를 찾아라.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
