@@ -1210,6 +1210,9 @@
     <ClCompile Include="17256 달달함이 넘쳐흘러.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10569 다면체.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
