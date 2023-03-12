@@ -1219,6 +1219,9 @@
     <ClCompile Include="11948 과목선택.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17219 비밀번호 찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
