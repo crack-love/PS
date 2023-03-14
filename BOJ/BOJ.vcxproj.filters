@@ -1225,6 +1225,9 @@
     <ClCompile Include="25314 코딩은 체육과목 입니다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1302 베스트셀러.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

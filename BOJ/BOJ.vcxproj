@@ -209,6 +209,7 @@
     <ClCompile Include="1264 모음의 개수.cpp" />
     <ClCompile Include="1269 대칭 차집합.cpp" />
     <ClCompile Include="1297 TV 크기.cpp" />
+    <ClCompile Include="1302 베스트셀러.cpp" />
     <ClCompile Include="13023 ABCDE.cpp" />
     <ClCompile Include="1431 시리얼 번호.cpp" />
     <ClCompile Include="14652 나는 행복합니다~.cpp" />
