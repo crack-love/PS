@@ -1228,6 +1228,9 @@
     <ClCompile Include="1302 베스트셀러.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2822 점수 계산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
