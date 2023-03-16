@@ -235,6 +235,7 @@
     <ClCompile Include="17362 수학은 체육과목 입니다 2.cpp" />
     <ClCompile Include="18111 마인크래프트.cpp" />
     <ClCompile Include="1865 월홀.cpp" />
+    <ClCompile Include="1935 후위 표기식2.cpp" />
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
     <ClCompile Include="20492 세금.cpp" />

@@ -1231,6 +1231,9 @@
     <ClCompile Include="2822 점수 계산.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1935 후위 표기식2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
