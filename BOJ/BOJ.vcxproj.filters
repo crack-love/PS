@@ -1234,6 +1234,9 @@
     <ClCompile Include="1935 후위 표기식2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1543 문서 검색.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
