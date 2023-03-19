@@ -546,6 +546,7 @@
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
     <ClCompile Include="9613 GCD 합.cpp" />
+    <ClCompile Include="9625 BABBA.cpp" />
     <ClCompile Include="9654 나부 함대 데이터.cpp" />
     <ClCompile Include="9655 돌 게임.cpp" />
     <ClCompile Include="vtest.cpp" />
