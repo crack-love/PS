@@ -234,6 +234,7 @@
     <ClCompile Include="16430 제리와 톰.cpp" />
     <ClCompile Include="16928 뱀과 사다리 게임.cpp" />
     <ClCompile Include="17362 수학은 체육과목 입니다 2.cpp" />
+    <ClCompile Include="1743 음식물 피하기.cpp" />
     <ClCompile Include="18111 마인크래프트.cpp" />
     <ClCompile Include="1865 월홀.cpp" />
     <ClCompile Include="1935 후위 표기식2.cpp" />
