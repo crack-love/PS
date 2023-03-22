@@ -257,6 +257,7 @@
     <ClCompile Include="2720 세탁소 사장 동혁.cpp" />
     <ClCompile Include="2740 행렬 곱셈.cpp" />
     <ClCompile Include="11365 !밀비 급일.cpp" />
+    <ClCompile Include="2776 암기왕.cpp" />
     <ClCompile Include="2789 유학 금지.cpp" />
     <ClCompile Include="2822 점수 계산.cpp" />
     <ClCompile Include="2846 오르막길.cpp" />
