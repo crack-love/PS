@@ -268,6 +268,7 @@
     <ClCompile Include="3047 ABC.cpp" />
     <ClCompile Include="3058 짝수를 찾아라.cpp" />
     <ClCompile Include="3085 사탕 게임.cpp" />
+    <ClCompile Include="3184 양.cpp" />
     <ClCompile Include="3273 두 수의 합.cpp" />
     <ClCompile Include="15962 새로운 시작.cpp" />
     <ClCompile Include="3986 좋은 단어.cpp" />
