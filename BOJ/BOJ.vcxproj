@@ -542,6 +542,7 @@
     <ClCompile Include="9205 맥주 마시면서 걸어가기.cpp" />
     <ClCompile Include="9251 LCS.cpp" />
     <ClCompile Include="10990 별 찍기 - 15.cpp" />
+    <ClCompile Include="9295 주사위.cpp" />
     <ClCompile Include="9316 Hello Judge.cpp" />
     <ClCompile Include="9325 얼마.cpp" />
     <ClCompile Include="9372 상근이의 여행.cpp" />
