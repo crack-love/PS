@@ -1261,6 +1261,9 @@
     <ClCompile Include="13303 타일 장식물.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3034 앵그리 창영.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

@@ -266,6 +266,7 @@
     <ClCompile Include="2851 슈퍼 마리오.cpp" />
     <ClCompile Include="2864 5와 6의 차이.cpp" />
     <ClCompile Include="2965 캥거루 세마리.cpp" />
+    <ClCompile Include="3034 앵그리 창영.cpp" />
     <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp" />
     <ClCompile Include="3047 ABC.cpp" />
     <ClCompile Include="3058 짝수를 찾아라.cpp" />
