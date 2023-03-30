@@ -1270,6 +1270,9 @@
     <ClCompile Include="2857 FBI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4504 배수 찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
