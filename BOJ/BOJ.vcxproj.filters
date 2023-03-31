@@ -1273,6 +1273,9 @@
     <ClCompile Include="4504 배수 찾기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10178 할로윈의 사탕.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

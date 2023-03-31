@@ -147,6 +147,7 @@
     <ClCompile Include="10156 과자.cpp" />
     <ClCompile Include="10159 저울.cpp" />
     <ClCompile Include="10162 전자레인지.cpp" />
+    <ClCompile Include="10178 할로윈의 사탕.cpp" />
     <ClCompile Include="1021 회전하는 큐 v1.cpp" />
     <ClCompile Include="1021 회전하는 큐.cpp" />
     <ClCompile Include="1022 소용돌이 예쁘게 출력하기.cpp" />
