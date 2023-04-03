@@ -219,6 +219,7 @@
     <ClCompile Include="14719 빗물.cpp" />
     <ClCompile Include="14916 거스름돈.cpp" />
     <ClCompile Include="1543 문서 검색.cpp" />
+    <ClCompile Include="15439 Vera and Outfits.cpp" />
     <ClCompile Include="16170 오늘의 날짜는.cpp" />
     <ClCompile Include="1652 누울 자리를 찾아라.cpp" />
     <ClCompile Include="17219 비밀번호 찾기.cpp" />

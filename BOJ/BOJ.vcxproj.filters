@@ -1282,6 +1282,9 @@
     <ClCompile Include="2961 도영이가 만든 맛있는 음식.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15439 Vera and Outfits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
