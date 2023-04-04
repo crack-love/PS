@@ -251,6 +251,7 @@
     <ClCompile Include="2161 카드1.cpp" />
     <ClCompile Include="1159 농구 경기.cpp" />
     <ClCompile Include="2239 스도쿠.cpp" />
+    <ClCompile Include="24262 알고리즘 수업 - 알고리즘의 수행 시간 1.cpp" />
     <ClCompile Include="2460 지능형 기차 2.cpp" />
     <ClCompile Include="2476 주사위 게임.cpp" />
     <ClCompile Include="2506 점수계산.cpp" />

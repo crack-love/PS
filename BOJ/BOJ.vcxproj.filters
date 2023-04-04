@@ -1285,6 +1285,9 @@
     <ClCompile Include="15439 Vera and Outfits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="24262 알고리즘 수업 - 알고리즘의 수행 시간 1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
