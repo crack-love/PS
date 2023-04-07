@@ -1294,6 +1294,9 @@
     <ClCompile Include="1408 24.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5073 삼각형과 세 변.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
