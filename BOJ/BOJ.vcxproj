@@ -273,6 +273,7 @@
     <ClCompile Include="2851 슈퍼 마리오.cpp" />
     <ClCompile Include="2857 FBI.cpp" />
     <ClCompile Include="2864 5와 6의 차이.cpp" />
+    <ClCompile Include="1568 새.cpp" />
     <ClCompile Include="2961 도영이가 만든 맛있는 음식.cpp" />
     <ClCompile Include="2965 캥거루 세마리.cpp" />
     <ClCompile Include="3034 앵그리 창영.cpp" />
