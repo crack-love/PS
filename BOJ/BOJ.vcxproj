@@ -248,6 +248,7 @@
     <ClCompile Include="1865 월홀.cpp" />
     <ClCompile Include="1935 후위 표기식2.cpp" />
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
+    <ClCompile Include="1969 DNA.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
     <ClCompile Include="20492 세금.cpp" />
     <ClCompile Include="21608 상어 초등학교.cpp" />
