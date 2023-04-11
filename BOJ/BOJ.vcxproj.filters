@@ -1306,6 +1306,9 @@
     <ClCompile Include="1969 DNA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1913 달팽이.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
