@@ -1309,6 +1309,9 @@
     <ClCompile Include="1913 달팽이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="19532 수학은 비대면강의입니다.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
