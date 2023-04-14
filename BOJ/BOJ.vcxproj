@@ -281,6 +281,7 @@
     <ClCompile Include="1568 새.cpp" />
     <ClCompile Include="2961 도영이가 만든 맛있는 음식.cpp" />
     <ClCompile Include="2965 캥거루 세마리.cpp" />
+    <ClCompile Include="2979 트럭 주차.cpp" />
     <ClCompile Include="3034 앵그리 창영.cpp" />
     <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp" />
     <ClCompile Include="3047 ABC.cpp" />

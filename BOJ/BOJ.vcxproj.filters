@@ -1315,6 +1315,9 @@
     <ClCompile Include="13335 트럭.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2979 트럭 주차.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
