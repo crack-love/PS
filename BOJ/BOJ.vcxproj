@@ -253,6 +253,7 @@
     <ClCompile Include="1969 DNA.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
     <ClCompile Include="20492 세금.cpp" />
+    <ClCompile Include="20499 Darius님 한타 안 함.cpp" />
     <ClCompile Include="21608 상어 초등학교.cpp" />
     <ClCompile Include="2161 카드1.cpp" />
     <ClCompile Include="1159 농구 경기.cpp" />
