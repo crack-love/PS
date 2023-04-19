@@ -1330,6 +1330,9 @@
     <ClCompile Include="14720 우유 축제.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5575 타임 카드.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
