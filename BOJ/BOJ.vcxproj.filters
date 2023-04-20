@@ -1333,6 +1333,9 @@
     <ClCompile Include="5575 타임 카드.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5635 생일.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
