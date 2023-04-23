@@ -1342,6 +1342,9 @@
     <ClCompile Include="11060 점프 점프.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25311 UCPC에서 가장 쉬운 문제 번호는.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
