@@ -1348,6 +1348,9 @@
     <ClCompile Include="5218 알파벳 거리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5800 성적 통계.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
