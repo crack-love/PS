@@ -1351,6 +1351,9 @@
     <ClCompile Include="5800 성적 통계.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4470 줄번호.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
