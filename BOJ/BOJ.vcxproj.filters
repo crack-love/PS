@@ -1354,6 +1354,9 @@
     <ClCompile Include="4470 줄번호.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14697 방 배정하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
