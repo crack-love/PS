@@ -227,6 +227,7 @@
     <ClCompile Include="1543 문서 검색.cpp" />
     <ClCompile Include="15439 Vera and Outfits.cpp" />
     <ClCompile Include="16170 오늘의 날짜는.cpp" />
+    <ClCompile Include="16486 운동장 한 바퀴.cpp" />
     <ClCompile Include="1652 누울 자리를 찾아라.cpp" />
     <ClCompile Include="17219 비밀번호 찾기.cpp" />
     <ClCompile Include="17256 달달함이 넘쳐흘러.cpp" />

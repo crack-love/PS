@@ -1357,6 +1357,9 @@
     <ClCompile Include="14697 방 배정하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16486 운동장 한 바퀴.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
