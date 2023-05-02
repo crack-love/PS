@@ -1366,6 +1366,9 @@
     <ClCompile Include="2921 도미노.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9507 Generations of Tribbles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
