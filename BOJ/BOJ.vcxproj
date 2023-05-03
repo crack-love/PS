@@ -249,6 +249,7 @@
     <ClCompile Include="17388 와글와글 숭고한.cpp" />
     <ClCompile Include="1743 음식물 피하기.cpp" />
     <ClCompile Include="13303 타일 장식물.cpp" />
+    <ClCompile Include="1769 3의 배수.cpp" />
     <ClCompile Include="18111 마인크래프트.cpp" />
     <ClCompile Include="18406 럭키 스트레이트.cpp" />
     <ClCompile Include="1865 월홀.cpp" />
@@ -593,6 +594,7 @@
     <ClCompile Include="9654 나부 함대 데이터.cpp" />
     <ClCompile Include="9655 돌 게임.cpp" />
     <ClCompile Include="vtest.cpp" />
+    <ClCompile Include="_bdigit.cpp" />
     <ClCompile Include="_Template.cpp" />
     <ClCompile Include="5597 과제 안 내신 분.cpp" />
   </ItemGroup>

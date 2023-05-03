@@ -1369,6 +1369,12 @@
     <ClCompile Include="9507 Generations of Tribbles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1769 3의 배수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_bdigit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
