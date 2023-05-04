@@ -6,7 +6,6 @@
 #define step(i,j,r,c) if (i < 0 || j < 0 || i >= r || j >= c) continue
 const int dx[4] = { 0,0,1,-1 };
 const int dy[4] = { 1,-1,0,0 };
-
 using namespace std;
 
 int main0()

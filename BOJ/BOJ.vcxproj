@@ -259,6 +259,7 @@
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
     <ClCompile Include="1969 DNA.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
+    <ClCompile Include="2018 수들의 합 5.cpp" />
     <ClCompile Include="20492 세금.cpp" />
     <ClCompile Include="20499 Darius님 한타 안 함.cpp" />
     <ClCompile Include="21608 상어 초등학교.cpp" />
