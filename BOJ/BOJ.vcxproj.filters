@@ -1378,6 +1378,9 @@
     <ClCompile Include="2018 수들의 합 5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10812 바구니 순서 바꾸기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

@@ -179,6 +179,7 @@
     <ClCompile Include="10797 10부제.cpp" />
     <ClCompile Include="10798 세로읽기.cpp" />
     <ClCompile Include="10807 개수 세기.cpp" />
+    <ClCompile Include="10812 바구니 순서 바꾸기.cpp" />
     <ClCompile Include="10815 숫자 카드.cpp" />
     <ClCompile Include="10816 숫자 카드 2.imp.cpp" />
     <ClCompile Include="10816 숫자 카드 2.stl.cpp" />
