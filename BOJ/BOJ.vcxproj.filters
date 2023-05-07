@@ -1381,6 +1381,9 @@
     <ClCompile Include="10812 바구니 순서 바꾸기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1284 집 주소.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
