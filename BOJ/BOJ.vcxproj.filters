@@ -1384,6 +1384,9 @@
     <ClCompile Include="1284 집 주소.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2511 카드놀이.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

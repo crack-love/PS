@@ -273,6 +273,7 @@
     <ClCompile Include="2460 지능형 기차 2.cpp" />
     <ClCompile Include="2476 주사위 게임.cpp" />
     <ClCompile Include="2506 점수계산.cpp" />
+    <ClCompile Include="2511 카드놀이.cpp" />
     <ClCompile Include="25206 너의 평점은.cpp" />
     <ClCompile Include="25305 커트라인.cpp" />
     <ClCompile Include="25314 코딩은 체육과목 입니다.cpp" />
