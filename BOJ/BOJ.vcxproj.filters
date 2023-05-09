@@ -1387,6 +1387,9 @@
     <ClCompile Include="2511 카드놀이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="27323 직사각형.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
