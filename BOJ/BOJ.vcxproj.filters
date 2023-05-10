@@ -1390,6 +1390,9 @@
     <ClCompile Include="27323 직사각형.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9610 사분면.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

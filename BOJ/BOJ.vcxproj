@@ -594,6 +594,7 @@
     <ClCompile Include="9525 룩 배치하기.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
+    <ClCompile Include="9610 사분면.cpp" />
     <ClCompile Include="9613 GCD 합.cpp" />
     <ClCompile Include="9625 BABBA.cpp" />
     <ClCompile Include="9654 나부 함대 데이터.cpp" />
