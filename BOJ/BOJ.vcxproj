@@ -208,6 +208,7 @@
     <ClCompile Include="11060 점프 점프.cpp" />
     <ClCompile Include="11098 첼시를 도와줘!.cpp" />
     <ClCompile Include="1120 문자열.cpp" />
+    <ClCompile Include="11441 합 구하기.cpp" />
     <ClCompile Include="11931 수 정렬하기 4.cpp" />
     <ClCompile Include="11948 과목선택.cpp" />
     <ClCompile Include="1202 보석 도둑.cpp" />
