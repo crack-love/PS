@@ -1396,6 +1396,9 @@
     <ClCompile Include="11441 합 구하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7795 먹을 것인가 먹힐 것인가.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

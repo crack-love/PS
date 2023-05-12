@@ -575,6 +575,7 @@
     <ClCompile Include="7662 이중 우선순위 큐.pq.cpp" />
     <ClCompile Include="7662 이중 우선순위 큐.map.cpp" />
     <ClCompile Include="7785 회사에 있는 사람.cpp" />
+    <ClCompile Include="7795 먹을 것인가 먹힐 것인가.cpp" />
     <ClCompile Include="8370 Plane.cpp" />
     <ClCompile Include="8979 올림픽.cpp" />
     <ClCompile Include="9019 DSLR.cpp" />
