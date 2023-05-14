@@ -1402,6 +1402,9 @@
     <ClCompile Include="11501 주식.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10810 공 넣기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
