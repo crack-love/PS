@@ -1411,6 +1411,9 @@
     <ClCompile Include="27866 문자와 문자열.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10811 바구니 뒤집기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
