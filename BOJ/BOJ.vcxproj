@@ -283,6 +283,7 @@
     <ClCompile Include="25305 커트라인.cpp" />
     <ClCompile Include="25314 코딩은 체육과목 입니다.cpp" />
     <ClCompile Include="2559 수열.cpp" />
+    <ClCompile Include="25644 최대 상승.cpp" />
     <ClCompile Include="2566 최댓값.cpp" />
     <ClCompile Include="2578 빙고.cpp" />
     <ClCompile Include="2628 종이자르기.cpp" />
