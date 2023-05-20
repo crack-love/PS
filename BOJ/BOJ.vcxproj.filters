@@ -1420,6 +1420,9 @@
     <ClCompile Include="25644 최대 상승.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5613 계산기 프로그램.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
