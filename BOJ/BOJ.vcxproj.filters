@@ -1423,6 +1423,9 @@
     <ClCompile Include="5613 계산기 프로그램.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17140 이차원 배열과 연산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
