@@ -1426,6 +1426,9 @@
     <ClCompile Include="17140 이차원 배열과 연산.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15693 CASIO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
