@@ -1429,6 +1429,12 @@
     <ClCompile Include="15693 CASIO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11478 서로 다른 부분 물자열의 개수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13752 히스토그램.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
