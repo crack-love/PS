@@ -237,6 +237,7 @@
     <ClCompile Include="1543 문서 검색.cpp" />
     <ClCompile Include="15439 Vera and Outfits.cpp" />
     <ClCompile Include="15693 CASIO.cpp" />
+    <ClCompile Include="1267 핸드폰 요금.cpp" />
     <ClCompile Include="16170 오늘의 날짜는.cpp" />
     <ClCompile Include="16486 운동장 한 바퀴.cpp" />
     <ClCompile Include="1652 누울 자리를 찾아라.cpp" />

@@ -1435,6 +1435,9 @@
     <ClCompile Include="13752 히스토그램.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1267 핸드폰 요금.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
