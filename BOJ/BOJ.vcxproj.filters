@@ -1438,6 +1438,9 @@
     <ClCompile Include="1267 핸드폰 요금.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5052 전화번호 목록.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
