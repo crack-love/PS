@@ -1441,6 +1441,9 @@
     <ClCompile Include="5052 전화번호 목록.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15684 사다리 조작.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
