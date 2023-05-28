@@ -1444,6 +1444,9 @@
     <ClCompile Include="15684 사다리 조작.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2146 다리 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
