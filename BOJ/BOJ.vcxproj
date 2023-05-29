@@ -201,6 +201,7 @@
     <ClCompile Include="10988 팰린드롬인지 확인하기.cpp" />
     <ClCompile Include="10996 별 찍기 - 21.cpp" />
     <ClCompile Include="10999 구간 합 구하기 2.cpp" />
+    <ClCompile Include="11000 강의실 배정.cpp" />
     <ClCompile Include="11003 최솟값 찾기.pq.cpp" />
     <ClCompile Include="11003 최솟값 찾기.deck.cpp" />
     <ClCompile Include="11003 최솟값 찾기.seg.cpp" />
