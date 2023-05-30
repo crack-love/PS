@@ -241,6 +241,7 @@
     <ClCompile Include="15693 CASIO.cpp" />
     <ClCompile Include="1267 핸드폰 요금.cpp" />
     <ClCompile Include="16170 오늘의 날짜는.cpp" />
+    <ClCompile Include="16235 나무 재테크.cpp" />
     <ClCompile Include="16486 운동장 한 바퀴.cpp" />
     <ClCompile Include="1652 누울 자리를 찾아라.cpp" />
     <ClCompile Include="17140 이차원 배열과 연산.cpp" />
