@@ -299,6 +299,7 @@
     <ClCompile Include="2566 최댓값.cpp" />
     <ClCompile Include="2578 빙고.cpp" />
     <ClCompile Include="2628 종이자르기.cpp" />
+    <ClCompile Include="2638 치즈.cpp" />
     <ClCompile Include="2720 세탁소 사장 동혁.cpp" />
     <ClCompile Include="27323 직사각형.cpp" />
     <ClCompile Include="2740 행렬 곱셈.cpp" />

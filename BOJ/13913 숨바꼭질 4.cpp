@@ -7,60 +7,63 @@
 const int dd[2][4] = { {0,0,1,-1}, { 1,-1,0,0 } };
 using namespace std;
 
-int main()
+struct p13913
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0); cout.tie(0);
-
-	int n, k;
-	cin >> n >> k;
-
-	queue<pair<int, int>> q;
-	const int SIZE = 200'000;
-	int d[SIZE]{};
-	int p[SIZE]{};
-	d[n] = 1;
-	p[n] = -1;
-	q.push({ n, 1 });
-
-	bool finished = false;
-	while (q.size() > 0 && !finished)
+	int main()
 	{
-		auto [x, c] = q.front();
-		q.pop();
+		ios::sync_with_stdio(0);
+		cin.tie(0); cout.tie(0);
 
-		for (int nx : {x * 2, x + 1, x - 1})
+		int n, k;
+		cin >> n >> k;
+
+		queue<pair<int, int>> q;
+		const int SIZE = 200'000;
+		int d[SIZE]{};
+		int p[SIZE]{};
+		d[n] = 1;
+		p[n] = -1;
+		q.push({ n, 1 });
+
+		bool finished = false;
+		while (q.size() > 0 && !finished)
 		{
-			if (nx >= 0 && nx < SIZE && d[nx] == 0)
-			{
-				d[nx] = c + 1;
-				p[nx] = x;
-				q.push({ nx, c + 1 });
+			auto [x, c] = q.front();
+			q.pop();
 
-				if (nx == k)
+			for (int nx : {x * 2, x + 1, x - 1})
+			{
+				if (nx >= 0 && nx < SIZE && d[nx] == 0)
 				{
-					finished = true;
-					break;
+					d[nx] = c + 1;
+					p[nx] = x;
+					q.push({ nx, c + 1 });
+
+					if (nx == k)
+					{
+						finished = true;
+						break;
+					}
 				}
 			}
 		}
+
+		cout << d[k] - 1 << "\n";
+
+		stack<int> st;
+		int c = k;
+		while (c != -1)
+		{
+			st.push(c);
+			c = p[c];
+		}
+
+		while (st.size() > 0)
+		{
+			cout << st.top() << " ";
+			st.pop();
+		}
+
+		return 0;
 	}
-
-	cout << d[k] - 1 << "\n";
-
-	stack<int> st;
-	int c = k;
-	while (c != -1)
-	{
-		st.push(c);
-		c = p[c];
-	}
-
-	while (st.size() > 0)
-	{
-		cout << st.top() << " ";
-		st.pop();
-	}
-
-	return 0;
-}
+};
