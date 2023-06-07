@@ -1474,6 +1474,9 @@
     <ClCompile Include="1453 피시방 알바.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2711 오타맨 고창영.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
