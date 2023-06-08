@@ -7,25 +7,28 @@
 const int dx[4] = { 0,0,1,-1 }, dy[4] = { 1,-1,0,0 };
 using namespace std;
 
-int main()
+struct p15969
 {
-	ios::sync_with_stdio(0);
-	cin.tie(0); cout.tie(0);
-
-	int n;
-	cin >> n;
-	int minv = 1000;
-	int maxv = 0;
-
-	for1(i, n)
+	int main()
 	{
-		int x;
-		cin >> x;
-		minv = min(x, minv);
-		maxv = max(x, maxv);
+		ios::sync_with_stdio(0);
+		cin.tie(0); cout.tie(0);
+
+		int n;
+		cin >> n;
+		int minv = 1000;
+		int maxv = 0;
+
+		for1(i, n)
+		{
+			int x;
+			cin >> x;
+			minv = min(x, minv);
+			maxv = max(x, maxv);
+		}
+
+		cout << maxv - minv;
+
+		return 0;
 	}
-
-	cout << maxv - minv ;
-
-	return 0;
-}
+};
