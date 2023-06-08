@@ -1477,6 +1477,9 @@
     <ClCompile Include="2711 오타맨 고창영.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15969 행복.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

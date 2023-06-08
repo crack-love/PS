@@ -245,6 +245,7 @@
     <ClCompile Include="15684 사다리 조작.cpp" />
     <ClCompile Include="15693 CASIO.cpp" />
     <ClCompile Include="1267 핸드폰 요금.cpp" />
+    <ClCompile Include="15969 행복.cpp" />
     <ClCompile Include="16170 오늘의 날짜는.cpp" />
     <ClCompile Include="16235 나무 재테크.cpp" />
     <ClCompile Include="16486 운동장 한 바퀴.cpp" />
