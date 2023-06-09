@@ -1480,6 +1480,9 @@
     <ClCompile Include="15969 행복.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2935 소음.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
