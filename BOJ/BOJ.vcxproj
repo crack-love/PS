@@ -279,6 +279,7 @@
     <ClCompile Include="1919 애너그램 만들기.cpp" />
     <ClCompile Include="1935 후위 표기식2.cpp" />
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
+    <ClCompile Include="1940 주몽.cpp" />
     <ClCompile Include="1969 DNA.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
     <ClCompile Include="2018 수들의 합 5.cpp" />
