@@ -151,6 +151,7 @@
     <ClCompile Include="10178 할로윈의 사탕.cpp" />
     <ClCompile Include="1021 회전하는 큐 v1.cpp" />
     <ClCompile Include="1021 회전하는 큐.cpp" />
+    <ClCompile Include="10214 Baseball.cpp" />
     <ClCompile Include="1022 소용돌이 예쁘게 출력하기.cpp" />
     <ClCompile Include="1024 수열의 합.cpp" />
     <ClCompile Include="1025 제곱수 찾기.cpp" />

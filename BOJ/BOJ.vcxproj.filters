@@ -1489,6 +1489,9 @@
     <ClCompile Include="1940 주몽.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10214 Baseball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
