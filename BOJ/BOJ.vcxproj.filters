@@ -1492,6 +1492,9 @@
     <ClCompile Include="10214 Baseball.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1963 소수 경로.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
