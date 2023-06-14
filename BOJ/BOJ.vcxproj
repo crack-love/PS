@@ -358,6 +358,7 @@
     <ClCompile Include="5717 상근이의 친구들.cpp" />
     <ClCompile Include="5800 성적 통계.cpp" />
     <ClCompile Include="6359 만취한 상범.cpp" />
+    <ClCompile Include="6593 상범 빌딩.cpp" />
     <ClCompile Include="6749 Next in line.cpp" />
     <ClCompile Include="7567 그릇.cpp" />
     <ClCompile Include="11286 절댓값 힙.cpp" />
