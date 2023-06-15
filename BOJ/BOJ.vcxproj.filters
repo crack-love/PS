@@ -1498,6 +1498,9 @@
     <ClCompile Include="6593 상범 빌딩.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2668 숫자고르기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
