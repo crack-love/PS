@@ -307,6 +307,7 @@
     <ClCompile Include="2578 빙고.cpp" />
     <ClCompile Include="2628 종이자르기.cpp" />
     <ClCompile Include="2638 치즈.cpp" />
+    <ClCompile Include="2661 좋은수열.cpp" />
     <ClCompile Include="2668 숫자고르기.cpp" />
     <ClCompile Include="2711 오타맨 고창영.cpp" />
     <ClCompile Include="2720 세탁소 사장 동혁.cpp" />
