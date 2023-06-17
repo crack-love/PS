@@ -1504,6 +1504,9 @@
     <ClCompile Include="2661 좋은수열.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2011 암호코드.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
