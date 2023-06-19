@@ -1510,6 +1510,9 @@
     <ClCompile Include="20055 컨베이어 벨트 위의 로봇.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4344 평균은 넘겠지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
