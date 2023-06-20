@@ -618,6 +618,7 @@
     <ClCompile Include="9019 DSLR.cpp" />
     <ClCompile Include="2798 블랙잭.cpp" />
     <ClCompile Include="9020 골드바흐의 추측.cpp" />
+    <ClCompile Include="9084 동전.cpp" />
     <ClCompile Include="9085 더하기.cpp" />
     <ClCompile Include="9086 문자열.cpp" />
     <ClCompile Include="9093 단어 뒤집기.cpp" />

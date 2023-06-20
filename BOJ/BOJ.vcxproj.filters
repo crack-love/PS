@@ -1513,6 +1513,9 @@
     <ClCompile Include="4344 평균은 넘겠지.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9084 동전.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
