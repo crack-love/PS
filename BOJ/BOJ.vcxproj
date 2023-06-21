@@ -141,6 +141,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1002 터렛.cpp" />
     <ClCompile Include="10026 적록색약.cpp" />
     <ClCompile Include="10101 삼각형 외우기.cpp" />
     <ClCompile Include="10102 개표.cpp" />
@@ -646,6 +647,7 @@
     <ClCompile Include="5597 과제 안 내신 분.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="1002.txt" />
     <Text Include="11003.input.txt" />
     <Text Include="12095 input.txt" />
     <Text Include="1707 input.txt" />
