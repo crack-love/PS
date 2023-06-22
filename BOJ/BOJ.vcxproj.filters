@@ -1519,6 +1519,9 @@
     <ClCompile Include="1002 터렛.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4458 첫 글자를 대문자로.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
