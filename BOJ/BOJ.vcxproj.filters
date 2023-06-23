@@ -1522,6 +1522,9 @@
     <ClCompile Include="4458 첫 글자를 대문자로.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10804 카드 역배치.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

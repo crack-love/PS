@@ -181,6 +181,7 @@
     <ClCompile Include="10768 특별한 날.cpp" />
     <ClCompile Include="10797 10부제.cpp" />
     <ClCompile Include="10798 세로읽기.cpp" />
+    <ClCompile Include="10804 카드 역배치.cpp" />
     <ClCompile Include="10807 개수 세기.cpp" />
     <ClCompile Include="10810 공 넣기.cpp" />
     <ClCompile Include="10811 바구니 뒤집기.cpp" />
