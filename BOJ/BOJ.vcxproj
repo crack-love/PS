@@ -171,6 +171,7 @@
     <ClCompile Include="10569 다면체.cpp" />
     <ClCompile Include="1057 토너먼트.cpp" />
     <ClCompile Include="1058 친구.cpp" />
+    <ClCompile Include="1062 가르침.cpp" />
     <ClCompile Include="1068 트리.cpp" />
     <ClCompile Include="1069 집으로.cpp" />
     <ClCompile Include="10699 오늘 날짜.cpp" />
@@ -650,6 +651,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="1002.txt" />
+    <Text Include="1062.txt" />
     <Text Include="11003.input.txt" />
     <Text Include="12095 input.txt" />
     <Text Include="1707 input.txt" />
