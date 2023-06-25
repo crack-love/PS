@@ -1528,6 +1528,9 @@
     <ClCompile Include="1062 가르침.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2623 음악프로그램.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

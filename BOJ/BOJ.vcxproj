@@ -310,6 +310,7 @@
     <ClCompile Include="25644 최대 상승.cpp" />
     <ClCompile Include="2566 최댓값.cpp" />
     <ClCompile Include="2578 빙고.cpp" />
+    <ClCompile Include="2623 음악프로그램.cpp" />
     <ClCompile Include="2628 종이자르기.cpp" />
     <ClCompile Include="2638 치즈.cpp" />
     <ClCompile Include="2661 좋은수열.cpp" />
