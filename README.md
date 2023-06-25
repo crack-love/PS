@@ -26,7 +26,7 @@ Visual Studio 2022
    - 0-1 너비우선 탐색 0-1 bfs
 - KMP Knuth–Morris–Pratt
 - 최소신장트리 Minimum Spanning Tree (MST)
-위상 정렬 Topology Sort
+위상 정렬 Topological Sorting
 
 ### Etc
 - 누적 합 prefix sum
