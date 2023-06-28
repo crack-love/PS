@@ -1537,6 +1537,9 @@
     <ClCompile Include="9470 Strahler 순서.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2637 장난감 조립.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
