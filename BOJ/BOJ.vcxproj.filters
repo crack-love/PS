@@ -1540,6 +1540,9 @@
     <ClCompile Include="2637 장난감 조립.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="21276 계보 복원가 호석.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -1576,6 +1579,9 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="1062.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="21276.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
