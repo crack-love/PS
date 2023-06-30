@@ -240,6 +240,7 @@
     <ClCompile Include="14567 선수과목 (Prerequisite).cpp" />
     <ClCompile Include="14581 팬들에게 둘러싸인 홍준.cpp" />
     <ClCompile Include="14652 나는 행복합니다~.cpp" />
+    <ClCompile Include="14676 영우는 사기꾼.cpp" />
     <ClCompile Include="14696 딱지놀이.cpp" />
     <ClCompile Include="14697 방 배정하기.cpp" />
     <ClCompile Include="14719 빗물.cpp" />
