@@ -1546,6 +1546,12 @@
     <ClCompile Include="14676 영우는 사기꾼.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14907 프로젝트 스케줄링.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14907 clean.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

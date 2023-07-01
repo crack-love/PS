@@ -245,6 +245,8 @@
     <ClCompile Include="14697 방 배정하기.cpp" />
     <ClCompile Include="14719 빗물.cpp" />
     <ClCompile Include="14720 우유 축제.cpp" />
+    <ClCompile Include="14907 프로젝트 스케줄링.cpp" />
+    <ClCompile Include="14907 clean.cpp" />
     <ClCompile Include="14916 거스름돈.cpp" />
     <ClCompile Include="1543 문서 검색.cpp" />
     <ClCompile Include="15439 Vera and Outfits.cpp" />
