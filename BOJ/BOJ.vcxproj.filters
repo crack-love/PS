@@ -1552,6 +1552,9 @@
     <ClCompile Include="14907 clean.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5021 왕위 계승.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

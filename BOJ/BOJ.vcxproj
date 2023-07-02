@@ -357,6 +357,7 @@
     <ClCompile Include="4470 줄번호.cpp" />
     <ClCompile Include="4504 배수 찾기.cpp" />
     <ClCompile Include="4999 아!.cpp" />
+    <ClCompile Include="5021 왕위 계승.cpp" />
     <ClCompile Include="5052 전화번호 목록.cpp" />
     <ClCompile Include="5073 삼각형과 세 변.cpp" />
     <ClCompile Include="5218 알파벳 거리.cpp" />
