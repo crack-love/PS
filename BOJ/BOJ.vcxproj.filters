@@ -1555,6 +1555,9 @@
     <ClCompile Include="5021 왕위 계승.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25168 게으른 아리를 위한 접종 계획.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
