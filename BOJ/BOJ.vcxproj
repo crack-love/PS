@@ -377,6 +377,7 @@
     <ClCompile Include="5639 이진 검색 트리.cpp" />
     <ClCompile Include="5717 상근이의 친구들.cpp" />
     <ClCompile Include="5800 성적 통계.cpp" />
+    <ClCompile Include="24263 알고리븜 수업 - 알고리즘의 수행 시간 2.cpp" />
     <ClCompile Include="6359 만취한 상범.cpp" />
     <ClCompile Include="6593 상범 빌딩.cpp" />
     <ClCompile Include="6749 Next in line.cpp" />
