@@ -1,12 +1,11 @@
 // https://www.acmicpc.net/problem/10815
-// silver4
 
 #include <iostream>
 #include <algorithm>
 using namespace std;
 
-struct p10815
-{
+//struct p10815
+//{
 	int main()
 	{
 		ios::sync_with_stdio(0);
@@ -30,9 +29,16 @@ struct p10815
 			cin >> x;
 
 			int* l = lower_bound(cards, cards + n, x);
-			cout << (*l == x) << " ";
+			if (l == cards + n)
+			{
+				cout << 0 << " ";
+			}
+			else
+			{
+				cout << (*l == x) << " ";
+			}
 		}
 
 		return 0;
 	}
-};
+//};
