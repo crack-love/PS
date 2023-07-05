@@ -4,8 +4,8 @@
 #include <algorithm>
 using namespace std;
 
-//struct p10815
-//{
+struct p10815
+{
 	int main()
 	{
 		ios::sync_with_stdio(0);
@@ -41,4 +41,4 @@ using namespace std;
 
 		return 0;
 	}
-//};
+};
