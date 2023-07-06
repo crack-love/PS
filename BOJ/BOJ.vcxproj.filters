@@ -1567,6 +1567,9 @@
     <ClCompile Include="24263 알고리븜 수업 - 알고리즘의 수행 시간 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18780 Timeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
