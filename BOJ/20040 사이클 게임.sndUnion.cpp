@@ -8,54 +8,57 @@
 const int dx[4] = { 0,0,1,-1 }, dy[4] = { 1,-1,0,0 };
 using namespace std;
 
-int n, m;
-int p[(int)5e5]{};
-
-int getPar(int x)
+struct p20040_union
 {
-	if (p[x] == -1)
+	int n, m;
+	int p[(int)5e5]{};
+
+	int getPar(int x)
 	{
-		return p[x] = x;
-	}
-	else if (p[x] != x)
-	{
-		return p[x] = getPar(p[x]);
-	}
-	else
-	{
-		return x;
-	}
-}
-
-int main()
-{
-	ios::sync_with_stdio(0);
-	cin.tie(0); cout.tie(0);
-
-	//freopen("20040 in2.txt", "r", stdin);
-
-	cin >> n >> m;
-
-	memset(p, -1, sizeof(p));
-	for1(i, m)
-	{
-		int a, b;
-		cin >> a >> b;
-
-		int ap = getPar(a);
-		int bp = getPar(b);
-
-		if (ap == bp)
+		if (p[x] == -1)
 		{
-			cout << i + 1;
-			return 0;
+			return p[x] = x;
+		}
+		else if (p[x] != x)
+		{
+			return p[x] = getPar(p[x]);
 		}
 		else
 		{
-			p[bp] = ap;
+			return x;
 		}
 	}
 
-	cout << 0;
-	return 0;
-}
+	int main()
+	{
+		ios::sync_with_stdio(0);
+		cin.tie(0); cout.tie(0);
+
+		//freopen("20040 in2.txt", "r", stdin);
+
+		cin >> n >> m;
+
+		memset(p, -1, sizeof(p));
+		for1(i, m)
+		{
+			int a, b;
+			cin >> a >> b;
+
+			int ap = getPar(a);
+			int bp = getPar(b);
+
+			if (ap == bp)
+			{
+				cout << i + 1;
+				return 0;
+			}
+			else
+			{
+				p[bp] = ap;
+			}
+		}
+
+		cout << 0;
+		return 0;
+	}
+};
