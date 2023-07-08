@@ -293,6 +293,11 @@
     <ClCompile Include="1963 소수 경로.cpp" />
     <ClCompile Include="1969 DNA.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
+    <Text Include="20040 in1.txt">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </Text>
+    <ClCompile Include="20040 사이클 게임.fstSlow.cpp" />
+    <ClCompile Include="20040 사이클 게임.sndUnion.cpp" />
     <ClCompile Include="20055 컨베이어 벨트 위의 로봇.cpp" />
     <ClCompile Include="2011 암호코드.cpp" />
     <ClCompile Include="2018 수들의 합 5.cpp" />
@@ -671,6 +676,9 @@
     <Text Include="12095 input.txt" />
     <Text Include="1707 input.txt" />
     <Text Include="1707 output.txt" />
+    <Text Include="20040 in2.txt" />
+    <Text Include="20040 out1.txt" />
+    <Text Include="20040 out2.txt" />
     <Text Include="21276.txt" />
     <Text Include="23034 input.txt" />
     <Text Include="23034 input.gen.txt" />

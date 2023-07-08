@@ -1573,6 +1573,12 @@
     <ClCompile Include="2212 센서.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20040 사이클 게임.fstSlow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20040 사이클 게임.sndUnion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -1612,6 +1618,18 @@
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="21276.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="20040 out1.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="20040 in1.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="20040 in2.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="20040 out2.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
