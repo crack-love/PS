@@ -1579,6 +1579,9 @@
     <ClCompile Include="20040 사이클 게임.sndUnion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17299 오등큰수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

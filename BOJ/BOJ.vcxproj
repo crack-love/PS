@@ -276,6 +276,7 @@
     <ClCompile Include="15680 연세대학교.cpp" />
     <ClCompile Include="16430 제리와 톰.cpp" />
     <ClCompile Include="16928 뱀과 사다리 게임.cpp" />
+    <ClCompile Include="17299 오등큰수.cpp" />
     <ClCompile Include="17362 수학은 체육과목 입니다 2.cpp" />
     <ClCompile Include="17388 와글와글 숭고한.cpp" />
     <ClCompile Include="1743 음식물 피하기.cpp" />
