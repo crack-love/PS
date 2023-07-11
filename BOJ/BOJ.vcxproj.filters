@@ -1585,6 +1585,9 @@
     <ClCompile Include="1253 좋다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18405 경쟁적 전염.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

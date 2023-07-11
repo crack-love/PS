@@ -284,6 +284,7 @@
     <ClCompile Include="13303 타일 장식물.cpp" />
     <ClCompile Include="1769 3의 배수.cpp" />
     <ClCompile Include="18111 마인크래프트.cpp" />
+    <ClCompile Include="18405 경쟁적 전염.cpp" />
     <ClCompile Include="18406 럭키 스트레이트.cpp" />
     <ClCompile Include="1865 월홀.cpp" />
     <ClCompile Include="18780 Timeline.cpp" />
