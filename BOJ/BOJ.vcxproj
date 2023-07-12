@@ -290,6 +290,7 @@
     <ClCompile Include="18780 Timeline.cpp" />
     <ClCompile Include="1913 달팽이.cpp" />
     <ClCompile Include="1919 애너그램 만들기.cpp" />
+    <ClCompile Include="19236 청소년 상어.cpp" />
     <ClCompile Include="1935 후위 표기식2.cpp" />
     <ClCompile Include="1937 욕심쟁이 판다.cpp" />
     <ClCompile Include="1940 주몽.cpp" />
