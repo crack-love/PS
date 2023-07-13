@@ -1591,6 +1591,9 @@
     <ClCompile Include="19236 청소년 상어.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14489 치킨 두 마리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
