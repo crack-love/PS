@@ -237,6 +237,7 @@
     <ClCompile Include="13752 히스토그램.cpp" />
     <ClCompile Include="13913 숨바꼭질 4.cpp" />
     <ClCompile Include="1408 24.cpp" />
+    <ClCompile Include="2083 럭비 클럽.cpp" />
     <ClCompile Include="1431 시리얼 번호.cpp" />
     <ClCompile Include="14489 치킨 두 마리.cpp" />
     <ClCompile Include="1453 피시방 알바.cpp" />
