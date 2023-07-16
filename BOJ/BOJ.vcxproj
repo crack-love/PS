@@ -671,6 +671,7 @@
     <ClCompile Include="9625 BABBA.cpp" />
     <ClCompile Include="9654 나부 함대 데이터.cpp" />
     <ClCompile Include="9655 돌 게임.cpp" />
+    <ClCompile Include="9763 마을의 친밀도.cpp" />
     <ClCompile Include="vtest.cpp" />
     <ClCompile Include="_bdigit.cpp" />
     <ClCompile Include="_Template.cpp" />

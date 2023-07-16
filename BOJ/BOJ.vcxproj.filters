@@ -1600,6 +1600,9 @@
     <ClCompile Include="1251 단어 나누기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9763 마을의 친밀도.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
