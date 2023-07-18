@@ -348,6 +348,7 @@
     <ClCompile Include="2822 점수 계산.cpp" />
     <ClCompile Include="2846 오르막길.cpp" />
     <ClCompile Include="25311 UCPC에서 가장 쉬운 문제 번호는.cpp" />
+    <ClCompile Include="2847 게임을 만든 동준이.cpp" />
     <ClCompile Include="2851 슈퍼 마리오.cpp" />
     <ClCompile Include="2857 FBI.cpp" />
     <ClCompile Include="2864 5와 6의 차이.cpp" />
