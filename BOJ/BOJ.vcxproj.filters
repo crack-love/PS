@@ -1609,6 +1609,9 @@
     <ClCompile Include="2847 게임을 만든 동준이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13866 팀 나누기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

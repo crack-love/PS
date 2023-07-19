@@ -235,6 +235,7 @@
     <ClCompile Include="13023 ABCDE.cpp" />
     <ClCompile Include="13335 트럭.cpp" />
     <ClCompile Include="13752 히스토그램.cpp" />
+    <ClCompile Include="13866 팀 나누기.cpp" />
     <ClCompile Include="13913 숨바꼭질 4.cpp" />
     <ClCompile Include="1408 24.cpp" />
     <ClCompile Include="2083 럭비 클럽.cpp" />
