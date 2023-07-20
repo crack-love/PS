@@ -1612,6 +1612,9 @@
     <ClCompile Include="13866 팀 나누기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16435 스네이크버드.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
