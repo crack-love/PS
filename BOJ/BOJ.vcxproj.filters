@@ -1624,6 +1624,9 @@
     <ClCompile Include="14924 폰 노이만과 파리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20254 Site Score.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
