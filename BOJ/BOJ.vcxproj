@@ -239,6 +239,7 @@
     <ClCompile Include="13913 숨바꼭질 4.cpp" />
     <ClCompile Include="1408 24.cpp" />
     <ClCompile Include="14924 폰 노이만과 파리.cpp" />
+    <ClCompile Include="1598 꼬리를 무는 숫자 나열.cpp" />
     <ClCompile Include="16435 스네이크버드.cpp" />
     <ClCompile Include="20254 Site Score.cpp" />
     <ClCompile Include="2083 럭비 클럽.cpp" />

@@ -1627,6 +1627,9 @@
     <ClCompile Include="20254 Site Score.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1598 꼬리를 무는 숫자 나열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
