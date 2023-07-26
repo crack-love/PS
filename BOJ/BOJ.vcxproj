@@ -391,6 +391,7 @@
     <ClCompile Include="5557 1학년.cpp" />
     <ClCompile Include="5575 타임 카드.cpp" />
     <ClCompile Include="5576 콘테스트.cpp" />
+    <ClCompile Include="5586 JOI와 IOI.cpp" />
     <ClCompile Include="5596 시험 점수.cpp" />
     <ClCompile Include="1547 공.cpp" />
     <ClCompile Include="5613 계산기 프로그램.cpp" />
