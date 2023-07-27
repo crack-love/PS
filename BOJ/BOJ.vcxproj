@@ -229,6 +229,7 @@
     <ClCompile Include="1269 대칭 차집합.cpp" />
     <ClCompile Include="1284 집 주소.cpp" />
     <ClCompile Include="12851 숨바꼭질 2.cpp" />
+    <ClCompile Include="12852 1로 만들기 2.cpp" />
     <ClCompile Include="12904 A와 B.cpp" />
     <ClCompile Include="1297 TV 크기.cpp" />
     <ClCompile Include="1302 베스트셀러.cpp" />
