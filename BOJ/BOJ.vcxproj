@@ -348,6 +348,7 @@
     <ClCompile Include="2740 행렬 곱셈.cpp" />
     <ClCompile Include="11365 !밀비 급일.cpp" />
     <ClCompile Include="2776 암기왕.cpp" />
+    <ClCompile Include="2783 삼각 김밥.cpp" />
     <ClCompile Include="27866 문자와 문자열.cpp" />
     <ClCompile Include="2789 유학 금지.cpp" />
     <ClCompile Include="2810 컵홀더.cpp" />
