@@ -1642,6 +1642,9 @@
     <ClCompile Include="14470 전자레인지.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10539 수빈이와 수열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

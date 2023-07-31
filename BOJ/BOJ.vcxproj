@@ -168,6 +168,7 @@
     <ClCompile Include="10448 유레카 이론.cpp" />
     <ClCompile Include="1047 울타리.cpp" />
     <ClCompile Include="1052 물병.cpp" />
+    <ClCompile Include="10539 수빈이와 수열.cpp" />
     <ClCompile Include="10569 다면체.cpp" />
     <ClCompile Include="1057 토너먼트.cpp" />
     <ClCompile Include="1058 친구.cpp" />
