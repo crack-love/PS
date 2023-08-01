@@ -1645,6 +1645,9 @@
     <ClCompile Include="10539 수빈이와 수열.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3059 등장하지 않는 문자의 합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
