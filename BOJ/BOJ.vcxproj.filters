@@ -1651,6 +1651,9 @@
     <ClCompile Include="15726 이칙연산.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7490 0 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
