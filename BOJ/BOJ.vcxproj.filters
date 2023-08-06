@@ -1660,6 +1660,9 @@
     <ClCompile Include="2564 경비원.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11023 더하기 3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
