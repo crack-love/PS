@@ -1663,6 +1663,9 @@
     <ClCompile Include="11023 더하기 3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16987 계란으로 계란치기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
