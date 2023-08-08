@@ -214,6 +214,7 @@
     <ClCompile Include="11003.input.gen.cpp" />
     <ClCompile Include="11014 컨닝 2.cpp" />
     <ClCompile Include="11023 더하기 3.cpp" />
+    <ClCompile Include="11024 더하기 4.cpp" />
     <ClCompile Include="11050 이항 계수 1.cpp" />
     <ClCompile Include="11051 이항 계수 2.cpp" />
     <ClCompile Include="11060 점프 점프.cpp" />
