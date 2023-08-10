@@ -1669,6 +1669,9 @@
     <ClCompile Include="11024 더하기 4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16204 카드 뽑기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
