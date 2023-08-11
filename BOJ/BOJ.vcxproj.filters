@@ -1672,6 +1672,9 @@
     <ClCompile Include="16204 카드 뽑기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5523 경기 결과.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
