@@ -1675,6 +1675,9 @@
     <ClCompile Include="5523 경기 결과.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="27294 몇개고.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
