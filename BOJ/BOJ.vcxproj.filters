@@ -1678,6 +1678,9 @@
     <ClCompile Include="27294 몇개고.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6840 Who is in the middle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

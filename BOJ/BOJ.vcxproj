@@ -226,6 +226,7 @@
     <ClCompile Include="16987 계란으로 계란치기.cpp" />
     <ClCompile Include="22193 Multiply.cpp" />
     <ClCompile Include="2564 경비원.cpp" />
+    <ClCompile Include="6840 Who is in the middle.cpp" />
     <ClCompile Include="7490 0 만들기.cpp" />
     <ClCompile Include="11441 합 구하기.cpp" />
     <ClCompile Include="11478 서로 다른 부분 물자열의 개수.cpp" />
