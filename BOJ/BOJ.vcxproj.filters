@@ -1684,6 +1684,9 @@
     <ClCompile Include="3980 선발 명단.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15000 CAPS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
