@@ -1690,6 +1690,9 @@
     <ClCompile Include="5341 Pyramids.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15988 1, 2, 3 더하기 3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
