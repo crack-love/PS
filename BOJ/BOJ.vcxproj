@@ -221,10 +221,12 @@
     <ClCompile Include="11098 첼시를 도와줘!.cpp" />
     <ClCompile Include="1120 문자열.cpp" />
     <ClCompile Include="15988 1, 2, 3 더하기 3.cpp" />
+    <ClCompile Include="2240 자두나무.cpp" />
     <ClCompile Include="27294 몇개고.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
     <ClCompile Include="4811 알약.cpp" />
     <ClCompile Include="5341 Pyramids.cpp" />
+    <ClCompile Include="5363 요다.cpp" />
     <ClCompile Include="5523 경기 결과.cpp" />
     <ClCompile Include="16204 카드 뽑기.cpp" />
     <ClCompile Include="16987 계란으로 계란치기.cpp" />

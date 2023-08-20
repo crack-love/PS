@@ -1696,6 +1696,12 @@
     <ClCompile Include="4811 알약.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2240 자두나무.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5363 요다.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
