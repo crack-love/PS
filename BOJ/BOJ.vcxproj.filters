@@ -1702,6 +1702,9 @@
     <ClCompile Include="5363 요다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1871 좋은 자동차 번호판.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
