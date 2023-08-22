@@ -1705,6 +1705,9 @@
     <ClCompile Include="1871 좋은 자동차 번호판.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9550 아이들은 사탕을 좋아해.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
