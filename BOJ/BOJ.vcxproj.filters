@@ -1711,6 +1711,9 @@
     <ClCompile Include="6810 ISBN.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="8932 7종 경기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
