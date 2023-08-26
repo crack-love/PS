@@ -1717,6 +1717,9 @@
     <ClCompile Include="5949 Adding Commas.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="24883 자동완성.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

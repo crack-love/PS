@@ -223,6 +223,7 @@
     <ClCompile Include="15988 1, 2, 3 더하기 3.cpp" />
     <ClCompile Include="1871 좋은 자동차 번호판.cpp" />
     <ClCompile Include="2240 자두나무.cpp" />
+    <ClCompile Include="24883 자동완성.cpp" />
     <ClCompile Include="27294 몇개고.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
     <ClCompile Include="4811 알약.cpp" />
