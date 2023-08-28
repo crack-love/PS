@@ -221,6 +221,7 @@
     <ClCompile Include="11098 첼시를 도와줘!.cpp" />
     <ClCompile Include="1120 문자열.cpp" />
     <ClCompile Include="15610 Abbey Courtyard.cpp" />
+    <ClCompile Include="15781 헬멧과 조끼.cpp" />
     <ClCompile Include="15988 1, 2, 3 더하기 3.cpp" />
     <ClCompile Include="1871 좋은 자동차 번호판.cpp" />
     <ClCompile Include="2240 자두나무.cpp" />

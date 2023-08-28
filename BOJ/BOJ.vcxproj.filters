@@ -1723,6 +1723,9 @@
     <ClCompile Include="15610 Abbey Courtyard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15781 헬멧과 조끼.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
