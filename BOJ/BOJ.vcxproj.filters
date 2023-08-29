@@ -1726,6 +1726,9 @@
     <ClCompile Include="15781 헬멧과 조끼.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14405 피카츄.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
