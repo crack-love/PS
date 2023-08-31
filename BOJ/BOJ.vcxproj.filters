@@ -1732,6 +1732,9 @@
     <ClCompile Include="27959 초코바.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6131 완전 제곱수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
