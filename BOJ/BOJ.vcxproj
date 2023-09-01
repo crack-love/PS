@@ -220,6 +220,7 @@
     <ClCompile Include="11060 점프 점프.cpp" />
     <ClCompile Include="11098 첼시를 도와줘!.cpp" />
     <ClCompile Include="1120 문자열.cpp" />
+    <ClCompile Include="12871 무한 문자열.cpp" />
     <ClCompile Include="14405 피카츄.cpp" />
     <ClCompile Include="15610 Abbey Courtyard.cpp" />
     <ClCompile Include="15781 헬멧과 조끼.cpp" />
