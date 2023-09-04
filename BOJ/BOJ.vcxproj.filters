@@ -1744,6 +1744,9 @@
     <ClCompile Include="14909 양수 개수 세기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9536 여우는 어떻게 울지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

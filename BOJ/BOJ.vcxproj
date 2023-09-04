@@ -709,6 +709,7 @@
     <ClCompile Include="9470 Strahler 순서.cpp" />
     <ClCompile Include="9507 Generations of Tribbles.cpp" />
     <ClCompile Include="9525 룩 배치하기.cpp" />
+    <ClCompile Include="9536 여우는 어떻게 울지.cpp" />
     <ClCompile Include="9550 아이들은 사탕을 좋아해.cpp" />
     <ClCompile Include="9576 책 나눠주기.cpp" />
     <ClCompile Include="9577 토렌트.cpp" />
