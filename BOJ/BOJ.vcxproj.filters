@@ -1747,6 +1747,9 @@
     <ClCompile Include="9536 여우는 어떻게 울지.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16173 점프왕 쩰리 %28small%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
