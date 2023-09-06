@@ -1750,6 +1750,9 @@
     <ClCompile Include="16173 점프왕 쩰리 %28small%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15688 수 정렬하기 5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
