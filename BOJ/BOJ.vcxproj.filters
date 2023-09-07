@@ -1753,6 +1753,9 @@
     <ClCompile Include="15688 수 정렬하기 5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2870 수학숙제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

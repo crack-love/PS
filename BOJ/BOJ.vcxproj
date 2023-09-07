@@ -339,6 +339,7 @@
     <ClCompile Include="1969 DNA.cpp" />
     <ClCompile Include="1976 여행 가자.cpp" />
     <ClCompile Include="3059 등장하지 않는 문자의 합.cpp" />
+    <ClCompile Include="2870 수학숙제.cpp" />
     <Text Include="20040 in1.txt">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </Text>
