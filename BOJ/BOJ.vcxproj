@@ -235,6 +235,7 @@
     <ClCompile Include="27294 몇개고.cpp" />
     <ClCompile Include="27959 초코바.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
+    <ClCompile Include="4562 No Brainer.cpp" />
     <ClCompile Include="4811 알약.cpp" />
     <ClCompile Include="5341 Pyramids.cpp" />
     <ClCompile Include="5363 요다.cpp" />
