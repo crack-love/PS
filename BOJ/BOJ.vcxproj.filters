@@ -1759,6 +1759,9 @@
     <ClCompile Include="4562 No Brainer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17389 보너스 점수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
