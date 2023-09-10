@@ -231,6 +231,7 @@
     <ClCompile Include="17356 욱 제.cpp" />
     <ClCompile Include="17389 보너스 점수.cpp" />
     <ClCompile Include="1871 좋은 자동차 번호판.cpp" />
+    <ClCompile Include="21756 지우개.cpp" />
     <ClCompile Include="2240 자두나무.cpp" />
     <ClCompile Include="24883 자동완성.cpp" />
     <ClCompile Include="27294 몇개고.cpp" />
