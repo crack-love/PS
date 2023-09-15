@@ -1771,6 +1771,9 @@
     <ClCompile Include="2033 반올림.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3135 라디오.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
