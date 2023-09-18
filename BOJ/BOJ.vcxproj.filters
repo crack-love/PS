@@ -1777,6 +1777,9 @@
     <ClCompile Include="25192 인사성 밝은 곰곰이.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13699 점화식.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
