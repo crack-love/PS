@@ -10,38 +10,41 @@
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-int main()
+struct p1911
 {
-	fastio;
-
-	int n, l;
-	cin >> n >> l;
-	pii a[10000] {};
-	for1(i, n)
+	int main()
 	{
-		int x, y;
-		cin >> x >> y;
-		a[i] = {x,y};
+		fastio;
+
+		int n, l;
+		cin >> n >> l;
+		pii a[10000]{};
+		for1(i, n)
+		{
+			int x, y;
+			cin >> x >> y;
+			a[i] = { x,y };
+		}
+		sort(a, a + n);
+
+		int ans = 0;
+		int end = 0;
+		for1(i, n)
+		{
+			if (a[i].second <= end)
+				continue;
+
+			int beg = max(a[i].first, end);
+			int len = a[i].second - beg;
+			int cnt = len / l;
+			if (len % l != 0)
+				cnt += 1;
+
+			ans += cnt;
+			end = beg + cnt * l;
+		}
+
+		cout << ans;
+		return 0;
 	}
-	sort(a, a + n);
-
-	int ans = 0;
-	int end = 0;
-	for1 (i, n)
-	{
-		if (a[i].second <= end)
-			continue;
-
-		int beg = max(a[i].first, end);
-		int len = a[i].second - beg;
-		int cnt = len / l;
-		if (len % l != 0)
-			cnt += 1;
-
-		ans += cnt;
-		end = beg + cnt * l;
-	}
-
-	cout << ans;
-	return 0;
-}
+};
