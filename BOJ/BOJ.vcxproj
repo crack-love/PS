@@ -252,6 +252,7 @@
     <ClCompile Include="16987 계란으로 계란치기.cpp" />
     <ClCompile Include="22193 Multiply.cpp" />
     <ClCompile Include="2564 경비원.cpp" />
+    <ClCompile Include="5568 카드 놓기.cpp" />
     <ClCompile Include="5949 Adding Commas.cpp" />
     <ClCompile Include="6131 완전 제곱수.cpp" />
     <ClCompile Include="6810 ISBN.cpp" />
