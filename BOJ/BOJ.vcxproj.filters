@@ -1786,6 +1786,9 @@
     <ClCompile Include="5568 카드 놓기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1205 등수 구하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
