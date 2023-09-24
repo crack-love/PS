@@ -1792,6 +1792,12 @@
     <ClCompile Include="4659 비밀번호 발음하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1755 숫자놀이.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2959 거북이.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
