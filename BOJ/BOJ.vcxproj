@@ -245,6 +245,7 @@
     <ClCompile Include="2774 아름다운 수.cpp" />
     <ClCompile Include="27959 초코바.cpp" />
     <ClCompile Include="2959 거북이.cpp" />
+    <ClCompile Include="3029 경고.cpp" />
     <ClCompile Include="3135 라디오.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
     <ClCompile Include="4562 No Brainer.cpp" />
