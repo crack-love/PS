@@ -1807,6 +1807,9 @@
     <ClCompile Include="3029 경고.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16395 파스칼의 삼각형.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
