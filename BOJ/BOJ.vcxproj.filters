@@ -1813,6 +1813,12 @@
     <ClCompile Include="16431 베시와 데이지.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11723 집합.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11723 집합.bit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
