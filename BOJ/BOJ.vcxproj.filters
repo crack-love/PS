@@ -1819,6 +1819,9 @@
     <ClCompile Include="11723 집합.bit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3004 체스판 조각.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

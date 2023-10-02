@@ -9,51 +9,54 @@
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-int main()
+struct p11723
 {
-	fastio;
-
-	int s = 0;
-	int m;
-	cin >> m;
-	while (m--)
+	int main()
 	{
-		string o;
-		cin >> o;
-		int v;
+		fastio;
 
-		if (o[0] == 'a')
+		int s = 0;
+		int m;
+		cin >> m;
+		while (m--)
 		{
-			if (o[1] == 'd')
+			string o;
+			cin >> o;
+			int v;
+
+			if (o[0] == 'a')
+			{
+				if (o[1] == 'd')
+				{
+					cin >> v;
+					s |= 1 << v;
+				}
+				else if (o[1] == 'l')
+				{
+					s = ~0;
+				}
+			}
+			else if (o[0] == 'r')
 			{
 				cin >> v;
-				s |= 1 << v;
+				s &= ~(1 << v);
 			}
-			else if (o[1] == 'l')
+			else if (o[0] == 'c')
 			{
-				s = ~0;
+				cin >> v;
+				cout << ((s & (1 << v)) ? 1 : 0) << "\n";
+			}
+			else if (o[0] == 't')
+			{
+				cin >> v;
+				s ^= (1 << v);
+			}
+			else if (o[0] == 'e')
+			{
+				s = 0;
 			}
 		}
-		else if (o[0] == 'r')
-		{
-			cin >> v;
-			s &= ~(1 << v);
-		}
-		else if (o[0] == 'c')
-		{
-			cin >> v;
-			cout << ((s & (1<<v)) ? 1 : 0) << "\n";
-		}
-		else if (o[0] == 't')
-		{
-			cin >> v;
-			s ^= (1<<v);
-		}
-		else if (o[0] == 'e')
-		{
-			s = 0;
-		}
-	}
 
-	return 0;
-}
+		return 0;
+	}
+};
