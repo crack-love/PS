@@ -1822,6 +1822,9 @@
     <ClCompile Include="3004 체스판 조각.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="24082 立方体.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
