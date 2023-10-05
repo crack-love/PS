@@ -9,25 +9,33 @@
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-int main()
+struct p9094
 {
-	fastio;
-
-	int n, m;
-	cin >> n >> m;
-
-	int ans = 0;
-	for1(i, n)
+	int main()
 	{
-		for1(j, n)
-		{
-			int a = i*i+j*j+m;
-			int b = i*j;
-			if (a % b == 0)
-				ans += 1;
-		}
-	}
+		fastio;
 
-	cout << ans;
-	return 0;
-}
+		int t;
+		cin >> t;
+		while (t--)
+		{
+			int n, m;
+			cin >> n >> m;
+
+			int ans = 0;
+			for (int i = 1; i < n; ++i)
+			{
+				for (int j = i + 1; j < n; ++j)
+				{
+					int a = i * i + j * j + m;
+					int b = i * j;
+					if (a % b == 0)
+						ans += 1;
+				}
+			}
+
+			cout << ans << "\n";
+		}
+		return 0;
+	}
+};
