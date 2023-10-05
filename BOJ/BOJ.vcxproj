@@ -722,6 +722,7 @@
     <ClCompile Include="9085 더하기.cpp" />
     <ClCompile Include="9086 문자열.cpp" />
     <ClCompile Include="9093 단어 뒤집기.cpp" />
+    <ClCompile Include="9094 수학적 호기심.cpp" />
     <ClCompile Include="9205 맥주 마시면서 걸어가기.cpp" />
     <ClCompile Include="9251 LCS.cpp" />
     <ClCompile Include="10990 별 찍기 - 15.cpp" />
