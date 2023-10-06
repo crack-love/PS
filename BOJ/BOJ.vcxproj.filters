@@ -1831,6 +1831,9 @@
     <ClCompile Include="9094 수학적 호기심.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7510 고급 수학.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

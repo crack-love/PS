@@ -462,6 +462,7 @@
     <ClCompile Include="6359 만취한 상범.cpp" />
     <ClCompile Include="6593 상범 빌딩.cpp" />
     <ClCompile Include="6749 Next in line.cpp" />
+    <ClCompile Include="7510 고급 수학.cpp" />
     <ClCompile Include="7567 그릇.cpp" />
     <ClCompile Include="11286 절댓값 힙.cpp" />
     <ClCompile Include="11375 열혈강호.cpp" />
