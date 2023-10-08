@@ -1837,6 +1837,9 @@
     <ClCompile Include="14656 조교는 새디스트야!!.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="10173 니모를 찾아서.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
