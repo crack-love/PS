@@ -1840,6 +1840,9 @@
     <ClCompile Include="10173 니모를 찾아서.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14495 피보나치 비스무리한 수열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

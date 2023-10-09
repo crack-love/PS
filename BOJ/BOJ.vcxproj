@@ -227,6 +227,7 @@
     <ClCompile Include="12871 무한 문자열.cpp" />
     <ClCompile Include="13699 점화식.cpp" />
     <ClCompile Include="14405 피카츄.cpp" />
+    <ClCompile Include="14495 피보나치 비스무리한 수열.cpp" />
     <ClCompile Include="14656 조교는 새디스트야!!.cpp" />
     <ClCompile Include="14909 양수 개수 세기.cpp" />
     <ClCompile Include="15610 Abbey Courtyard.cpp" />
