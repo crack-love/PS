@@ -1843,6 +1843,9 @@
     <ClCompile Include="14495 피보나치 비스무리한 수열.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5555 반지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
