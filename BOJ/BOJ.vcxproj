@@ -246,6 +246,7 @@
     <ClCompile Include="21300 Bottle Return.cpp" />
     <ClCompile Include="21756 지우개.cpp" />
     <ClCompile Include="2240 자두나무.cpp" />
+    <ClCompile Include="23288 주사위 굴리기 2.cpp" />
     <ClCompile Include="24082 立方体.cpp" />
     <ClCompile Include="24883 자동완성.cpp" />
     <ClCompile Include="25192 인사성 밝은 곰곰이.cpp" />
