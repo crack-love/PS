@@ -1849,6 +1849,9 @@
     <ClCompile Include="23288 주사위 굴리기 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13136 Do Not Touch Anything.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
