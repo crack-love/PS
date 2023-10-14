@@ -228,6 +228,7 @@
     <ClCompile Include="13699 점화식.cpp" />
     <ClCompile Include="14405 피카츄.cpp" />
     <ClCompile Include="14495 피보나치 비스무리한 수열.cpp" />
+    <ClCompile Include="1456 거의 소수.cpp" />
     <ClCompile Include="14656 조교는 새디스트야!!.cpp" />
     <ClCompile Include="14909 양수 개수 세기.cpp" />
     <ClCompile Include="15610 Abbey Courtyard.cpp" />

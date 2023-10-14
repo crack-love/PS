@@ -1855,6 +1855,9 @@
     <ClCompile Include="20053 최소, 최대 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1456 거의 소수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
