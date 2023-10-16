@@ -8,7 +8,6 @@
 #define x first
 #define y second
 typedef int64_t ll;
-typedef pair<int,int> pii;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
