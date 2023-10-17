@@ -224,6 +224,7 @@
     <ClCompile Include="1120 문자열.cpp" />
     <ClCompile Include="11723 집합.cpp" />
     <ClCompile Include="1205 등수 구하기.cpp" />
+    <ClCompile Include="1240 노드사이의 거리.cpp" />
     <ClCompile Include="12871 무한 문자열.cpp" />
     <ClCompile Include="13699 점화식.cpp" />
     <ClCompile Include="14405 피카츄.cpp" />
