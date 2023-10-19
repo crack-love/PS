@@ -227,6 +227,7 @@
     <ClCompile Include="1240 노드사이의 거리.cpp" />
     <ClCompile Include="12871 무한 문자열.cpp" />
     <ClCompile Include="13699 점화식.cpp" />
+    <ClCompile Include="1402 아무래도이문제는A번난이도인것같다.cpp" />
     <ClCompile Include="14405 피카츄.cpp" />
     <ClCompile Include="14495 피보나치 비스무리한 수열.cpp" />
     <ClCompile Include="1456 거의 소수.cpp" />
@@ -759,6 +760,7 @@
     <ClCompile Include="9659 돌 게임 5.cpp" />
     <ClCompile Include="9763 마을의 친밀도.cpp" />
     <ClCompile Include="15000 CAPS.cpp" />
+    <ClCompile Include="9934 완전 이진 트리.cpp" />
     <ClCompile Include="vtest.cpp" />
     <ClCompile Include="_bdigit.cpp" />
     <ClCompile Include="_Template.cpp" />

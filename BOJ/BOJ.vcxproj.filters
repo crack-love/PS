@@ -1867,6 +1867,12 @@
     <ClCompile Include="1240 노드사이의 거리.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9934 완전 이진 트리.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1402 아무래도이문제는A번난이도인것같다.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
