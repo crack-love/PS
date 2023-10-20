@@ -258,6 +258,7 @@
     <ClCompile Include="24883 자동완성.cpp" />
     <ClCompile Include="25192 인사성 밝은 곰곰이.cpp" />
     <ClCompile Include="27294 몇개고.cpp" />
+    <ClCompile Include="2759 팬케이크 뒤집기.cpp" />
     <ClCompile Include="2774 아름다운 수.cpp" />
     <ClCompile Include="27959 초코바.cpp" />
     <ClCompile Include="2959 거북이.cpp" />

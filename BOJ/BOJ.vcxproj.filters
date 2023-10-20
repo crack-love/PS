@@ -1873,6 +1873,9 @@
     <ClCompile Include="1402 아무래도이문제는A번난이도인것같다.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2759 팬케이크 뒤집기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
