@@ -7,6 +7,7 @@
 #define fastio ios::sync_with_stdio(0); cin.tie(0); cout.tie(0)
 #define x first
 #define y second
+#define all(x) x.begin(),x.end()
 typedef int64_t ll;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;

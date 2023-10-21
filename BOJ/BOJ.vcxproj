@@ -221,6 +221,7 @@
     <ClCompile Include="11051 이항 계수 2.cpp" />
     <ClCompile Include="11060 점프 점프.cpp" />
     <ClCompile Include="11098 첼시를 도와줘!.cpp" />
+    <ClCompile Include="1111 IQ.cpp" />
     <ClCompile Include="1120 문자열.cpp" />
     <ClCompile Include="11723 집합.cpp" />
     <ClCompile Include="1205 등수 구하기.cpp" />
