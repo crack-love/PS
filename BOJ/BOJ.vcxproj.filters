@@ -1879,6 +1879,9 @@
     <ClCompile Include="1111 IQ.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3991 한번 쏘면 멈출 수 없어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
