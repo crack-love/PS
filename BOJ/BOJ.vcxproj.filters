@@ -1882,6 +1882,9 @@
     <ClCompile Include="3991 한번 쏘면 멈출 수 없어.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5361 전투 드로이드 가격.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
