@@ -1885,6 +1885,9 @@
     <ClCompile Include="5361 전투 드로이드 가격.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1731 추론.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
