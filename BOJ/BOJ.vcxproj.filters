@@ -1888,6 +1888,9 @@
     <ClCompile Include="1731 추론.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14623 감정이입.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
