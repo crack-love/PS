@@ -1894,6 +1894,9 @@
     <ClCompile Include="16917 양념 반 후라이드 반.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7572 간지(干支).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
