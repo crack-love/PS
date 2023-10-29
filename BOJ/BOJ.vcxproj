@@ -237,6 +237,7 @@
     <ClCompile Include="14909 양수 개수 세기.cpp" />
     <ClCompile Include="15610 Abbey Courtyard.cpp" />
     <ClCompile Include="15688 수 정렬하기 5.cpp" />
+    <ClCompile Include="15780 멀티탭 충분하니.cpp" />
     <ClCompile Include="15781 헬멧과 조끼.cpp" />
     <ClCompile Include="15980 명상 방해꾼.cpp" />
     <ClCompile Include="15988 1, 2, 3 더하기 3.cpp" />

@@ -1900,6 +1900,9 @@
     <ClCompile Include="23235 The Fastest Sorting Algorithm In The World.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15780 멀티탭 충분하니.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
