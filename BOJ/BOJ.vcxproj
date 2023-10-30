@@ -276,6 +276,7 @@
     <ClCompile Include="4562 No Brainer.cpp" />
     <ClCompile Include="4659 비밀번호 발음하기.cpp" />
     <ClCompile Include="4811 알약.cpp" />
+    <ClCompile Include="5026 박사 과정.cpp" />
     <ClCompile Include="5341 Pyramids.cpp" />
     <ClCompile Include="5361 전투 드로이드 가격.cpp" />
     <ClCompile Include="5363 요다.cpp" />
