@@ -1906,6 +1906,9 @@
     <ClCompile Include="5026 박사 과정.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="27110 특식 배부.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
