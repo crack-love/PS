@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/27110
+// https://www.acmicpc.net/problem/2399
 
 #include <bits/stdc++.h>
 #define for1(i,r) for(int i=0;i<r;++i)
@@ -12,7 +12,7 @@ typedef int64_t ll;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-struct p27110
+struct p2399
 {
 	int main()
 	{
@@ -20,12 +20,18 @@ struct p27110
 
 		int n;
 		cin >> n;
-		int a, b, c;
-		cin >> a >> b >> c;
-		int ans = 0;
-		ans = min(n, a) + min(n, b) + min(n, c);
+		int a[10000];
+		for1(i, n)
+		{
+			cin >> a[i];
+		}
+		ll ans = 0;
+		for2(i, j, n, n)
+		{
+			ans += abs((ll)a[i] - a[j]);
+		}
 		cout << ans;
 
 		return 0;
-	};
+	}
 };
