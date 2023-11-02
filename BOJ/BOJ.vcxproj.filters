@@ -1912,6 +1912,9 @@
     <ClCompile Include="2399 거리의 합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6378 디지털 루트.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
