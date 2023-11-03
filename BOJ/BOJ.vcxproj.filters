@@ -1915,6 +1915,9 @@
     <ClCompile Include="6378 디지털 루트.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16212 정열적인 정렬.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
