@@ -1918,6 +1918,9 @@
     <ClCompile Include="16212 정열적인 정렬.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6502 동혁 피자.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
