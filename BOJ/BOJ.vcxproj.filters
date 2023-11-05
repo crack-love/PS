@@ -1921,6 +1921,9 @@
     <ClCompile Include="6502 동혁 피자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="13416 주식 투자.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
