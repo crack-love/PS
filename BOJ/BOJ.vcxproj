@@ -249,6 +249,7 @@
     <ClCompile Include="16431 베시와 데이지.cpp" />
     <ClCompile Include="1673 치킨 쿠폰.cpp" />
     <ClCompile Include="16917 양념 반 후라이드 반.cpp" />
+    <ClCompile Include="17086 아기 상어 2.cpp" />
     <ClCompile Include="1731 추론.cpp" />
     <ClCompile Include="17356 욱 제.cpp" />
     <ClCompile Include="17389 보너스 점수.cpp" />

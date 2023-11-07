@@ -1927,6 +1927,9 @@
     <ClCompile Include="1188 음식 평론가.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17086 아기 상어 2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
