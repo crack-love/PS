@@ -1933,6 +1933,9 @@
     <ClCompile Include="2721 삼각수의 합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5692 팩토리얼 진법.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

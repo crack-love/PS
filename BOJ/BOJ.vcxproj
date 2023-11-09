@@ -294,6 +294,7 @@
     <ClCompile Include="2564 경비원.cpp" />
     <ClCompile Include="5555 반지.cpp" />
     <ClCompile Include="5568 카드 놓기.cpp" />
+    <ClCompile Include="5692 팩토리얼 진법.cpp" />
     <ClCompile Include="5949 Adding Commas.cpp" />
     <ClCompile Include="6131 완전 제곱수.cpp" />
     <ClCompile Include="6378 디지털 루트.cpp" />
