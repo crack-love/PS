@@ -232,6 +232,7 @@
     <ClCompile Include="13699 점화식.cpp" />
     <ClCompile Include="1402 아무래도이문제는A번난이도인것같다.cpp" />
     <ClCompile Include="14405 피카츄.cpp" />
+    <ClCompile Include="14487 욱제는 효도쟁이야!!.cpp" />
     <ClCompile Include="14495 피보나치 비스무리한 수열.cpp" />
     <ClCompile Include="1456 거의 소수.cpp" />
     <ClCompile Include="14623 감정이입.cpp" />
