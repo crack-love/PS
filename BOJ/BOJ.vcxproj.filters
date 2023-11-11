@@ -1939,6 +1939,9 @@
     <ClCompile Include="14487 욱제는 효도쟁이야!!.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5724 파인만.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
