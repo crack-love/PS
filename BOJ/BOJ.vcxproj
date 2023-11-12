@@ -256,6 +256,7 @@
     <ClCompile Include="17389 보너스 점수.cpp" />
     <ClCompile Include="1755 숫자놀이.cpp" />
     <ClCompile Include="13136 Do Not Touch Anything.cpp" />
+    <ClCompile Include="17608 막대기.cpp" />
     <ClCompile Include="1871 좋은 자동차 번호판.cpp" />
     <ClCompile Include="1911 흙길 보수하기.cpp" />
     <ClCompile Include="20053 최소, 최대 2.cpp" />
