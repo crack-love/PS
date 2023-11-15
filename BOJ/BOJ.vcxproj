@@ -278,6 +278,7 @@
     <ClCompile Include="2759 팬케이크 뒤집기.cpp" />
     <ClCompile Include="2774 아름다운 수.cpp" />
     <ClCompile Include="27959 초코바.cpp" />
+    <ClCompile Include="2811 상범이의 우울.cpp" />
     <ClCompile Include="2959 거북이.cpp" />
     <ClCompile Include="3004 체스판 조각.cpp" />
     <ClCompile Include="3029 경고.cpp" />
@@ -818,6 +819,32 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="11723 집합.bit.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2811.in.10" />
+    <None Include="2811.in.11" />
+    <None Include="2811.in.12" />
+    <None Include="2811.in.13" />
+    <None Include="2811.in.2" />
+    <None Include="2811.in.3" />
+    <None Include="2811.in.4" />
+    <None Include="2811.in.5" />
+    <None Include="2811.in.6" />
+    <None Include="2811.in.7" />
+    <None Include="2811.in.8" />
+    <None Include="2811.in.9" />
+    <None Include="2811.out.10" />
+    <None Include="2811.out.11" />
+    <None Include="2811.out.12" />
+    <None Include="2811.out.13" />
+    <None Include="2811.out.2" />
+    <None Include="2811.out.3" />
+    <None Include="2811.out.4" />
+    <None Include="2811.out.5" />
+    <None Include="2811.out.6" />
+    <None Include="2811.out.7" />
+    <None Include="2811.out.8" />
+    <None Include="2811.out.9" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

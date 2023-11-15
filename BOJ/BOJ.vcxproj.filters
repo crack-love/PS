@@ -1951,6 +1951,9 @@
     <ClCompile Include="10836 여왕벌.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2811 상범이의 우울.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -2010,5 +2013,79 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="BOJ.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="2811.in.4">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.5">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.6">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.7">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.8">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.9">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.10">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.4">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.5">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.6">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.7">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.8">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.9">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.10">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.2">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.3">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.3">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.2">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.11">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.12">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.out.13">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.11">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.12">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="2811.in.13">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
