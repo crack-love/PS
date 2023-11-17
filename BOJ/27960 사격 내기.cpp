@@ -12,13 +12,16 @@ typedef int64_t ll;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-int main()
+struct p27960
 {
-	fastio;
+	int main()
+	{
+		fastio;
 
-	int a, b;
-	cin >> a >> b;
-	cout << (a ^ b);
+		int a, b;
+		cin >> a >> b;
+		cout << (a ^ b);
 
-	return 0;
-}
+		return 0;
+	}
+};
