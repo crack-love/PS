@@ -163,7 +163,7 @@
     <ClCompile Include="1029 그림 교환.cpp" />
     <ClCompile Include="1033 칵테일.cpp" />
     <ClCompile Include="1034 램프.cpp" />
-    <ClCompile Include="1035 조각 움직이기.cpp" />
+    <ClCompile Include="27960 사격 내기.cpp" />
     <ClCompile Include="1038 감소하는 수.cpp" />
     <ClCompile Include="1039 교환.cpp" />
     <ClCompile Include="1041 주사위.cpp" />
@@ -280,6 +280,7 @@
     <ClCompile Include="2774 아름다운 수.cpp" />
     <ClCompile Include="27959 초코바.cpp" />
     <ClCompile Include="2811 상범이의 우울.cpp" />
+    <ClCompile Include="2840 행운의 바퀴.cpp" />
     <ClCompile Include="2959 거북이.cpp" />
     <ClCompile Include="3004 체스판 조각.cpp" />
     <ClCompile Include="3029 경고.cpp" />

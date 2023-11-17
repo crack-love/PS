@@ -1954,7 +1954,10 @@
     <ClCompile Include="2811 상범이의 우울.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1035 조각 움직이기.cpp">
+    <ClCompile Include="27960 사격 내기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2840 행운의 바퀴.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
