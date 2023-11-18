@@ -1960,6 +1960,9 @@
     <ClCompile Include="2840 행운의 바퀴.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9324 진짜 메시지.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
