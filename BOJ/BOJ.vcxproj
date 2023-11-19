@@ -281,6 +281,7 @@
     <ClCompile Include="27959 초코바.cpp" />
     <ClCompile Include="2811 상범이의 우울.cpp" />
     <ClCompile Include="2840 행운의 바퀴.cpp" />
+    <ClCompile Include="28701.cpp" />
     <ClCompile Include="2959 거북이.cpp" />
     <ClCompile Include="3004 체스판 조각.cpp" />
     <ClCompile Include="3029 경고.cpp" />
