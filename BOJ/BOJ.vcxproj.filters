@@ -1966,6 +1966,9 @@
     <ClCompile Include="28701.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1347 미로 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
