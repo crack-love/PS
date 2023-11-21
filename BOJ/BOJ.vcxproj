@@ -306,6 +306,7 @@
     <ClCompile Include="5692 팩토리얼 진법.cpp" />
     <ClCompile Include="5724 파인만.cpp" />
     <ClCompile Include="5949 Adding Commas.cpp" />
+    <ClCompile Include="6118 숨바꼭질.cpp" />
     <ClCompile Include="6131 완전 제곱수.cpp" />
     <ClCompile Include="6378 디지털 루트.cpp" />
     <ClCompile Include="6502 동혁 피자.cpp" />
