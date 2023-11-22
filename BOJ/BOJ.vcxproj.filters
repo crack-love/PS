@@ -1972,6 +1972,9 @@
     <ClCompile Include="6118 숨바꼭질.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2659 십자카드 문제.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
