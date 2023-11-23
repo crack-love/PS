@@ -10,57 +10,60 @@ typedef int64_t ll;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-int main()
+struct p2659
 {
-	fastio;
-
-	int v = 0;
-	for (int i = 0; i < 4; ++i)
+	int main()
 	{
-		int x;
-		cin >> x;
-		v += pow(10, 3 - i) * x;
-	}
+		fastio;
 
-	auto getClockNum = [](int v) -> int
-	{
-		static set<int> s;
-		s.clear();
+		int v = 0;
 		for (int i = 0; i < 4; ++i)
 		{
-			v *= 10;
-			v += v / 10000;
-			v %= 10000;
-			s.insert(v);
+			int x;
+			cin >> x;
+			v += (int)pow(10, 3 - i) * x;
 		}
-		return *s.begin();
-	};
 
-	int t = getClockNum(v);
-
-	map<int, int> m;
-	int c = 1;
-	for (int i = 1111; i <= 9999; ++i)
-	{
-		int i2 = i;
-		for (int j = 0; j < 4; ++j)
-		{	
-			if (i2 % 10 == 0)
+		auto getClockNum = [](int v) -> int
+		{
+			static set<int> s;
+			s.clear();
+			for (int i = 0; i < 4; ++i)
 			{
-				i2 = -1;
-				break;
+				v *= 10;
+				v += v / 10000;
+				v %= 10000;
+				s.insert(v);
 			}
-			i2 /= 10;
+			return *s.begin();
+		};
+
+		int t = getClockNum(v);
+
+		map<int, int> m;
+		int c = 1;
+		for (int i = 1111; i <= 9999; ++i)
+		{
+			int i2 = i;
+			for (int j = 0; j < 4; ++j)
+			{
+				if (i2 % 10 == 0)
+				{
+					i2 = -1;
+					break;
+				}
+				i2 /= 10;
+			}
+			if (i2 == -1)
+				continue;
+
+			int cn = getClockNum(i);
+			auto it = m.find(cn);
+			if (it == m.end())
+				m.insert({ cn, c++ });
 		}
-		if (i2 == -1) 
-			continue;
 
-		int cn = getClockNum(i);
-		auto it = m.find(cn);
-		if (it == m.end())
-			m.insert({ cn, c++ });
+		cout << m[t];
+		return 0;
 	}
-
-	cout << m[t];
-	return 0;
-}
+};
