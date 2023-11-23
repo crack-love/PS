@@ -285,6 +285,7 @@
     <ClCompile Include="2840 행운의 바퀴.cpp" />
     <ClCompile Include="28701.cpp" />
     <ClCompile Include="2959 거북이.cpp" />
+    <ClCompile Include="2980 도로와 신호등.cpp" />
     <ClCompile Include="3004 체스판 조각.cpp" />
     <ClCompile Include="3029 경고.cpp" />
     <ClCompile Include="3135 라디오.cpp" />

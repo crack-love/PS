@@ -1975,6 +1975,9 @@
     <ClCompile Include="2659 십자카드 문제.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2980 도로와 신호등.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
