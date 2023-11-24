@@ -10,28 +10,31 @@ typedef int64_t ll;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-int main()
+struct p9342
 {
-	fastio;
-
-	// correct : [A-F]?A+F+C+[A-F]?
-	regex r("[ABCDEF]{0,1}A+F+C+[ABCDEF]{0,1}");
-	int t;
-	cin >> t;
-	while (t--)
+	int main()
 	{
-		string s;
-		cin >> s;
-		if (regex_match(s, r))
-		{
-			cout << "Infected!";
-		}
-		else
-		{
-			cout << "Good";
-		}
-		cout << "\n";
-	}
+		fastio;
 
-	return 0;
-}
+		// correct : [A-F]?A+F+C+[A-F]?
+		regex r("[ABCDEF]{0,1}A+F+C+[ABCDEF]{0,1}");
+		int t;
+		cin >> t;
+		while (t--)
+		{
+			string s;
+			cin >> s;
+			if (regex_match(s, r))
+			{
+				cout << "Infected!";
+			}
+			else
+			{
+				cout << "Good";
+			}
+			cout << "\n";
+		}
+
+		return 0;
+	}
+};
