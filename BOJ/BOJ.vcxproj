@@ -777,6 +777,7 @@
     <ClCompile Include="9316 Hello Judge.cpp" />
     <ClCompile Include="9324 진짜 메시지.cpp" />
     <ClCompile Include="9325 얼마.cpp" />
+    <ClCompile Include="9342 염색체.cpp" />
     <ClCompile Include="9372 상근이의 여행.cpp" />
     <ClCompile Include="9375 패션왕 신해빈.cpp" />
     <ClCompile Include="9466 텀 프로젝트.cpp" />
