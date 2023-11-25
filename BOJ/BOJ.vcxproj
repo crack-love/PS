@@ -797,6 +797,7 @@
     <ClCompile Include="9763 마을의 친밀도.cpp" />
     <ClCompile Include="15000 CAPS.cpp" />
     <ClCompile Include="9934 완전 이진 트리.cpp" />
+    <ClCompile Include="9996 한국이 그리울 떈 서버에 접속하지.cpp" />
     <ClCompile Include="vtest.cpp" />
     <ClCompile Include="_bdigit.cpp" />
     <ClCompile Include="_Template.cpp" />
