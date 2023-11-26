@@ -1984,6 +1984,9 @@
     <ClCompile Include="9996 한국이 그리울 떈 서버에 접속하지.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="5637 가장 긴 단어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
