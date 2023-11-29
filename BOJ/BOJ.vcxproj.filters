@@ -1990,6 +1990,9 @@
     <ClCompile Include="15312 이름 궁합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25628 햄버거 만들기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
