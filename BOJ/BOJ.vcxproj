@@ -165,6 +165,7 @@
     <ClCompile Include="1034 램프.cpp" />
     <ClCompile Include="1347 미로 만들기.cpp" />
     <ClCompile Include="15312 이름 궁합.cpp" />
+    <ClCompile Include="17618.cpp" />
     <ClCompile Include="25628 햄버거 만들기.cpp" />
     <ClCompile Include="2659 십자카드 문제.cpp" />
     <ClCompile Include="27960 사격 내기.cpp" />
