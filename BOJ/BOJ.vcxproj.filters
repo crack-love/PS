@@ -1999,6 +1999,9 @@
     <ClCompile Include="28113 정보섬의 대중교통.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18511 큰 수 구성하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
