@@ -164,6 +164,7 @@
     <ClCompile Include="1033 칵테일.cpp" />
     <ClCompile Include="1034 램프.cpp" />
     <ClCompile Include="1347 미로 만들기.cpp" />
+    <ClCompile Include="1531 투명.cpp" />
     <ClCompile Include="15312 이름 궁합.cpp" />
     <ClCompile Include="17618.cpp" />
     <ClCompile Include="18511 큰 수 구성하기.cpp" />

@@ -2005,6 +2005,9 @@
     <ClCompile Include="7600 문자가 몇갤까.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1531 투명.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
