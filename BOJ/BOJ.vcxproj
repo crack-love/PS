@@ -166,6 +166,7 @@
     <ClCompile Include="1347 미로 만들기.cpp" />
     <ClCompile Include="1531 투명.cpp" />
     <ClCompile Include="15312 이름 궁합.cpp" />
+    <ClCompile Include="17390 이건 꼭 풀어야 해.cpp" />
     <ClCompile Include="17618.cpp" />
     <ClCompile Include="18511 큰 수 구성하기.cpp" />
     <ClCompile Include="25628 햄버거 만들기.cpp" />
