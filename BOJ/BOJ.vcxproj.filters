@@ -2011,6 +2011,9 @@
     <ClCompile Include="17390 이건 꼭 풀어야 해.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1337 올바른 배열.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
