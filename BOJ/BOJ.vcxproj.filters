@@ -2014,6 +2014,9 @@
     <ClCompile Include="1337 올바른 배열.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1817 짐 챙기는 숌.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
