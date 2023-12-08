@@ -10,42 +10,45 @@ typedef int64_t ll;
 const int dx[8] = { 0,0,1,-1,1,1,-1,-1 }, dy[8] = { 1,-1,0,0,1,-1,1,-1 };
 using namespace std;
 
-string x;
-string v;
-int visited;
-string ans;
-void dfs(int i)
+struct p2992
 {
-	if (i == x.size())
+	string x;
+	string v;
+	int visited;
+	string ans;
+	void dfs(int i)
 	{
-		if (v > x)
+		if (i == x.size())
 		{
-			if (ans == "" || v < ans)
-				ans = string(v);
+			if (v > x)
+			{
+				if (ans == "" || v < ans)
+					ans = string(v);
+			}
+			return;
 		}
-		return;
+
+		for (int j = 0; j < x.size(); ++j)
+		{
+			if ((visited & (1 << j)) > 0) continue;
+			if (i == 0 && x[i] > x[j]) continue;
+
+			v[i] = x[j];
+			visited |= (1 << j);
+			dfs(i + 1);
+			visited &= ~(1 << j);
+		}
 	}
 
-	for (int j = 0; j < x.size(); ++j)
+	int main()
 	{
-		if ((visited & (1 << j)) > 0) continue;
-		if (i == 0 && x[i] > x[j]) continue;
+		fastio;
 
-		v[i] = x[j];
-		visited |= (1<<j);
-		dfs(i + 1);
-		visited &= ~(1<<j);
+		cin >> x;
+		v = string(x);
+		dfs(0);
+		cout << (ans == "" ? "0" : ans);
+
+		return 0;
 	}
-}
-
-int main()
-{
-	fastio;
-
-	cin >> x;
-	v = string(x);
-	dfs(0);
-	cout << (ans == "" ? "0" : ans);
-
-	return 0;
-}
+};
