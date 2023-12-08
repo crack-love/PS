@@ -2017,6 +2017,9 @@
     <ClCompile Include="1817 짐 챙기는 숌.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2992 크면서 작은 수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
