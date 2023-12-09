@@ -2020,6 +2020,9 @@
     <ClCompile Include="2992 크면서 작은 수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20546 기적의 매매법.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
