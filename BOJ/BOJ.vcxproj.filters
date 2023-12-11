@@ -2026,6 +2026,9 @@
     <ClCompile Include="25372 성택이의 은밀한 비밀번호.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="9501 꿍의 우주여행.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
