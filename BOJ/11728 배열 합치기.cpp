@@ -26,8 +26,8 @@ struct p11728
 			cin >> b[i];
 		}
 
-		a[n] = 1e9 + 1;
-		b[m] = 1e9 + 1;
+		a[n] = (int)1e9 + 1;
+		b[m] = (int)1e9 + 1;
 		sort(a, a + n);
 		sort(b, b + m);
 		int ai = 0;

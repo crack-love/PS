@@ -25,7 +25,7 @@ struct p13458
 			a[i] -= b;
 			if (a[i] > 0)
 			{
-				ans += ceil(a[i] / (double)c);
+				ans += (long long)ceil(a[i] / (double)c);
 			}
 		}
 

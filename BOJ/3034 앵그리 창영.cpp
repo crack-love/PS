@@ -20,7 +20,7 @@ struct p3034
 		int w, h;
 		cin >> n >> w >> h;
 
-		int l = floor(sqrt(w * w + h * h));
+		int l = (int)floor(sqrt(w * w + h * h));
 
 		for1(i, n)
 		{

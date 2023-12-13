@@ -18,7 +18,7 @@ struct p1456
 		ll a, b;
 		cin >> a >> b;
 
-		int cap = sqrt(b);
+		int cap = (int)sqrt(b);
 		bool isNotPrime[(int)1e7 + 1]{};
 		vector<int> prime;
 		for (int i = 2; i <= cap; ++i)

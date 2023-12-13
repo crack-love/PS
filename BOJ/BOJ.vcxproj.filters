@@ -2032,6 +2032,9 @@
     <ClCompile Include="16967 배열 복원하기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11539 줄 세우기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -2088,6 +2091,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
+    <ClInclude Include="Includes\bits\stdc++.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="BOJ.rc" />

@@ -42,7 +42,7 @@ struct p25206
 			}
 			else
 			{
-				vsum += value;
+				vsum += (int)value;
 				ssum += value * m[score];
 			}
 		}
