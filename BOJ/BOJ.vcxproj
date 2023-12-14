@@ -171,6 +171,7 @@
     <ClCompile Include="1347 미로 만들기.cpp" />
     <ClCompile Include="1531 투명.cpp" />
     <ClCompile Include="15312 이름 궁합.cpp" />
+    <ClCompile Include="15813 너의 이름은 몇 점이니.cpp" />
     <ClCompile Include="16967 배열 복원하기.cpp" />
     <ClCompile Include="17390 이건 꼭 풀어야 해.cpp" />
     <ClCompile Include="17618.cpp" />
