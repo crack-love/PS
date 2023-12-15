@@ -2038,6 +2038,9 @@
     <ClCompile Include="15813 너의 이름은 몇 점이니.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20540 연길이의 이상형.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

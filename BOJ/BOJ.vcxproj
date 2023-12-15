@@ -177,6 +177,7 @@
     <ClCompile Include="17618.cpp" />
     <ClCompile Include="1817 짐 챙기는 숌.cpp" />
     <ClCompile Include="18511 큰 수 구성하기.cpp" />
+    <ClCompile Include="20540 연길이의 이상형.cpp" />
     <ClCompile Include="20546 기적의 매매법.cpp" />
     <ClCompile Include="25372 성택이의 은밀한 비밀번호.cpp" />
     <ClCompile Include="25628 햄버거 만들기.cpp" />
