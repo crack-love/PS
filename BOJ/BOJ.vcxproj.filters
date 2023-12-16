@@ -2041,6 +2041,9 @@
     <ClCompile Include="20540 연길이의 이상형.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="28235 코드마스터 2023.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
