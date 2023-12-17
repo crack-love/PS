@@ -2044,6 +2044,9 @@
     <ClCompile Include="28235 코드마스터 2023.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25757 임스와 함께하는 미니게임.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
