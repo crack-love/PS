@@ -2050,6 +2050,9 @@
     <ClCompile Include="2028 자기복제수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1740 거듭제곱.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
