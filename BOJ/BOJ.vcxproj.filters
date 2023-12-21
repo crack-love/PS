@@ -2053,6 +2053,9 @@
     <ClCompile Include="1740 거듭제곱.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15489 파스칼 삼각형.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
