@@ -307,6 +307,7 @@
     <ClCompile Include="28113 정보섬의 대중교통.cpp" />
     <ClCompile Include="28235 코드마스터 2023.cpp" />
     <ClCompile Include="2840 행운의 바퀴.cpp" />
+    <ClCompile Include="28691 정보보호학부 동아리 소개.cpp" />
     <ClCompile Include="28701.cpp" />
     <ClCompile Include="2959 거북이.cpp" />
     <ClCompile Include="2980 도로와 신호등.cpp" />
