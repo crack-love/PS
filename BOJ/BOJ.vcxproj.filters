@@ -2065,6 +2065,9 @@
     <ClCompile Include="29790 임스의 메이플컵.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="25494 단순한 문제 %28Small%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
