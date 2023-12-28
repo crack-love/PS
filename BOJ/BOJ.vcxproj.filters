@@ -2074,6 +2074,9 @@
     <ClCompile Include="22938 백발백준하는 명사수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="11109 괴짜 교수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
