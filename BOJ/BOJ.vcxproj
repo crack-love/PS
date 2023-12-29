@@ -183,6 +183,7 @@
     <ClCompile Include="2028 자기복제수.cpp" />
     <ClCompile Include="20540 연길이의 이상형.cpp" />
     <ClCompile Include="20546 기적의 매매법.cpp" />
+    <ClCompile Include="20001 고무오리 디버깅.cpp" />
     <ClCompile Include="20944 팰린드롬 척화비.cpp" />
     <ClCompile Include="22938 백발백준하는 명사수.cpp" />
     <ClCompile Include="25372 성택이의 은밀한 비밀번호.cpp" />

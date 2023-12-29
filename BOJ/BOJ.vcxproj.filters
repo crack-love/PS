@@ -2077,6 +2077,9 @@
     <ClCompile Include="11109 괴짜 교수.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20001 고무오리 디버깅.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
