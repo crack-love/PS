@@ -2080,6 +2080,9 @@
     <ClCompile Include="20001 고무오리 디버깅.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="30030 스위트콘 가격 구하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
