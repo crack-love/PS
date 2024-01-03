@@ -2089,6 +2089,9 @@
     <ClCompile Include="4435 중간계 전쟁.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18247 겨울왕국 티켓 예매.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
