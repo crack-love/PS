@@ -2095,6 +2095,9 @@
     <ClCompile Include="25640 MBTI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="8949 대충 더해.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
