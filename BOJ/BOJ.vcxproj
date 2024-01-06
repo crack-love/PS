@@ -194,6 +194,7 @@
     <ClCompile Include="25757 임스와 함께하는 미니게임.cpp" />
     <ClCompile Include="26068 치킨댄스를 추는 곰곰이를 본 임스 2.cpp" />
     <ClCompile Include="2659 십자카드 문제.cpp" />
+    <ClCompile Include="2712 미국 스타일.cpp" />
     <ClCompile Include="27960 사격 내기.cpp" />
     <ClCompile Include="1038 감소하는 수.cpp" />
     <ClCompile Include="1039 교환.cpp" />

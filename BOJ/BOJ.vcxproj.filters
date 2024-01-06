@@ -2098,6 +2098,9 @@
     <ClCompile Include="8949 대충 더해.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2712 미국 스타일.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
