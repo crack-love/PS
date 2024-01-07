@@ -2101,6 +2101,9 @@
     <ClCompile Include="2712 미국 스타일.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4690 완전 세제곱.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

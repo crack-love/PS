@@ -330,6 +330,7 @@
     <ClCompile Include="4435 중간계 전쟁.cpp" />
     <ClCompile Include="4562 No Brainer.cpp" />
     <ClCompile Include="4659 비밀번호 발음하기.cpp" />
+    <ClCompile Include="4690 완전 세제곱.cpp" />
     <ClCompile Include="4811 알약.cpp" />
     <ClCompile Include="5026 박사 과정.cpp" />
     <ClCompile Include="5341 Pyramids.cpp" />
