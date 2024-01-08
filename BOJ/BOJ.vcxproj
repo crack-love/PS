@@ -168,6 +168,7 @@
     <ClCompile Include="1034 램프.cpp" />
     <ClCompile Include="11109 괴짜 교수.cpp" />
     <ClCompile Include="11539 줄 세우기.cpp" />
+    <ClCompile Include="12845 모두의 마블.cpp" />
     <ClCompile Include="1337 올바른 배열.cpp" />
     <ClCompile Include="1347 미로 만들기.cpp" />
     <ClCompile Include="1531 투명.cpp" />
