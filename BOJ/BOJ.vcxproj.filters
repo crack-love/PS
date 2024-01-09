@@ -2107,6 +2107,9 @@
     <ClCompile Include="12845 모두의 마블.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="14726 신용카드 판별.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
