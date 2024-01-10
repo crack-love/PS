@@ -2110,6 +2110,9 @@
     <ClCompile Include="14726 신용카드 판별.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="15720 카우버거.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
