@@ -2116,6 +2116,9 @@
     <ClCompile Include="16439 치킨치킨치킨.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="29736 브실이와 친구가 되고 싶어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
