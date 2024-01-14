@@ -191,6 +191,7 @@
     <ClCompile Include="20001 고무오리 디버깅.cpp" />
     <ClCompile Include="20944 팰린드롬 척화비.cpp" />
     <ClCompile Include="22938 백발백준하는 명사수.cpp" />
+    <ClCompile Include="2485 가로수.cpp" />
     <ClCompile Include="25372 성택이의 은밀한 비밀번호.cpp" />
     <ClCompile Include="25628 햄버거 만들기.cpp" />
     <ClCompile Include="25640 MBTI.cpp" />
