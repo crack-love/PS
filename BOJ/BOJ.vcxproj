@@ -178,6 +178,7 @@
     <ClCompile Include="15720 카우버거.cpp" />
     <ClCompile Include="15813 너의 이름은 몇 점이니.cpp" />
     <ClCompile Include="16439 치킨치킨치킨.cpp" />
+    <ClCompile Include="16483 접시 안의 원.cpp" />
     <ClCompile Include="16967 배열 복원하기.cpp" />
     <ClCompile Include="17390 이건 꼭 풀어야 해.cpp" />
     <ClCompile Include="1740 거듭제곱.cpp" />

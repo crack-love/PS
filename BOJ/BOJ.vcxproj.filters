@@ -2131,6 +2131,9 @@
     <ClCompile Include="20205.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="16483 접시 안의 원.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
