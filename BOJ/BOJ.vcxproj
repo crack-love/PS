@@ -356,6 +356,7 @@
     <ClCompile Include="5555 반지.cpp" />
     <ClCompile Include="5568 카드 놓기.cpp" />
     <ClCompile Include="5637 가장 긴 단어.cpp" />
+    <ClCompile Include="5648.cpp" />
     <ClCompile Include="5692 팩토리얼 진법.cpp" />
     <ClCompile Include="5724 파인만.cpp" />
     <ClCompile Include="5949 Adding Commas.cpp" />
