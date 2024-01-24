@@ -2152,6 +2152,9 @@
     <ClCompile Include="18429 근손실.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="21771.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

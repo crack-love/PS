@@ -194,6 +194,7 @@
     <ClCompile Include="20546 기적의 매매법.cpp" />
     <ClCompile Include="20001 고무오리 디버깅.cpp" />
     <ClCompile Include="20944 팰린드롬 척화비.cpp" />
+    <ClCompile Include="21771.cpp" />
     <ClCompile Include="22938 백발백준하는 명사수.cpp" />
     <ClCompile Include="23808.cpp" />
     <ClCompile Include="2485 가로수.cpp" />
