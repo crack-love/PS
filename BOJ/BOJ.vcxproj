@@ -175,6 +175,7 @@
     <ClCompile Include="14726 신용카드 판별.cpp" />
     <ClCompile Include="1531 투명.cpp" />
     <ClCompile Include="15312 이름 궁합.cpp" />
+    <ClCompile Include="15351.cpp" />
     <ClCompile Include="15489 파스칼 삼각형.cpp" />
     <ClCompile Include="15720 카우버거.cpp" />
     <ClCompile Include="15813 너의 이름은 몇 점이니.cpp" />
