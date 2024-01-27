@@ -339,6 +339,7 @@
     <ClCompile Include="30017.cpp" />
     <ClCompile Include="30030 스위트콘 가격 구하기.cpp" />
     <ClCompile Include="3004 체스판 조각.cpp" />
+    <ClCompile Include="30224.cpp" />
     <ClCompile Include="3029 경고.cpp" />
     <ClCompile Include="3135 라디오.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
