@@ -814,6 +814,7 @@
     <ClCompile Include="7572 간지(干支).cpp" />
     <ClCompile Include="7575 바이러스.cpp" />
     <ClCompile Include="7578 공장.cpp" />
+    <ClCompile Include="7595.cpp" />
     <ClCompile Include="7600 문자가 몇갤까.cpp" />
     <ClCompile Include="7662 이중 우선순위 큐.pq.cpp" />
     <ClCompile Include="7662 이중 우선순위 큐.map.cpp" />
