@@ -190,6 +190,7 @@
     <ClCompile Include="18247 겨울왕국 티켓 예매.cpp" />
     <ClCompile Include="18429 근손실.cpp" />
     <ClCompile Include="18511 큰 수 구성하기.cpp" />
+    <ClCompile Include="19947.cpp" />
     <ClCompile Include="20205.cpp" />
     <ClCompile Include="2028 자기복제수.cpp" />
     <ClCompile Include="20540 연길이의 이상형.cpp" />
