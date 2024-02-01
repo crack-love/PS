@@ -328,6 +328,7 @@
     <ClCompile Include="27959 초코바.cpp" />
     <ClCompile Include="28295.cpp" />
     <ClCompile Include="28352 10!.cpp" />
+    <ClCompile Include="2935.cpp" />
     <ClCompile Include="29736 브실이와 친구가 되고 싶어.cpp" />
     <ClCompile Include="29790 임스의 메이플컵.cpp" />
     <ClCompile Include="2811 상범이의 우울.cpp" />
