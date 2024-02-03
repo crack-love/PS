@@ -347,6 +347,7 @@
     <ClCompile Include="30224.cpp" />
     <ClCompile Include="3029 경고.cpp" />
     <ClCompile Include="3135 라디오.cpp" />
+    <ClCompile Include="3460.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
     <ClCompile Include="3991 한번 쏘면 멈출 수 없어.cpp" />
     <ClCompile Include="4388.cpp" />
