@@ -328,6 +328,7 @@
     <ClCompile Include="2759 팬케이크 뒤집기.cpp" />
     <ClCompile Include="2774 아름다운 수.cpp" />
     <ClCompile Include="27959 초코바.cpp" />
+    <ClCompile Include="28281.cpp" />
     <ClCompile Include="28295.cpp" />
     <ClCompile Include="28352 10!.cpp" />
     <ClCompile Include="2935.cpp" />
