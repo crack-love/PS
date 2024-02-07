@@ -20,7 +20,15 @@ struct p10093
 		cin >> a >> b;
 		if (a > b)
 			swap(a, b);
-		cout << max(b - a - 1, 0ll) << "\n";
+		if (b - a - 1 < 0)
+		{
+			cout << 0 << "\n";
+		}
+		else
+		{
+			cout << b - a - 1 << "\n";
+		}
+
 		for (++a; a < b; ++a)
 		{
 			cout << a << " ";
