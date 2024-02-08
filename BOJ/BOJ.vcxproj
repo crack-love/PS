@@ -192,6 +192,7 @@
     <ClCompile Include="1817 짐 챙기는 숌.cpp" />
     <ClCompile Include="18238.cpp" />
     <ClCompile Include="18247 겨울왕국 티켓 예매.cpp" />
+    <ClCompile Include="18330.cpp" />
     <ClCompile Include="18429 근손실.cpp" />
     <ClCompile Include="18511 큰 수 구성하기.cpp" />
     <ClCompile Include="19947.cpp" />
