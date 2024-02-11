@@ -348,6 +348,7 @@
     <ClCompile Include="2959 거북이.cpp" />
     <ClCompile Include="2980 도로와 신호등.cpp" />
     <ClCompile Include="2992 크면서 작은 수.cpp" />
+    <ClCompile Include="2993.cpp" />
     <ClCompile Include="30017.cpp" />
     <ClCompile Include="30030 스위트콘 가격 구하기.cpp" />
     <ClCompile Include="3004 체스판 조각.cpp" />
