@@ -354,6 +354,7 @@
     <ClCompile Include="3004 체스판 조각.cpp" />
     <ClCompile Include="30224.cpp" />
     <ClCompile Include="3029 경고.cpp" />
+    <ClCompile Include="30999.cpp" />
     <ClCompile Include="3135 라디오.cpp" />
     <ClCompile Include="3460.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
