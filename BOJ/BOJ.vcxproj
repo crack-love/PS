@@ -186,6 +186,7 @@
     <ClCompile Include="16439 치킨치킨치킨.cpp" />
     <ClCompile Include="16483 접시 안의 원.cpp" />
     <ClCompile Include="16967 배열 복원하기.cpp" />
+    <ClCompile Include="17176.cpp" />
     <ClCompile Include="17350.cpp" />
     <ClCompile Include="17390 이건 꼭 풀어야 해.cpp" />
     <ClCompile Include="1740 거듭제곱.cpp" />
