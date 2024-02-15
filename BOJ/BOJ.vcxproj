@@ -207,6 +207,7 @@
     <ClCompile Include="21771.cpp" />
     <ClCompile Include="22938 백발백준하는 명사수.cpp" />
     <ClCompile Include="23080.cpp" />
+    <ClCompile Include="23348.cpp" />
     <ClCompile Include="23808.cpp" />
     <ClCompile Include="2485 가로수.cpp" />
     <ClCompile Include="25372 성택이의 은밀한 비밀번호.cpp" />
@@ -360,6 +361,7 @@
     <ClCompile Include="3460.cpp" />
     <ClCompile Include="3980 선발 명단.cpp" />
     <ClCompile Include="3991 한번 쏘면 멈출 수 없어.cpp" />
+    <ClCompile Include="4158.cpp" />
     <ClCompile Include="4388.cpp" />
     <ClCompile Include="4435 중간계 전쟁.cpp" />
     <ClCompile Include="4562 No Brainer.cpp" />
