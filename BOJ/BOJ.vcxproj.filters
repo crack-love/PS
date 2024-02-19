@@ -2230,6 +2230,9 @@
     <ClCompile Include="27736.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="20361.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">

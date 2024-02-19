@@ -201,6 +201,7 @@
     <ClCompile Include="19947.cpp" />
     <ClCompile Include="20205.cpp" />
     <ClCompile Include="2028 자기복제수.cpp" />
+    <ClCompile Include="20361.cpp" />
     <ClCompile Include="20540 연길이의 이상형.cpp" />
     <ClCompile Include="20546 기적의 매매법.cpp" />
     <ClCompile Include="20001 고무오리 디버깅.cpp" />
