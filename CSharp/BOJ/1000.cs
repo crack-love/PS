@@ -1,6 +1,6 @@
 ﻿class P1000
 {
-    static void Main()
+    static void Main0()
     {
         string s = Console.ReadLine();
         string[] ss = s.Split();
