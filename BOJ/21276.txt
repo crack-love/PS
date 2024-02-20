@@ -1,7 +1,0 @@
-4
-a b c d
-4
-c a
-c b
-d c
-d b
