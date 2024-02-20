@@ -1,0 +1,2236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="BOJ">
+      <UniqueIdentifier>{c56f9836-d12a-4371-a58d-aaf7888ad687}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_bdigit.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="_template.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 터렛.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1021 회전하는 큐 v1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1021 회전하는 큐.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1022 소용돌이 예쁘게 출력하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1024 수열의 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1025 제곱수 찾기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1026 보물.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1027 고층 건물.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1029 그림 교환.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1033 칵테일.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1034 램프.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1038 감소하는 수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1039 교환.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1041 주사위.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1047 울타리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1052 물병.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1057 토너먼트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1058 친구.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1062 가르침.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1068 트리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1069 집으로.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1071 소트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1072 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1074 Z.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1094 막대기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1097 마법의 문자열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1111 IQ.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1120 문자열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1146 지그재그 서기 v1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1146 지그재그 서기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1157 단어 공부.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1158 요세푸스 문제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1159 농구 경기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1167 트리의 지름.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1188 음식 평론가.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1194 달이 차오른다, 가자.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1202 보석 도둑.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1205 등수 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1212 8진수 2진수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1238 파티.dijk.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1238 파티.floyd.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1240 노드사이의 거리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1251 단어 나누기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1253 좋다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1259 팰린드롬수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1261 알고스팟.bfs.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1261 알고스팟.dijik.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1264 모음의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1267 핸드폰 요금.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1269 대칭 차집합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1271 엄청난 부자2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1275 커피숖2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1280 나무 심기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1284 집 주소.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1292 쉽게 푸는 문제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1297 TV 크기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1298 노트북의 주인을 찾아서.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1300 k번째 수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1302 베스트셀러.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1305 광고.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1309 동물원.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1337 올바른 배열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1339 단어 수학.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1347 미로 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1402 아무래도이문제는A번난이도인것같다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1408 24.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1431 시리얼 번호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1436 영화감독 숌.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1439 뒤집기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1453 피시방 알바.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1456 거의 소수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1475 방 번호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1507 궁금한 민호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1517 버블 소트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1531 투명.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1541 잃어버린 괄호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1543 문서 검색.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1547 공.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1561 놀이 공원.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1568 새.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1574 룩 어택.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1598 꼬리를 무는 숫자 나열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1613 역사.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1620 나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1644 소수의 연속합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1647 도시 분할 계획.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1652 누울 자리를 찾아라.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1654 랜선 자르기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1671 상어의 저녁식사.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1673 치킨 쿠폰.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1676 팩토리얼 0의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1707 이분 그래프.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1715 카드 정렬하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1719 택배.v0.floyd.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1719 택배.v1.dijk.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1725 히스토그램.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1731 추론.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1740 거듭제곱.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1743 음식물 피하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1748 수 이어 쓰기 1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1753 최단경로.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1755 숫자놀이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1760 N-Rook.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1764 듣보잡.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1769 3의 배수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1780 종이의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1786 찾기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1789 수들의 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1806 부분합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1817 짐 챙기는 숌.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1865 월홀.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1867 돌멩이 제거.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1871 좋은 자동차 번호판.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1874 스택 수열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1890 점프.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1893 시저 암호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1904 01타일.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1911 흙길 보수하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1913 달팽이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1918 후위 표기식.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1919 애너그램 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1932 정수 삼각형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1935 후위 표기식2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1937 욕심쟁이 판다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1939 중량제한.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1940 주몽.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1946 신입 사원.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1963 소수 경로.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1967 트리의 지름.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1969 DNA.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1976 여행 가자.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="1992 쿼드트리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2011 암호코드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2018 수들의 합 5.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2023 신기한 소수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2028 자기복제수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2033 반올림.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2042 구간 합 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2083 럭비 클럽.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2098 외판원 순회.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2104 부분배열 고르기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2108 통계학.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2146 다리 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2159 케익 배달.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2161 카드1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2163 초콜릿 자르기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2164 카드2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2186 문자판.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2191 들쥐의 탈출.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2212 센서.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2217 로프.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2231 분해합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2239 스도쿠.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2240 자두나무.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2243 사탕상자.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2285 우체국.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2338 긴자리 계산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2342 Dance Dance Revolution.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2343 기타 레슨.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2352 반도체 설계.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2357 최솟값과 최댓값.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2399 거리의 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2414 게시판 구멍 막기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2420 사파리월드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2447 별 찍기 - 10.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2458 키 순서.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2460 지능형 기차 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2467 용액.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2468 안전 영역.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2470 두 용액.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2473 세 용액.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2476 주사위 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2485 가로수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2490 윷놀이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2493 탑.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2501 약수 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2504 괄호의 값.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2506 점수계산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2511 카드놀이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2512 예산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2517 달리기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2523 별 찍기 - 13.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2530 인공지능 시계.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2559 수열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2564 경비원.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2565 전깃줄.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2566 최댓값.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2570 비숍2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2573 빙산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2576 홀수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2578 빙고.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2580 스도쿠.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2581 소수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2583 영역 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2587 대표값2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2589 보물섬.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2610 회의준비.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2617 구슬 찾기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2623 음악프로그램.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2628 종이자르기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2630 색종이 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2636 치즈.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2637 장난감 조립.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2638 치즈.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2644 촌수계산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2659 십자카드 문제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2660 회장뽑기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2661 좋은수열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2665 미로만들기.v0.0-1bfs.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2665 미로만들기.v1.bfs.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2665 미로만들기.v2.dijk.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2668 숫자고르기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2711 오타맨 고창영.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2712 미국 스타일.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2720 세탁소 사장 동혁.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2721 삼각수의 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2738 행렬 계산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2740 행렬 곱셈.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2744 대소문자 바꾸기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2748 피보나치 수 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2752 세수정렬.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2754 학점계산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2759 팬케이크 뒤집기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2774 아름다운 수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2776 암기왕.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2783 삼각 김밥.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2789 유학 금지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2798 블랙잭.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2810 컵홀더.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2811 상범이의 우울.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2822 점수 계산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2840 행운의 바퀴.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2845 파티가 끝나고 난 뒤.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2846 오르막길.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2847 게임을 만든 동준이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2851 슈퍼 마리오.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2857 FBI.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2864 5와 6의 차이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2869 달팽이는 올라가고 싶다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2870 수학숙제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2887 행성 터널.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2902 KMP는 왜 KMP일까.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2914 저작권.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2921 도미노.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2935 소음.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2935.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2953 나는 요리사다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2959 거북이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2960 에라토스테네스의 체.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2961 도영이가 만든 맛있는 음식.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2965 캥거루 세마리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2979 트럭 주차.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2980 도로와 신호등.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2992 크면서 작은 수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="2993.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3003 킹, 퀸, 룩, 비숍, 나이트, 폰.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3004 체스판 조각.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3009 네 번째 점.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3029 경고.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3034 앵그리 창영.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3036 링.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3040 백설 공주와 일곱 난쟁이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3047 ABC.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3053 택시 기하학.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3055 탈출.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3058 짝수를 찾아라.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3059 등장하지 않는 문자의 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3085 사탕 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3135 라디오.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3184 양.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3190 뱀.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3273 두 수의 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3460.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3653 영화 수집.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3683 고양이와 개.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3980 선발 명단.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3986 좋은 단어.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="3991 한번 쏘면 멈출 수 없어.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4101 크냐.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4153 직각삼각형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4158.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4179 불!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4344 평균은 넘겠지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4354 문자열 제곱.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4386 별자리 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4388.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4435 중간계 전쟁.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4458 첫 글자를 대문자로.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4470 줄번호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4485 녹색 옷 입은 애가 젤다지.dijk.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4504 배수 찾기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4562 No Brainer.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4659 비밀번호 발음하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4690 완전 세제곱.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4796 캠핑.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4806.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4811 알약.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4948 베르트랑 공준.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4949 균형잡힌 세상.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4963 섬의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="4999 아!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5021 왕위 계승.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5026 박사 과정.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5052 전화번호 목록.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5073 삼각형과 세 변.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5086 배수와 약수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5218 알파벳 거리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5339 콜센터.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5341 Pyramids.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5361 전투 드로이드 가격.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5363 요다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5419 북서풍.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5427 불.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5430 AC.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5522 카드 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5523 경기 결과.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5524 입실 관리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5532 방학 숙제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5543 상근날드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5554 심부름 가는 길.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5555 반지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5557 1학년.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5565 영수증.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5568 카드 놓기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5575 타임 카드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5576 콘테스트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5585 거스름돈.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5586 JOI와 IOI.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5596 시험 점수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5597 과제 안 내신 분.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5613 계산기 프로그램.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5622 다이얼.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5635 생일.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5637 가장 긴 단어.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5639 이진 검색 트리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5648.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5671.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5692 팩토리얼 진법.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5717 상근이의 친구들.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5724 파인만.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5800 성적 통계.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="5949 Adding Commas.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6064 카잉 달력.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6087 레이저 통신.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6118 숨바꼭질.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6131 완전 제곱수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6359 만취한 상범.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6378 디지털 루트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6502 동혁 피자.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6549 히스토그램에서 가장 큰 직사각형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6593 상범 빌딩.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6749 Next in line.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6810 ISBN.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6840 Who is in the middle.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6988 타일 밟기.dp.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="6988 타일 밟기.for.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7453 합이 0인 네 정수.v0.stl.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7453 합이 0인 네 정수.v1.imp.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7453 합이 0인 네 정수.v2.fast.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7490 0 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7510 고급 수학.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7562 나이트의 이동.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7567 그릇.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7572 간지(干支).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7575 바이러스.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7578 공장.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7595.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7600 문자가 몇갤까.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7662 이중 우선순위 큐.map.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7662 이중 우선순위 큐.pq.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7785 회사에 있는 사람.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="7795 먹을 것인가 먹힐 것인가.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="8370 Plane.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="8932 7종 경기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="8949 대충 더해.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="8979 올림픽.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9019 DSLR.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9020 골드바흐의 추측.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9063 대지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9084 동전.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9085 더하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9086 문자열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9093 단어 뒤집기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9094 수학적 호기심.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9205 맥주 마시면서 걸어가기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9251 LCS.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9295 주사위.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9316 Hello Judge.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9324 진짜 메시지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9325 얼마.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9342 염색체.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9372 상근이의 여행.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9375 패션왕 신해빈.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9466 텀 프로젝트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9470 Strahler 순서.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9501 꿍의 우주여행.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9507 Generations of Tribbles.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9525 룩 배치하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9536 여우는 어떻게 울지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9550 아이들은 사탕을 좋아해.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9576 책 나눠주기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9577 토렌트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9610 사분면.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9613 GCD 합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9625 BABBA.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9654 나부 함대 데이터.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9655 돌 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9659 돌 게임 5.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9763 마을의 친밀도.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9934 완전 이진 트리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="9996 한국이 그리울 떈 서버에 접속하지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10026 적록색약.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10093.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10101 삼각형 외우기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10102 개표.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10103 주사위 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10156 과자.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10159 저울.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10162 전자레인지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10170 NFC West vs North.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10173 니모를 찾아서.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10178 할로윈의 사탕.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10214 Baseball.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10266 시계 사진들.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10419 지각.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10448 유레카 이론.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10539 수빈이와 수열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10569 다면체.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10699 오늘 날짜.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10707 수도요금.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10768 특별한 날.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10797 10부제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10798 세로읽기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10804 카드 역배치.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10807 개수 세기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10810 공 넣기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10811 바구니 뒤집기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10812 바구니 순서 바꾸기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10813 공 바꾸기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10815 숫자 카드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10816 숫자 카드 2.imp.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10816 숫자 카드 2.stl.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10821 정수의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10833 사과.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10836 여왕벌.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10867 중복 빼고 정렬하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10868 최솟값.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10870 피보나치 수 5.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10886 0=not cute 1 = cute.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10971 외판원 순회 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10972 다음 순열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10984 내 학점을 구해줘.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10987 모음의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10988 팰린드롬인지 확인하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10990 별 찍기 - 15.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10996 별 찍기 - 21.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="10999 구간 합 구하기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11000 강의실 배정.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11003 최솟값 찾기.deck.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11003 최솟값 찾기.pq.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11003 최솟값 찾기.seg.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11003.input.gen.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11014 컨닝 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11023 더하기 3.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11024 더하기 4.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11050 이항 계수 1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11051 이항 계수 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11060 점프 점프.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11098 첼시를 도와줘!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11109 괴짜 교수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11286 절댓값 힙.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11365 !밀비 급일.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11375 열혈강호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11376 열혈강호 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11377 열혈강호 3.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11378 열혈강호 4.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11382 꼬마 정민.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11406 책 구매하기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11437 LCA.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11438 LCA 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11441 합 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11478 서로 다른 부분 물자열의 개수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11501 주식.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11505 구간 곱 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11539 줄 세우기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11559 Puyo Puyo.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11585 속타는 저녁 메뉴.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11648.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11657 타임머신.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11659 구간 합 구하기 4.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11660 구간 합 구하기 5.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11670 초등 수학.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11723 집합.bit.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11723 집합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11725 트리의 부모 찾기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11728 배열 합치기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11729 하노이 탑 이동 순서.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11779 최소비용 구하기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11866 요세푸스 문제 0.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11931 수 정렬하기 4.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="11948 과목선택.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12015 가장 긴 증가하는 부분 수열 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12095 가장 오래 걸리는 스도쿠.random.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12095 가장 오래 걸리는 스토쿠.file.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12100 2048 (Easy).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12738 가장 긴 증가하는 부분 수열 3.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12845 모두의 마블.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12851 숨바꼭질 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12852 1로 만들기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12865 평범한 배낭.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12871 무한 문자열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12904 A와 B.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="12933.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13023 ABCDE.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13136 Do Not Touch Anything.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13303 타일 장식물.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13305 주유소.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13335 트럭.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13416 주식 투자.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13458 시험 감독.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13460 구슬 탈출 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13506 카멜레온 부분 문자열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13549 숨바꼭질 3.01bfs.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13549 숨바꼭질 3.dijkstra.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13699 점화식.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13752 히스토그램.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13866 팀 나누기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="13913 숨바꼭질 4.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14002 가장 긴 증가하는 부분 수열 4.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14003 가장 긴 증가하는 부분 수열 5.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14226 이모티콘.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14248.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14337.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14405 피카츄.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14425 문자열 집합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14433 한조 대기 중.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14470 전자레인지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14487 욱제는 효도쟁이야!!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14489 치킨 두 마리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14492.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14495 피보나치 비스무리한 수열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14499 주사위 굴리기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14499 주사위 굴리기.short.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14500 테트로미노.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14501 퇴사.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14503 로봇 청소기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14567 선수과목 (Prerequisite).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14574 헤븐스 키친.kruskal.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14574 헤븐스 키친.prim.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14581 팬들에게 둘러싸인 홍준.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14623 감정이입.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14645 와이버스 부릉부릉.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14652 나는 행복합니다~.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14656 조교는 새디스트야!!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14676 영우는 사기꾼.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14696 딱지놀이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14697 방 배정하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14719 빗물.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14720 우유 축제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14726 신용카드 판별.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14888 연산자 끼워넣기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14889 스타트와 링크.v0.permu.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14889 스타트와 링크.v1.backtrack.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14890 경사로.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14891 톱니바퀴.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14907 clean.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14907 프로젝트 스케줄링.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14909 양수 개수 세기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14916 거스름돈.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14924 폰 노이만과 파리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="14938 서강그라운드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15000 CAPS.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15080.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15312 이름 궁합.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15351.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15439 Vera and Outfits.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15480 LCA와 쿼리.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15486 퇴사 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15489 파스칼 삼각형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15610 Abbey Courtyard.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15649 N과 M (1).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15650 N과 M (2).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15651 N과 M (3).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15652 N과 M (4).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15654 N과 M (5).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15655 N과 M (6).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15656 N과 M (7).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15657 N과 M (8).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15663 N과 M (9).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15666 N과 M (12).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15680 연세대학교.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15683 감시.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15684 사다리 조작.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15685 드래곤 커브.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15686 치킨 배달.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15688 수 정렬하기 5.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15693 CASIO.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15720 카우버거.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15726 이칙연산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15727 조별과제를 하려는데 조장이 사라졌다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15733 나는 누구인가.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15780 멀티탭 충분하니.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15781 헬멧과 조끼.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15813 너의 이름은 몇 점이니.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15829 Hashing.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15894 수학은 체육과목 입니다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15962 새로운 시작.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15964 이상한 기호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15969 행복.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15980 명상 방해꾼.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="15988 1, 2, 3 더하기 3.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16170 오늘의 날짜는.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16173 점프왕 쩰리 (small).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16204 카드 뽑기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16212 정열적인 정렬.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16234 인구 이동.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16235 나무 재테크.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16236 아기 상어.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16394 홍익대학교.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16395 파스칼의 삼각형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16430 제리와 톰.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16431 베시와 데이지.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16435 스네이크버드.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16439 치킨치킨치킨.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16483 접시 안의 원.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16486 운동장 한 바퀴.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16917 양념 반 후라이드 반.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16928 뱀과 사다리 게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16953 A - B.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16956 늑대와 양.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16967 배열 복원하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16975 수열과 쿼리 21.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="16987 계란으로 계란치기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17070 파이프 옮기기 1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17086 아기 상어 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17140 이차원 배열과 연산.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17143 낚시왕.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17144 미세먼지 안녕!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17176.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17219 비밀번호 찾기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17256 달달함이 넘쳐흘러.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17295 엔드게임 스포일러.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17298 오큰수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17299 오등큰수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17350.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17356 욱 제.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17362 수학은 체육과목 입니다 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17388 와글와글 숭고한.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17389 보너스 점수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17390 이건 꼭 풀어야 해.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17413 단어 뒤집기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17472 다리만들기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17478 재귀함수가 뭔가요.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17481 최애 정하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17608 막대기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="17618.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18111 마인크래프트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18138 리유나는 세일러복을 좋아해.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18238.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18247 겨울왕국 티켓 예매.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18258 큐2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18330.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18405 경쟁적 전염.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18406 럭키 스트레이트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18429 근손실.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18511 큰 수 구성하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18780 Timeline.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="18870 좌표 압축.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="19236 청소년 상어.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="19532 수학은 비대면강의입니다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="19947.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20001 고무오리 디버깅.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20040 사이클 게임.fstSlow.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20040 사이클 게임.sndUnion.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20053 최소, 최대 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20055 컨베이어 벨트 위의 로봇.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20205.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20254 Site Score.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20361.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20492 세금.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20499 Darius님 한타 안 함.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20540 연길이의 이상형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20546 기적의 매매법.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="20944 팰린드롬 척화비.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="21276 계보 복원가 호석.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="21300 Bottle Return.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="21608 상어 초등학교.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="21756 지우개.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="21771.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="22193 Multiply.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="22938 백발백준하는 명사수.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="23034 조별과제 멈춰!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="23080.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="23235 The Fastest Sorting Algorithm In The World.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="23288 주사위 굴리기 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="23348.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="23808.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="24082 立方体.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="24262 알고리즘 수업 - 알고리즘의 수행 시간 1.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="24263 알고리븜 수업 - 알고리즘의 수행 시간 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="24723 녹색거탑.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="24883 자동완성.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25083 새싹.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25168 게으른 아리를 위한 접종 계획.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25192 인사성 밝은 곰곰이.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25206 너의 평점은.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25304 영수증.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25305 커트라인.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25311 UCPC에서 가장 쉬운 문제 번호는.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25314 코딩은 체육과목 입니다.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25372 성택이의 은밀한 비밀번호.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25377 빵.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25494 단순한 문제 (Small).cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25628 햄버거 만들기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25640 MBTI.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25644 최대 상승.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25704 출석 이벤트.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="25757 임스와 함께하는 미니게임.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="26068 치킨댄스를 추는 곰곰이를 본 임스 2.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="26264.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27110 특식 배부.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27294 몇개고.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27323 직사각형.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27736.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27866 문자와 문자열.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27959 초코바.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="27960 사격 내기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28113 정보섬의 대중교통.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28235 코드마스터 2023.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28281.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28295.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28352 10!.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28691 정보보호학부 동아리 소개.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="28701.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="29736 브실이와 친구가 되고 싶어.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="29790 임스의 메이플컵.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="30017.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="30030 스위트콘 가격 구하기.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="30224.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="30999.cpp">
+      <Filter>BOJ</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
