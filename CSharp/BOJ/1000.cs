@@ -8,4 +8,4 @@
         int b = int.Parse(ss[1]);
         Console.WriteLine(a + b);
     }
-}
+} 
