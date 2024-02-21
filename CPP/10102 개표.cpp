@@ -19,7 +19,7 @@ struct p10102
 		cin >> s;
 		int a = 0;
 		int b = 0;
-		for1(i, s.size())
+		for1(i, (int)s.size())
 		{
 			if (s[i] == 'A')
 			{

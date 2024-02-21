@@ -23,11 +23,11 @@ struct p8932
 			{
 				if (species == 0)
 				{
-					return (long long)a * pow(b - p, c);
+					return (long long)a * (long long)pow(b - p, c);
 				}
 				else
 				{
-					return (long long)a * pow(p - b, c);
+					return (long long)a * (long long)pow(p - b, c);
 				}
 			}
 		}

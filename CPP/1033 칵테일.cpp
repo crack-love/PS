@@ -89,15 +89,15 @@ struct p1033
 				e[i][c].first *= div;
 				e[i][c].second *= div;
 
-				if (visit & (1 << i))
+				if (visit & (1ll << i))
 				{
 					fq.push(i);
-					fvisit |= (1 << i);
+					fvisit |= (1ll << i);
 				}
 				else
 				{
 					cq.push(i);
-					visit |= (1 << i);
+					visit |= (1ll << i);
 				}
 			}
 

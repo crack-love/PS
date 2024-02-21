@@ -22,7 +22,7 @@ struct p10173
 			if (line == "EOI")
 				return 0;
 
-			for1(i, line.size())
+			for1(i, (int)line.size())
 			{
 				line[i] = tolower(line[i]);
 			}

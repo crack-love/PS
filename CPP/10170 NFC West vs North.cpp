@@ -22,7 +22,7 @@ struct p10170
 			<< setw(2) << right << "L"
 			<< setw(3) << right << "T" << "\n";
 		cout << "-----------------------" << "\n";
-		for (int i = 0; i < n.size(); ++i)
+		for (int i = 0; i < (int)n.size(); ++i)
 		{
 			cout << setw(15) << left << n[i].n
 				<< setw(3) << left << n[i].w

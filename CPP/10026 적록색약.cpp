@@ -17,7 +17,7 @@ struct p10026
 
 		// get group count for each type
 		int gcnt = 0;
-		for (int ti = 0; ti < t.size(); ++ti)
+		for (int ti = 0; ti < (int)t.size(); ++ti)
 		{
 			while (true)
 			{
@@ -28,7 +28,7 @@ struct p10026
 					{
 						if (visit[i][j]) continue;
 
-						for (int k = 0; k < t[ti].size(); ++k)
+						for (int k = 0; k < (int)t[ti].size(); ++k)
 						{
 							if (map[i][j] == t[ti][k])
 							{
@@ -61,7 +61,7 @@ struct p10026
 						if (visit[nx][ny]) continue;
 
 						bool isMatch = false;
-						for (int j = 0; j < t[ti].size(); ++j)
+						for (int j = 0; j < (int)t[ti].size(); ++j)
 						{
 							if (map[nx][ny] == t[ti][j])
 							{

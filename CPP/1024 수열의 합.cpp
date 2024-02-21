@@ -26,7 +26,7 @@ struct p1024
 		int ansBeg = -1;
 		int ansLen = -1;
 
-		for (int len = l; len <= 100; ++len)
+		for (int len = (int)l; len <= 100; ++len)
 		{
 			int left = 0;
 			int right = (int)(1e9 + 1);
