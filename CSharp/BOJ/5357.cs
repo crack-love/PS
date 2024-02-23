@@ -1,4 +1,5 @@
-﻿internal class P5357
+﻿namespace BOJ;
+internal class P5357
 {
     internal static void Main()
     {

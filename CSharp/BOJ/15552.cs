@@ -1,4 +1,5 @@
-﻿internal class P15552
+﻿namespace BOJ;
+internal class P15552
 {
     internal static void Main0()
     {

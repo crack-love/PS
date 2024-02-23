@@ -1,4 +1,5 @@
-﻿internal class P1000
+﻿namespace BOJ;
+internal class P1000
 {
     internal static void Main0()
     {

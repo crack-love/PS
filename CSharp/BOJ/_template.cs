@@ -1,4 +1,5 @@
-﻿internal class P
+﻿namespace BOJ;
+internal class P
 {
     internal static void Main0()
     {

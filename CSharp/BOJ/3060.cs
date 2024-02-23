@@ -1,4 +1,5 @@
-﻿internal class P3060
+﻿namespace BOJ;
+internal class P3060
 {
     internal static void Main0()
     {

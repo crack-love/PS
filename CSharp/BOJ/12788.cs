@@ -1,4 +1,5 @@
-﻿internal class P12788
+﻿namespace BOJ;
+internal class P12788
 {
     internal static void Main0()
     {
