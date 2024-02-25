@@ -192,7 +192,7 @@ internal class BigInt : IComparable<BigInt>
 
 internal class P15740
 {
-    internal static void Main()
+    internal static void Main0()
     {
         var sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
         var sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
