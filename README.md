@@ -3,6 +3,7 @@ C++, C#
 
 # Environment
 Visual Studio 2022
+BOJ C# version : 6.0
 
 # Algorithm
 
