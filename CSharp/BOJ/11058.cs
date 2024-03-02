@@ -1,7 +1,4 @@
-﻿using System.Collections.Immutable;
-using System.Xml;
-
-namespace BOJ;
+﻿namespace BOJ;
 
 class P11058
 {
