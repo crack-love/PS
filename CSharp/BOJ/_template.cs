@@ -1,5 +1,5 @@
 ﻿namespace BOJ;
-static class P
+static class P1
 {
     static StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
     static StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
