@@ -1,6 +1,6 @@
 ﻿#pragma warning disable CS8602
 namespace BOJ;
-static class P3
+static class P10599
 {
     static StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     static StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
@@ -13,6 +13,19 @@ static class P3
 
     static void Main0()
     {
+        while (true)
+        {
+            var s = ReadSplit().Select(int.Parse).ToArray();
+            int a = s[0], b = s[1], c = s[2], d = s[3];
+            if (a == 0 && b == 0 && c == 0 && d == 0)
+                break;
 
+            int ma = d - a;
+            int mi = c - b;
+            sw.Write(mi);
+            sw.Write(' ');
+            sw.WriteLine(ma);
+        }
+        sw.Flush();
     }
 }
