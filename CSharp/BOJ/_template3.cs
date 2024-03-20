@@ -1,5 +1,4 @@
-﻿#pragma warning disable CS8602
-namespace BOJ;
+﻿namespace BOJ;
 static class P3
 {
     static StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);

@@ -112,7 +112,7 @@ static class P19237
         Move(t + 1);
     }
 
-    static void Main()
+    static void Main0()
     {
         int[] s = ReadSplit().Select(int.Parse).ToArray();
         n = s[0];
