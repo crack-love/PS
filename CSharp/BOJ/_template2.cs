@@ -1,5 +1,4 @@
-﻿#pragma warning disable CS8602
-namespace BOJ;
+﻿namespace BOJ;
 class P2
 {
     int[] dx = { 0, -1, 0, 1, -1, -1, 1, 1, 0 };
