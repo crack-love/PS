@@ -1,6 +1,7 @@
 ﻿namespace BOJ;
 class P2
 {
+    static void Main0() => new P2().Solve();
     int[] dx = { 0, -1, 0, 1, -1, -1, 1, 1, 0 };
     int[] dy = { -1, 0, 1, 0, -1, 1, 1, -1, 0 };
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
@@ -9,7 +10,6 @@ class P2
     string[] ReadSplit() => sr.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
     T Read1<T>(Func<string, T> f) => f(sr.ReadLine());
     (T, T) Read2<T>(Func<string, T> f) { var a = ReadSplit(); return (f(a[0]), f(a[1])); }
-    static void Main0() => new P2().Solve();
 
     void Solve()
     {
