@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
 class P14563
 {
-    static void Main() => new P14563().Solve();
+    static void Main0() => new P14563().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     string[] ReadSplit() => sr.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
