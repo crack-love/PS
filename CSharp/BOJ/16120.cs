@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
 class P4766
 {
-    static void Main() => new P4766().Solve();
+    static void Main0() => new P4766().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
 
