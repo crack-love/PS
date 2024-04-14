@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
-class P2
+class P
 {
-    static void Main0() => new P2().Solve();
+    static void Main0() => new P().Solve();
     int[] dx = { 0, -1, 0, 1, -1, -1, 1, 1, 0 };
     int[] dy = { -1, 0, 1, 0, -1, 1, 1, -1, 0 };
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
