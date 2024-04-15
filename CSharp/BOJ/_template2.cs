@@ -12,7 +12,6 @@ class P
     T Read1<T>(Func<string, T> f) => f(sr.ReadLine());
     (T, T) Read2<T>(Func<string, T> f) { var s = ReadArray(f); return (s[0], s[1]); }
     (T, T, T) Read3<T>(Func<string, T> f) { var s = ReadArray(f); return (s[0], s[1], s[2]); }
-    void Read<T>(Func<string, T> f, out T a, out T b, out T c) { var s = ReadArray(f); a = s[0]; b = s[1]; c = s[2]; }
 
     void Solve()
     {
