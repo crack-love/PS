@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
 class P22116
 {
-    static void Main() => new P22116().Solve();
+    static void Main0() => new P22116().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     int[] dx = { 0, -1, 0, 1, -1, -1, 1, 1, 0 };
