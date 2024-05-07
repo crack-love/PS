@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
 class P9694
 {
-    static void Main() => new P9694().Solve();
+    static void Main0() => new P9694().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     string[] seperators = { " ", "\t", };
