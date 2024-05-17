@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
-class P18353
+class P1365
 {
-    static void Main0() => new P18353().Solve();
+    static void Main0() => new P1365().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     string[] seperators = { " ", "\t", };
@@ -12,34 +12,24 @@ class P18353
     (T, T) Read2<T>(Func<string, T> f) { var s = ReadArray(f); return (s[0], s[1]); }
     (T, T, T) Read3<T>(Func<string, T> f) { var s = ReadArray(f); return (s[0], s[1], s[2]); }
 
-    class RIntCmp : Comparer<int>
-    {
-        public override int Compare(int x, int y)
-        {
-            return y - x;
-        }
-    }
-
     void Solve()
     {
         var n = Read1(int.Parse);
         var a = ReadArray(int.Parse);
 
-        var d = new int[a.Length];
-        d[0] = a[0];
-        var len = 1;
-        var cmp = new RIntCmp();
-        foreach (var x in a)
+        var d = new int[n];
+        var len = 0;
+        for (int i = 0; i < n; ++i)
         {
-            var bi = Array.BinarySearch(d, 0, len, x, cmp);
+            var bi = Array.BinarySearch(d, 0, len, a[i]);
             if (bi == ~len)
             {
-                d[len] = x;
+                d[len] = a[i];
                 len += 1;
             }
             else if (bi < 0)
             {
-                d[~bi] = x;
+                d[~bi] = a[i];
             }
         }
 
