@@ -1,0 +1,67 @@
+﻿namespace BOJ;
+class P16474_1 // lis perporm ver
+{
+    static void Main0() => new P16474_1().Solve();
+    StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
+    StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
+    int[] dx = { 0, 0, -1, 1, -1, -1, 1, 1, 0 };
+    int[] dy = { -1, 1, 0, 0, -1, 1, 1, -1, 0 };
+    bool Step(int x, int y, int r, int c) => x < 0 || x >= r || y < 0 || y >= c;
+    string ReadLineUntil() { string s; do { s = sr.ReadLine(); } while (s.Length <= 0); return s; }
+    string[] seps = { " ", "\t", };
+    string[] ReadSplit() => ReadLineUntil().Split(seps, StringSplitOptions.RemoveEmptyEntries);
+    T[] ReadArray<T>(Func<string, T> f) => ReadSplit().Select(f).ToArray();
+    T Read1<T>(Func<string, T> f) => f(ReadLineUntil());
+    (T, T) Read2<T>(Func<string, T> f) { var s = ReadArray(f); return (s[0], s[1]); }
+    (T, T, T) Read3<T>(Func<string, T> f) { var s = ReadArray(f); return (s[0], s[1], s[2]); }
+
+    class IntInv : IComparer<int>
+    {
+        public int Compare(int x, int y) => y - x;
+    }
+
+    void Solve()
+    {
+
+        var (n, m) = Read2(int.Parse);
+        var a = ReadArray(int.Parse);
+        var b = ReadArray(int.Parse);
+        var k = Read1(int.Parse);
+        var atoi = new Dictionary<int, int>();
+        var btoi = new Dictionary<int, int>();
+        for (int i = 0; i < n; ++i)
+            atoi[a[i]] = i;
+        for (int i = 0; i < m; ++i)
+            btoi[b[i]] = i;
+        var e = new List<int>[n];
+        for (int i = 0; i < n; ++i)
+            e[i] = new();
+        for (int i = 0; i < k; ++i)
+        {
+            var (x, y) = Read2(int.Parse);
+            e[atoi[x]].Add(btoi[y]);
+        }
+        var intinv = new IntInv();
+        for (int i = 0; i < n; ++i)
+            e[i].Sort(intinv);
+
+        var d = new int[m]; // b
+        var len = 0;
+        for (int i = 0; i < e.Length; ++i)
+        {
+            foreach(var x in e[i])
+            {
+                var bi = Array.BinarySearch(d, 0, len, x);
+                if (bi < 0)
+                {
+                    d[~bi] = x;
+                    if (bi == ~len)
+                        len += 1;
+                }
+            }
+        }
+
+        sw.WriteLine(k - len);
+        sw.Flush();
+    }
+}
