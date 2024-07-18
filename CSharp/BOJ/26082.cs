@@ -1,8 +1,7 @@
-﻿using System.Numerics;
-namespace BOJ;
-class P26711
+﻿namespace BOJ;
+class P26082
 {
-    static void Main0() => new P26711().Solve();
+    static void Main0() => new P26082().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     int[] dx = { 0, 0, -1, 1, -1, -1, 1, 1, 0 };
@@ -18,9 +17,11 @@ class P26711
 
     void Solve()
     {
-        var a = BigInteger.Parse(ReadLineUntil());
-        var b = BigInteger.Parse(ReadLineUntil());
-        sw.WriteLine(a + b);
+        // 3(p1/c1) = p0/c0
+        var (c1, p1, c0) = Read3(int.Parse);
+        // p0 = 3(p1/c1)*c0
+        var p0 = 3 * (p1 / c1) * c0;
+        sw.WriteLine(p0);
         sw.Flush();
     }
 }
