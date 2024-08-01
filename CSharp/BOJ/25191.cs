@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
-class P11549
+class P25191
 {
-    static void Main0() => new P11549().Solve();
+    static void Main0() => new P25191().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     int[] dx = { 0, 0, -1, 1, -1, -1, 1, 1, 0 };
@@ -17,9 +17,9 @@ class P11549
 
     void Solve()
     {
-        var a = Read1(int.Parse);
-        var arr = ReadArray(int.Parse);
-        var ans = arr.Where(x => x == a).Count();
+        var n = Read1(int.Parse);
+        var (a, b) = Read2(int.Parse);
+        var ans = Math.Min(a / 2 + b, n);
         sw.WriteLine(ans);
         sw.Flush();
     }
