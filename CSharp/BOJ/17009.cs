@@ -1,8 +1,7 @@
-﻿using System.Text;
-namespace BOJ;
-class P11282
+﻿namespace BOJ;
+class P17009
 {
-    static void Main0() => new P11282().Solve();
+    static void Main0() => new P17009().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     int[] dx = { 0, 0, -1, 1, -1, -1, 1, 1, 0 };
@@ -18,9 +17,20 @@ class P11282
 
     void Solve()
     {
-        Console.OutputEncoding = Encoding.UTF8;
-        var n = Read1(int.Parse);
-        sw.WriteLine((char)('가'+n-1));
+        var asum = 0;
+        var bsum = 0;
+        asum += Read1(int.Parse) * 3;
+        asum += Read1(int.Parse) * 2;
+        asum += Read1(int.Parse) * 1;
+        bsum += Read1(int.Parse) * 3;
+        bsum += Read1(int.Parse) * 2;
+        bsum += Read1(int.Parse) * 1;
+        if (asum > bsum)
+            sw.WriteLine("A");
+        else if (bsum > asum)
+            sw.WriteLine("B");
+        else
+            sw.WriteLine("T");
         sw.Flush();
     }
 }
