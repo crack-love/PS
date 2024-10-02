@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
-class P30501
+class P20215
 {
-    static void Main0() => new P30501().Solve();
+    static void Main0() => new P20215().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     int[] dx = { 0, 0, -1, 1, -1, -1, 1, 1, 0 };
@@ -17,17 +17,10 @@ class P30501
 
     void Solve()
     {
-        var n = Read1(int.Parse);
-        for (int i = 0; i < n; ++i)
-        {
-            var name = ReadLineUntil();
-            if (name.Contains('S'))
-            {
-                sw.WriteLine(name);
-                break;
-            }
-        }
-
+        var (a, b) = Read2(int.Parse);
+        var rec = (double)a + b;
+        var dia = Math.Sqrt(a * a + b * b);
+        sw.WriteLine((rec - dia).ToString("F6"));
         sw.Flush();
     }
 }
