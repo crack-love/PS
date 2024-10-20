@@ -1,7 +1,7 @@
 ﻿namespace BOJ;
-class P30468
+class P20833
 {
-    static void Main0() => new P30468().Solve();
+    static void Main0() => new P20833().Solve();
     StreamReader sr = new(Console.OpenStandardInput(), bufferSize: 102400);
     StreamWriter sw = new(Console.OpenStandardOutput(), bufferSize: 102400);
     int[] dx = { 0, 0, -1, 1, -1, -1, 1, 1, 0 };
@@ -17,11 +17,12 @@ class P30468
 
     void Solve()
     {
-        var a = ReadArray(int.Parse);
-        var n = a[^1];
-        var des = n * (a.Length - 1);
-        var sum = a.Sum() - n;
-        var ans = Math.Max(0, des - sum);
+        var n = Read1(int.Parse);
+        var ans = 0;
+        for (int i =1;i<=n;++i)
+        {
+            ans += i * i * i;
+        }
         sw.WriteLine(ans);
         sw.Flush();
     }
