@@ -14,6 +14,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp", "CSharp\CSharp.csp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP", "CPP\CPP.vcxproj", "{17ACF8C7-0D1A-418C-B3D2-FF02963A9E65}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python", "Python\Python.pyproj", "{661DB52A-0517-40F6-899C-319AC1456069}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,12 @@ Global
 		{17ACF8C7-0D1A-418C-B3D2-FF02963A9E65}.Release|x64.Build.0 = Release|x64
 		{17ACF8C7-0D1A-418C-B3D2-FF02963A9E65}.Release|x86.ActiveCfg = Release|Win32
 		{17ACF8C7-0D1A-418C-B3D2-FF02963A9E65}.Release|x86.Build.0 = Release|Win32
+		{661DB52A-0517-40F6-899C-319AC1456069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661DB52A-0517-40F6-899C-319AC1456069}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{661DB52A-0517-40F6-899C-319AC1456069}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{661DB52A-0517-40F6-899C-319AC1456069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661DB52A-0517-40F6-899C-319AC1456069}.Release|x64.ActiveCfg = Release|Any CPU
+		{661DB52A-0517-40F6-899C-319AC1456069}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
