@@ -1,5 +1,5 @@
 # Language
-C++, C#
+C++, C#, Python
 
 # Environment
 Visual Studio 2022
