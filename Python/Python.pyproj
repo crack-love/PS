@@ -22,11 +22,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="p26545.py" />
-    <Compile Include="p21633.py" />
-    <Compile Include="p27434.py" />
-    <Compile Include="p28444.py" />
+    <Compile Include="BOJ\p26545.py" />
+    <Compile Include="BOJ\p21633.py" />
+    <Compile Include="BOJ\p27434.py" />
+    <Compile Include="BOJ\p28444.py" />
+    <Compile Include="BOJ\p9772.py" />
     <Compile Include="main.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BOJ\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
