@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BOJ\p11257.py" />
     <Compile Include="BOJ\p26545.py" />
     <Compile Include="BOJ\p21633.py" />
     <Compile Include="BOJ\p27434.py" />
