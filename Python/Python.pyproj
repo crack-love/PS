@@ -25,6 +25,7 @@
     <Compile Include="BOJ\p11257.py" />
     <Compile Include="BOJ\p26545.py" />
     <Compile Include="BOJ\p21633.py" />
+    <Compile Include="BOJ\p26574.py" />
     <Compile Include="BOJ\p27434.py" />
     <Compile Include="BOJ\p28444.py" />
     <Compile Include="BOJ\p6888.py" />
