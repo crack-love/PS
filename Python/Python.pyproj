@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BOJ\p11586.py" />
+    <Compile Include="BOJ\p2991.py" />
     <Compile Include="BOJ\p30802.py" />
     <Compile Include="BOJ\p18409.py" />
     <Compile Include="BOJ\p27890.py" />
@@ -40,6 +41,7 @@
     <Compile Include="BOJ\p28444.py" />
     <Compile Include="BOJ\p6888.py" />
     <Compile Include="BOJ\p9772.py" />
+    <Compile Include="BOJ\_template.py" />
     <Compile Include="main.py" />
   </ItemGroup>
   <ItemGroup>
