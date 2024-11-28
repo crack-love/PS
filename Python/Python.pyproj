@@ -31,6 +31,7 @@
     <Compile Include="BOJ\p28248.py" />
     <Compile Include="BOJ\p29807.py" />
     <Compile Include="BOJ\p2991.py" />
+    <Compile Include="BOJ\p30394.py" />
     <Compile Include="BOJ\p30802.py" />
     <Compile Include="BOJ\p18409.py" />
     <Compile Include="BOJ\p27890.py" />
