@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BOJ\p11586.py" />
+    <Compile Include="BOJ\p12790.py" />
     <Compile Include="BOJ\p15921.py" />
     <Compile Include="BOJ\p1703.py" />
     <Compile Include="BOJ\p19774.py" />
