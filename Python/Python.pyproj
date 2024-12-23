@@ -64,6 +64,7 @@
     <Compile Include="BOJ\p32651.py" />
     <Compile Include="BOJ\p32684.py" />
     <Compile Include="BOJ\p32710.py" />
+    <Compile Include="BOJ\p32775.py" />
     <Compile Include="BOJ\p6784.py" />
     <Compile Include="BOJ\p6841.py" />
     <Compile Include="BOJ\p11257.py" />
