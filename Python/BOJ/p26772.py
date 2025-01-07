@@ -1,0 +1,12 @@
+import sys
+def input(): return sys.stdin.readline().strip()
+n = int(input())
+print(*([" @@@   @@@ "]*n))
+print(*("@   @ @   @" for _ in range(n)))
+print(*("@    @    @" for _ in range(n)))
+print(*("@         @" for _ in range(n)))
+print(*(" @       @ " for _ in range(n)))
+print(*("  @     @  " for _ in range(n)))
+print(*("   @   @   " for _ in range(n)))
+print(*("    @ @    " for _ in range(n)))
+print(*("     @     " for _ in range(n)))
