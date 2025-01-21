@@ -1,0 +1,1 @@
+print("GOOD" if input() <= "2023-09-16" else "TOO LATE")
