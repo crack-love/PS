@@ -1,0 +1,5 @@
+l = input()
+a = int(l[0])
+b = int(l[4])
+c = int(l[8])
+print("YES" if a+b==c else "NO")
