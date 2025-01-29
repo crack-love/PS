@@ -81,6 +81,7 @@
     <Compile Include="BOJ\p31614.py" />
     <Compile Include="BOJ\p31615.py" />
     <Compile Include="BOJ\p31616.py" />
+    <Compile Include="BOJ\p31668.py" />
     <Compile Include="BOJ\p31775.py" />
     <Compile Include="BOJ\p31821.py" />
     <Compile Include="BOJ\p31822.py" />
