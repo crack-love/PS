@@ -1,0 +1,6 @@
+desh = int(input())
+begh = int(input())
+addh = int(input())
+remain = max(desh - begh, 0)
+addcnt = int(remain / addh) + (1 if remain % addh != 0 else 0)
+print(250 + addcnt * 100)
