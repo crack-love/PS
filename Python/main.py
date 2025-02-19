@@ -1,1 +1,1 @@
-import BOJ.p27239
+import BOJ.p32260
