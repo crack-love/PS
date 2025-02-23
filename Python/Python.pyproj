@@ -80,6 +80,7 @@
     <Compile Include="BOJ\p29683.py" />
     <Compile Include="BOJ\p29725.py" />
     <Compile Include="BOJ\p29807.py" />
+    <Compile Include="BOJ\p29823.py" />
     <Compile Include="BOJ\p2991.py" />
     <Compile Include="BOJ\p29986.py" />
     <Compile Include="BOJ\p30008.py" />
