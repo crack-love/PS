@@ -145,6 +145,7 @@
     <Compile Include="BOJ\p33178.py" />
     <Compile Include="BOJ\p33179.py" />
     <Compile Include="BOJ\p33191.py" />
+    <Compile Include="BOJ\p5988.py" />
     <Compile Include="BOJ\p6784.py" />
     <Compile Include="BOJ\p6841.py" />
     <Compile Include="BOJ\p11257.py" />
