@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BOJ\p10179.py" />
     <Compile Include="BOJ\p10188.py" />
     <Compile Include="BOJ\p11006.py" />
     <Compile Include="BOJ\p11121.py" />
@@ -35,6 +36,7 @@
     <Compile Include="BOJ\p17598.py" />
     <Compile Include="BOJ\p17614.py" />
     <Compile Include="BOJ\p17903.py" />
+    <Compile Include="BOJ\p1837.py" />
     <Compile Include="BOJ\p18691.py" />
     <Compile Include="BOJ\p18698.py" />
     <Compile Include="BOJ\p19774.py" />
@@ -91,6 +93,7 @@
     <Compile Include="BOJ\p28249.py" />
     <Compile Include="BOJ\p28490.py" />
     <Compile Include="BOJ\p28808.py" />
+    <Compile Include="BOJ\p2903.py" />
     <Compile Include="BOJ\p29683.py" />
     <Compile Include="BOJ\p29725.py" />
     <Compile Include="BOJ\p29807.py" />
@@ -101,6 +104,7 @@
     <Compile Include="BOJ\p30045.py" />
     <Compile Include="BOJ\p30067.py" />
     <Compile Include="BOJ\p30087.py" />
+    <Compile Include="BOJ\p30214.py" />
     <Compile Include="BOJ\p30319.py" />
     <Compile Include="BOJ\p30394.py" />
     <Compile Include="BOJ\p30664.py" />
