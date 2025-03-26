@@ -122,6 +122,7 @@
     <Compile Include="BOJ\p31614.py" />
     <Compile Include="BOJ\p31615.py" />
     <Compile Include="BOJ\p31616.py" />
+    <Compile Include="BOJ\p31654.py" />
     <Compile Include="BOJ\p31668.py" />
     <Compile Include="BOJ\p31775.py" />
     <Compile Include="BOJ\p31821.py" />
@@ -145,6 +146,7 @@
     <Compile Include="BOJ\p32710.py" />
     <Compile Include="BOJ\p32775.py" />
     <Compile Include="BOJ\p32801.py" />
+    <Compile Include="BOJ\p32902.py" />
     <Compile Include="BOJ\p32951.py" />
     <Compile Include="BOJ\p33046.py" />
     <Compile Include="BOJ\p33170.py" />
@@ -152,6 +154,7 @@
     <Compile Include="BOJ\p33179.py" />
     <Compile Include="BOJ\p33191.py" />
     <Compile Include="BOJ\p4892.py" />
+    <Compile Include="BOJ\p5217.py" />
     <Compile Include="BOJ\p5988.py" />
     <Compile Include="BOJ\p6784.py" />
     <Compile Include="BOJ\p6841.py" />
