@@ -22,17 +22,21 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BOJ\p14173.py" />
     <Compile Include="BOJ\p15633.py" />
     <Compile Include="BOJ\p13163.py" />
     <Compile Include="BOJ\p14264.py" />
     <Compile Include="BOJ\p14568.py" />
     <Compile Include="BOJ\p15667.py" />
+    <Compile Include="BOJ\p15820.py" />
     <Compile Include="BOJ\p17263.py" />
+    <Compile Include="BOJ\p2061.py" />
     <Compile Include="BOJ\p33515.py" />
     <Compile Include="BOJ\p4740.py" />
     <Compile Include="BOJ\p5612.py" />
     <Compile Include="BOJ\p5691.py" />
     <Compile Include="BOJ\p6322.py" />
+    <Compile Include="BOJ\p9366.py" />
     <Compile Include="BOJ\p9517.py" />
     <Compile Include="BOJ\p10179.py" />
     <Compile Include="BOJ\p10188.py" />
@@ -205,6 +209,7 @@
     <Folder Include="BOJ\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BOJ\p18883.py" />
     <Content Include="BOJ\p31428.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
