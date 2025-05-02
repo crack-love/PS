@@ -1,0 +1,5 @@
+s = int(input())
+a = input()
+ec = a.count('e')
+tc = a.count('2')
+print('2' if tc > ec else 'e' if ec > tc else 'yee')
