@@ -23,10 +23,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BOJ\p10865.py" />
+    <Compile Include="BOJ\p11319.py" />
+    <Compile Include="BOJ\p11970.py" />
     <Compile Include="BOJ\p14579.py" />
+    <Compile Include="BOJ\p14913.py" />
+    <Compile Include="BOJ\p15784.py" />
+    <Compile Include="BOJ\p16504.py" />
     <Compile Include="BOJ\p16673.py" />
     <Compile Include="BOJ\p17174.py" />
     <Compile Include="BOJ\p17945.py" />
+    <Compile Include="BOJ\p18005.py" />
     <Compile Include="BOJ\p21312.py" />
     <Compile Include="BOJ\p10874.py" />
     <Compile Include="BOJ\p11034.py" />
@@ -53,10 +59,13 @@
     <Compile Include="BOJ\p23804.py" />
     <Compile Include="BOJ\p23806.py" />
     <Compile Include="BOJ\p25703.py" />
+    <Compile Include="BOJ\p27159.py" />
     <Compile Include="BOJ\p27465.py" />
     <Compile Include="BOJ\p28014.py" />
     <Compile Include="BOJ\p28214.py" />
+    <Compile Include="BOJ\p2863.py" />
     <Compile Include="BOJ\p33515.py" />
+    <Compile Include="BOJ\p4084.py" />
     <Compile Include="BOJ\p4619.py" />
     <Compile Include="BOJ\p4740.py" />
     <Compile Include="BOJ\p5612.py" />
@@ -229,6 +238,7 @@
     <Compile Include="BOJ\p9713.py" />
     <Compile Include="BOJ\p9772.py" />
     <Compile Include="BOJ\p9782.py" />
+    <Compile Include="BOJ\p9950.py" />
     <Compile Include="BOJ\_template.py" />
     <Compile Include="main.py" />
   </ItemGroup>
